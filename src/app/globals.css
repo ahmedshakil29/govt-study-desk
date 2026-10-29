@@ -1,0 +1,253 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ---------- design tokens ---------- */
+:root {
+  --paper: #f3f6f6;
+  --surface: #ffffff;
+  --ink: #12232e;
+  --ink-soft: #4b5d69;
+  --rule: #d3dce0;
+  --accent: #1f5fa6;
+  --mark: #ffd84d;
+  --code-bg: #e9eff1;
+
+  --tok-keyword: #1f5fa6;
+  --tok-string: #1b7a4b;
+  --tok-number: #b4540a;
+  --tok-fn: #7a3fa0;
+  --tok-comment: #62747f;
+}
+
+.dark {
+  --paper: #0e1820;
+  --surface: #14232e;
+  --ink: #e4edf1;
+  --ink-soft: #9db0bc;
+  --rule: #263a47;
+  --accent: #78b6f2;
+  --mark: #c79a1c;
+  --code-bg: #0a131a;
+
+  --tok-keyword: #7db8f5;
+  --tok-string: #7fd3a0;
+  --tok-number: #f0a765;
+  --tok-fn: #c9a0e8;
+  --tok-comment: #7f93a0;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-soft: var(--ink-soft);
+  --color-rule: var(--rule);
+  --color-accent: var(--accent);
+  --color-mark: var(--mark);
+
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Source Serif 4 Variable", Georgia, "Times New Roman", serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+/* ---------- base ---------- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: color-mix(in oklab, var(--mark) 70%, transparent);
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  * {
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---------- the one memorable element: engineering graph paper ---------- */
+.graph-paper {
+  --minor: color-mix(in oklab, var(--accent) 13%, transparent);
+  --major: color-mix(in oklab, var(--accent) 26%, transparent);
+  background-image:
+    linear-gradient(to right, var(--major) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--major) 1px, transparent 1px),
+    linear-gradient(to right, var(--minor) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--minor) 1px, transparent 1px);
+  background-size: 120px 120px, 120px 120px, 24px 24px, 24px 24px;
+  mask-image: linear-gradient(to bottom, #000 35%, transparent);
+}
+
+/* ---------- reading typography ---------- */
+.study-prose {
+  font-family: var(--font-serif);
+  font-size: 1.125rem;
+  line-height: 1.75;
+  color: var(--ink);
+  overflow-wrap: break-word;
+}
+
+.study-prose > :first-child {
+  margin-top: 0;
+}
+
+.study-prose h1,
+.study-prose h2,
+.study-prose h3,
+.study-prose h4 {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  scroll-margin-top: 5rem;
+}
+
+.study-prose h1 { font-size: 2.1rem; margin: 0 0 1.25rem; }
+.study-prose h2 { font-size: 1.6rem; margin: 2.75rem 0 0.9rem; }
+.study-prose h3 { font-size: 1.3rem; margin: 2rem 0 0.7rem; }
+.study-prose h4 { font-size: 1.1rem; margin: 1.5rem 0 0.5rem; }
+
+.study-prose p { margin: 1rem 0; }
+
+.study-prose a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.study-prose strong { font-weight: 650; }
+
+.study-prose ul,
+.study-prose ol { margin: 1rem 0; padding-left: 1.6rem; }
+.study-prose ul { list-style: disc; }
+.study-prose ol { list-style: decimal; }
+.study-prose li { margin: 0.35rem 0; padding-left: 0.2rem; }
+.study-prose li > ul,
+.study-prose li > ol { margin: 0.35rem 0; }
+.study-prose li::marker { color: var(--ink-soft); }
+.study-prose li.task-list-item { list-style: none; margin-left: -1.4rem; }
+.study-prose li.task-list-item input { margin-right: 0.5rem; accent-color: var(--accent); }
+
+.study-prose blockquote {
+  margin: 1.5rem 0;
+  padding: 0.1rem 0 0.1rem 1.1rem;
+  border-left: 3px solid var(--mark);
+  color: var(--ink-soft);
+}
+
+.study-prose hr { margin: 2.5rem 0; border: 0; border-top: 1px solid var(--rule); }
+
+.study-prose img { max-width: 100%; height: auto; margin: 1.5rem auto; border-radius: 4px; }
+
+.study-prose code {
+  font-family: var(--font-mono);
+  font-size: 0.86em;
+  background: var(--code-bg);
+  padding: 0.12em 0.35em;
+  border-radius: 4px;
+}
+
+.study-prose pre {
+  margin: 1.5rem 0;
+  padding: 1rem 1.1rem;
+  overflow-x: auto;
+  background: var(--code-bg);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+.study-prose pre code { background: none; padding: 0; font-size: inherit; }
+
+.study-prose kbd {
+  font-family: var(--font-mono);
+  font-size: 0.8em;
+  border: 1px solid var(--rule);
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  padding: 0.05em 0.4em;
+}
+
+.study-prose .table-wrap { margin: 1.5rem 0; overflow-x: auto; }
+.study-prose table { border-collapse: collapse; font-family: var(--font-sans); font-size: 0.95rem; line-height: 1.5; }
+.study-prose th,
+.study-prose td { padding: 0.5rem 0.9rem; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
+.study-prose thead th { border-bottom: 2px solid var(--ink); font-weight: 600; }
+
+.study-prose .katex-display { margin: 1.4rem 0; overflow-x: auto; overflow-y: hidden; }
+
+.study-prose section[data-footnotes] {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+}
+
+.study-prose details { margin: 1rem 0; }
+.study-prose summary { cursor: pointer; font-weight: 600; }
+
+/* ---------- code highlighting (highlight.js classes) ---------- */
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-built_in,
+.hljs-type,
+.hljs-doctag { color: var(--tok-keyword); }
+
+.hljs-string,
+.hljs-regexp,
+.hljs-addition,
+.hljs-symbol { color: var(--tok-string); }
+
+.hljs-number,
+.hljs-literal,
+.hljs-attr,
+.hljs-attribute,
+.hljs-variable,
+.hljs-template-variable { color: var(--tok-number); }
+
+.hljs-title,
+.hljs-section,
+.hljs-name,
+.hljs-selector-class,
+.hljs-selector-id { color: var(--tok-fn); }
+
+.hljs-comment,
+.hljs-quote,
+.hljs-deletion,
+.hljs-meta { color: var(--tok-comment); font-style: italic; }
+
+.hljs-emphasis { font-style: italic; }
+.hljs-strong { font-weight: 700; }
