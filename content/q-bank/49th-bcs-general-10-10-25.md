@@ -2253,5 +2253,3 @@ The passive form can be: Subject + was/were + thought + to be + complement
 - ক. PR = 2QR ভুল, কারণ QR = (√3/2)PR।
 - খ. PQ = 2PR অসম্ভব, কারণ সমকোণী ত্রিভুজে কোনো বাহু অতিভুজের চেয়ে বড় হতে পারে না।
 - ঘ. QR = 2PQ ভুল, কারণ QR = √3·PQ ≈ 1.73·PQ।
-
----
