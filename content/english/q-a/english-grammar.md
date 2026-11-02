@@ -6,7 +6,7 @@
 
 ## English Language and Literature
 
-### ২১. Pick the correctly spelt word:
+### ২১. Pick the correctly spelt word: (BCS-49)
 
 - ক. Conscintious
 - খ. Consientious
@@ -25,7 +25,7 @@
 
 ---
 
-### ২২. They talked about going on a vacation. Here 'going' is a/an—
+### ২২. They talked about going on a vacation. Here 'going' is a/an— (BCS-49)
 
 - ক. participle
 - খ. infinitive
@@ -52,7 +52,7 @@
 
 ---
 
-### ২৩. The novel 'Wuthering Heights' was penned by the author under the pen name—
+### ২৩. The novel 'Wuthering Heights' was penned by the author under the pen name— (BCS-49)
 
 - ক. Ellise Bellet
 - খ. Ellis Belle
@@ -76,7 +76,7 @@
 
 ---
 
-### ২৪. Which gender is the noun 'neighbour'?
+### ২৪. Which gender is the noun 'neighbour'? (BCS-49)
 
 - ক. Masculine
 - খ. Feminine
@@ -98,7 +98,7 @@
 
 ---
 
-### ২৫. 'Someone sneezed loudly at the back of the hall'. In this sentence the verb 'sneezed' is—
+### ২৫. 'Someone sneezed loudly at the back of the hall'. In this sentence the verb 'sneezed' is— (BCS-49)
 
 - ক. causative
 - **খ. intransitive** ✅
@@ -116,7 +116,7 @@
 
 ---
 
-### ২৬. A person who leaves his/her own country to settle permanently in another is called a/an—
+### ২৬. A person who leaves his/her own country to settle permanently in another is called a/an— (BCS-49)
 
 - ক. immigrant
 - খ. expatriate
@@ -135,7 +135,7 @@
 
 ---
 
-### ২৭. Identify the word that can be used as both singular and plural:
+### ২৭. Identify the word that can be used as both singular and plural: (BCS-49)
 
 - ক. light
 - খ. shot
@@ -156,7 +156,7 @@
 
 ---
 
-### ২৮. Identify the correct passive form: "People thought that the despot was corrupt."
+### ২৮. Identify the correct passive form: "People thought that the despot was corrupt." (BCS-49)
 
 - ক. The despot had been thought to be corrupt.
 - খ. It was thought that the despot was corrupt.
@@ -185,7 +185,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ২৯. 'After lunch we went for a leisurely stroll'. Here 'leisurely' is a/an—
+### ২৯. 'After lunch we went for a leisurely stroll'. Here 'leisurely' is a/an— (BCS-49)
 
 - ক. adverb
 - **খ. adjective** ✅
@@ -203,7 +203,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩০. The play "Englishmen for My Money" was written by—
+### ৩০. The play "Englishmen for My Money" was written by— (BCS-49)
 
 - ক. Christopher Marlowe
 - খ. Thomas Kyd
@@ -226,7 +226,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩১. "... I cannot but conclude the Bulk of your Natives, to be the most pernicious race of little odious vermin that Nature ever suffered to crawl upon the surface of the Earth." The statement occurs in—
+### ৩১. "... I cannot but conclude the Bulk of your Natives, to be the most pernicious race of little odious vermin that Nature ever suffered to crawl upon the surface of the Earth." The statement occurs in— (BCS-49)
 
 - ক. Robinson Crusoe
 - খ. A Doll's House
@@ -251,7 +251,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩২. 'We know that the earth is a planet'. The underlined part is a/an—
+### ৩২. 'We know that the earth is a planet'. The underlined part is a/an— (BCS-49)
 
 - **ক. noun clause** ✅
 - খ. adverbial clause
@@ -276,7 +276,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৩. Select the sentence in which 'better' is an adverb.
+### ৩৩. Select the sentence in which 'better' is an adverb. (BCS-49)
 
 - ক. We're helping for better weather tomorrow.
 - **খ. Sound travels better in water than in air.** ✅
@@ -297,7 +297,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৪. Fill in the blank: 'Selina knocked it **\_\_** the park with her performance in culinary art.'
+### ৩৪. Fill in the blank: 'Selina knocked it **\_\_** the park with her performance in culinary art.' (BCS-49)
 
 - ক. outside
 - **খ. out of** ✅
@@ -318,7 +318,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৫. The idiom 'icing on the cake' means—
+### ৩৫. The idiom 'icing on the cake' means— (BCS-49)
 
 - ক. a slice of the cake
 - **খ. an attractive but unnecessary addition** ✅
@@ -340,7 +340,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৬. Choose the synonym for 'fright':
+### ৩৬. Choose the synonym for 'fright': (BCS-49)
 
 - ক. placidity
 - খ. composure
@@ -359,7 +359,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৭. "Rubiyat of Khayyam" is attributed to—
+### ৩৭. "Rubiyat of Khayyam" is attributed to— (BCS-49)
 
 - **ক. Edward FitzGerald** ✅
 - খ. Scott Fitzgerald
@@ -376,7 +376,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৮. 'We work every day except Friday.' In this sentence 'except' is a/an—
+### ৩৮. 'We work every day except Friday.' In this sentence 'except' is a/an— (BCS-49)
 
 - ক. adjective
 - খ. noun
@@ -396,7 +396,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৯. Who wrote "A Vindication of the Rights of Women"?
+### ৩৯. Who wrote "A Vindication of the Rights of Women"? (BCS-49)
 
 - ক. Claire Clairmont
 - খ. Marry Wollstonecraft
@@ -417,7 +417,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৪০. Which sentence is correct?
+### ৪০. Which sentence is correct? (BCS-49)
 
 - ক. The picture was hanged on the wall.
 - **খ. The picture was hung on the wall.** ✅
