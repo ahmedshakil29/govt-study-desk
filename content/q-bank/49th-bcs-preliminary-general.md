@@ -8,7 +8,7 @@
 
 ---
 
-### ১. 'পরিবার থেকেই শিক্ষার শুরু'—এখানে 'থেকে' শব্দের সাথে যুক্ত 'ই'-এর ব্যাকরণিক পরিচয় কী? (BCS-49)
+### ১. 'পরিবার থেকেই শিক্ষার শুরু'—এখানে 'থেকে' শব্দের সাথে যুক্ত 'ই'-এর ব্যাকরণিক পরিচয় কী? [BCS-49]
 
 - ক. উপসর্গ
 - খ. প্রত্যয়
@@ -25,7 +25,7 @@
 
 ---
 
-### ২. আহমদ শরীফের মতে মধ্যযুগে চণ্ডীদাস নামে কতজন কবি ছিলেন? (BCS-49)
+### ২. আহমদ শরীফের মতে মধ্যযুগে চণ্ডীদাস নামে কতজন কবি ছিলেন? [BCS-49]
 
 - ক. ২
 - **খ. ৩** ✅
@@ -45,7 +45,7 @@
 
 ---
 
-### ৩. মধুসূদন দত্তের পূর্ববর্তী গুরুত্বপূর্ণ কবি কে? (BCS-49)
+### ৩. মধুসূদন দত্তের পূর্ববর্তী গুরুত্বপূর্ণ কবি কে? [BCS-49]
 
 - ক. রবীন্দ্রনাথ ঠাকুর
 - খ. কায়কোবাদ
@@ -70,7 +70,7 @@
 
 ---
 
-### ৪. 'এ কাজ করতে আমি বদ্ধ পরিকর'—এখানে 'পরিকর' শব্দের অর্থ কী? (BCS-49)
+### ৪. 'এ কাজ করতে আমি বদ্ধ পরিকর'—এখানে 'পরিকর' শব্দের অর্থ কী? [BCS-49]
 
 - ক. শ্বাস
 - খ. প্রতিজ্ঞা
@@ -85,7 +85,7 @@
 
 ---
 
-### ৫. 'শিক্ষককে বুঝতে হবে শিক্ষার্থী কী চায়'—এই বাক্যে শিক্ষক ও শিক্ষার্থীর প্রয়োগ হয়েছে— (BCS-49)
+### ৫. 'শিক্ষককে বুঝতে হবে শিক্ষার্থী কী চায়'—এই বাক্যে শিক্ষক ও শিক্ষার্থীর প্রয়োগ হয়েছে— [BCS-49]
 
 - ক. একবচন বোঝাতে
 - খ. বহুবচন বোঝাতে
@@ -98,7 +98,7 @@
 
 ---
 
-### ৬. 'তিনি কথা শুনে ঘুমাতে পারলেন না'—বাক্যটির অস্তিবাচক রূপ কী হবে? (BCS-49)
+### ৬. 'তিনি কথা শুনে ঘুমাতে পারলেন না'—বাক্যটির অস্তিবাচক রূপ কী হবে? [BCS-49]
 
 - ক. তিনি কথা না শুনে ঘুমাতে পারলেন না
 - খ. তিনি কথা না শুনে ঘুমাতে পারলেন
@@ -119,7 +119,7 @@
 
 ---
 
-### ৭. কোন্ ধ্বনি পরিবর্তনটি যথাযথ নয়? (BCS-49)
+### ৭. কোন্ ধ্বনি পরিবর্তনটি যথাযথ নয়? [BCS-49]
 
 - ক. ক্রন্দন > কাঁদা
 - খ. অঞ্চল > আঁচল
@@ -138,7 +138,7 @@
 
 ---
 
-### ৮. কাজী নজরুল ইসলামের কোন উপন্যাসের কেন্দ্রীয় চরিত্র জাহাঙ্গীর? (BCS-49)
+### ৮. কাজী নজরুল ইসলামের কোন উপন্যাসের কেন্দ্রীয় চরিত্র জাহাঙ্গীর? [BCS-49]
 
 - ক. বাঁধন-হারা
 - খ. মৃত্যুক্ষুধা
@@ -165,7 +165,7 @@
 
 ---
 
-### ৯. 'উৎক্ষেপণ' শব্দের 'উৎ' উপসর্গ কোন্ অর্থ ধারণ করেছে? (BCS-49)
+### ৯. 'উৎক্ষেপণ' শব্দের 'উৎ' উপসর্গ কোন্ অর্থ ধারণ করেছে? [BCS-49]
 
 - ক. জোর
 - **খ. ঊর্ধ্ব** ✅
@@ -187,7 +187,7 @@
 
 ---
 
-### ১০. রবীন্দ্রনাথ ঠাকুর শব্দের শুরুতে মাত্রাযুক্ত এ-কার ব্যবহার করতেন কেন? (BCS-49)
+### ১০. রবীন্দ্রনাথ ঠাকুর শব্দের শুরুতে মাত্রাযুক্ত এ-কার ব্যবহার করতেন কেন? [BCS-49]
 
 - ক. এ-কার মাত্রা যুক্ত বলে
 - খ. 'এ' মাত্রাহীন বর্ণ বলে
@@ -202,7 +202,7 @@
 
 ---
 
-### ১১. কোন শব্দটি প্রত্যয়যোগে গঠিত? (BCS-49)
+### ১১. কোন শব্দটি প্রত্যয়যোগে গঠিত? [BCS-49]
 
 - **ক. ডাক্তারখানা** ✅
 - খ. হাসপাতাল
@@ -219,7 +219,7 @@
 
 ---
 
-### ১২. 'সত্যকে স্বীকার করতে অনেক ব্যক্তিরাই চায়না।'—এখানে ভুল ঘটেছে— (BCS-49)
+### ১২. 'সত্যকে স্বীকার করতে অনেক ব্যক্তিরাই চায়না।'—এখানে ভুল ঘটেছে— [BCS-49]
 
 - ক. বানান ও প্রত্যয়ের
 - খ. অর্থ ও বচনের
@@ -236,7 +236,7 @@
 
 ---
 
-### ১৩. পরিভাষিক শব্দ বলতে বুঝায়— (BCS-49)
+### ১৩. পরিভাষিক শব্দ বলতে বুঝায়— [BCS-49]
 
 - ক. ইংরেজি শব্দের বাংলা রূপান্তর
 - খ. বিদেশি শব্দের অনুবাদ
@@ -253,7 +253,7 @@
 
 ---
 
-### ১৪. 'মৃগয়া' শব্দের মৃগ বলতে কী বোঝানো হয়? (BCS-49)
+### ১৪. 'মৃগয়া' শব্দের মৃগ বলতে কী বোঝানো হয়? [BCS-49]
 
 - ক. বানর
 - খ. সিংহ
@@ -273,7 +273,7 @@
 
 ---
 
-### ১৫. কোন শব্দটি বিসর্গসন্ধির মাধ্যমে গঠিত? (BCS-49)
+### ১৫. কোন শব্দটি বিসর্গসন্ধির মাধ্যমে গঠিত? [BCS-49]
 
 - **ক. নীরব** ✅
 - খ. উজ্জ্বল
@@ -297,7 +297,7 @@
 
 ---
 
-### ১৬. ভাষার অর্থযুক্ত ক্ষুদ্রতম একক কোনটি? (BCS-49)
+### ১৬. ভাষার অর্থযুক্ত ক্ষুদ্রতম একক কোনটি? [BCS-49]
 
 - ক. অক্ষর
 - **খ. রূপমূল** ✅
@@ -323,7 +323,7 @@
 
 ---
 
-### ১৭. ধ্বনি ও বর্ণের পার্থক্য কোথায়? (BCS-49)
+### ১৭. ধ্বনি ও বর্ণের পার্থক্য কোথায়? [BCS-49]
 
 - ক. লেখার ধরনে
 - খ. উচ্চারণের বিশিষ্টতায়
@@ -345,7 +345,7 @@
 
 ---
 
-### ১৮. চর্যাপদের খণ্ডিত পদগুলো তিব্বতি থেকে প্রাচীন বাংলায় রূপান্তর করেন— (BCS-49)
+### ১৮. চর্যাপদের খণ্ডিত পদগুলো তিব্বতি থেকে প্রাচীন বাংলায় রূপান্তর করেন— [BCS-49]
 
 - ক. সুনীতিকুমার চট্টোপাধ্যায়
 - খ. হরপ্রসাদ শাস্ত্রী
@@ -375,7 +375,7 @@
 
 ---
 
-### ১৯. 'স্বাধীন' শব্দের ব্যাসবাক্য কোনটি? (BCS-49)
+### ১৯. 'স্বাধীন' শব্দের ব্যাসবাক্য কোনটি? [BCS-49]
 
 - ক. স্বীয়-এর অধীন
 - খ. সত্তার অধীন
@@ -397,7 +397,7 @@
 
 ---
 
-### ২০. ফররুখ আহমদের গ্রন্থ কোনটি? (BCS-49)
+### ২০. ফররুখ আহমদের গ্রন্থ কোনটি? [BCS-49]
 
 - **ক. হরফের ছড়া** ✅
 - খ. বর্ণশিক্ষা
@@ -425,7 +425,7 @@
 
 ## English Language and Literature
 
-### ২১. Pick the correctly spelt word: (BCS-49)
+### ২১. Pick the correctly spelt word: [BCS-49]
 
 - ক. Conscintious
 - খ. Consientious
@@ -444,7 +444,7 @@
 
 ---
 
-### ২২. They talked about going on a vacation. Here 'going' is a/an— (BCS-49)
+### ২২. They talked about going on a vacation. Here 'going' is a/an— [BCS-49]
 
 - ক. participle
 - খ. infinitive
@@ -471,7 +471,7 @@
 
 ---
 
-### ২৩. The novel 'Wuthering Heights' was penned by the author under the pen name— (BCS-49)
+### ২৩. The novel 'Wuthering Heights' was penned by the author under the pen name— [BCS-49]
 
 - ক. Ellise Bellet
 - খ. Ellis Belle
@@ -495,7 +495,7 @@
 
 ---
 
-### ২৪. Which gender is the noun 'neighbour'? (BCS-49)
+### ২৪. Which gender is the noun 'neighbour'? [BCS-49]
 
 - ক. Masculine
 - খ. Feminine
@@ -517,7 +517,7 @@
 
 ---
 
-### ২৫. 'Someone sneezed loudly at the back of the hall'. In this sentence the verb 'sneezed' is— (BCS-49)
+### ২৫. 'Someone sneezed loudly at the back of the hall'. In this sentence the verb 'sneezed' is— [BCS-49]
 
 - ক. causative
 - **খ. intransitive** ✅
@@ -535,7 +535,7 @@
 
 ---
 
-### ২৬. A person who leaves his/her own country to settle permanently in another is called a/an— (BCS-49)
+### ২৬. A person who leaves his/her own country to settle permanently in another is called a/an— [BCS-49]
 
 - ক. immigrant
 - খ. expatriate
@@ -554,7 +554,7 @@
 
 ---
 
-### ২৭. Identify the word that can be used as both singular and plural: (BCS-49)
+### ২৭. Identify the word that can be used as both singular and plural: [BCS-49]
 
 - ক. light
 - খ. shot
@@ -575,7 +575,7 @@
 
 ---
 
-### ২৮. Identify the correct passive form: "People thought that the despot was corrupt." (BCS-49)
+### ২৮. Identify the correct passive form: "People thought that the despot was corrupt." [BCS-49]
 
 - ক. The despot had been thought to be corrupt.
 - খ. It was thought that the despot was corrupt.
@@ -604,7 +604,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ২৯. 'After lunch we went for a leisurely stroll'. Here 'leisurely' is a/an— (BCS-49)
+### ২৯. 'After lunch we went for a leisurely stroll'. Here 'leisurely' is a/an— [BCS-49]
 
 - ক. adverb
 - **খ. adjective** ✅
@@ -622,7 +622,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩০. The play "Englishmen for My Money" was written by— (BCS-49)
+### ৩০. The play "Englishmen for My Money" was written by— [BCS-49]
 
 - ক. Christopher Marlowe
 - খ. Thomas Kyd
@@ -645,7 +645,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩১. "... I cannot but conclude the Bulk of your Natives, to be the most pernicious race of little odious vermin that Nature ever suffered to crawl upon the surface of the Earth." The statement occurs in— (BCS-49)
+### ৩১. "... I cannot but conclude the Bulk of your Natives, to be the most pernicious race of little odious vermin that Nature ever suffered to crawl upon the surface of the Earth." The statement occurs in— [BCS-49]
 
 - ক. Robinson Crusoe
 - খ. A Doll's House
@@ -670,7 +670,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩২. 'We know that the earth is a planet'. The underlined part is a/an— (BCS-49)
+### ৩২. 'We know that the earth is a planet'. The underlined part is a/an— [BCS-49]
 
 - **ক. noun clause** ✅
 - খ. adverbial clause
@@ -695,7 +695,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৩. Select the sentence in which 'better' is an adverb. (BCS-49)
+### ৩৩. Select the sentence in which 'better' is an adverb. [BCS-49]
 
 - ক. We're helping for better weather tomorrow.
 - **খ. Sound travels better in water than in air.** ✅
@@ -716,7 +716,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৪. Fill in the blank: 'Selina knocked it **\_\_** the park with her performance in culinary art.' (BCS-49)
+### ৩৪. Fill in the blank: 'Selina knocked it **\_\_** the park with her performance in culinary art.' [BCS-49]
 
 - ক. outside
 - **খ. out of** ✅
@@ -737,7 +737,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৫. The idiom 'icing on the cake' means— (BCS-49)
+### ৩৫. The idiom 'icing on the cake' means— [BCS-49]
 
 - ক. a slice of the cake
 - **খ. an attractive but unnecessary addition** ✅
@@ -759,7 +759,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৬. Choose the synonym for 'fright': (BCS-49)
+### ৩৬. Choose the synonym for 'fright': [BCS-49]
 
 - ক. placidity
 - খ. composure
@@ -778,7 +778,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৭. "Rubiyat of Khayyam" is attributed to— (BCS-49)
+### ৩৭. "Rubiyat of Khayyam" is attributed to— [BCS-49]
 
 - **ক. Edward FitzGerald** ✅
 - খ. Scott Fitzgerald
@@ -795,7 +795,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৮. 'We work every day except Friday.' In this sentence 'except' is a/an— (BCS-49)
+### ৩৮. 'We work every day except Friday.' In this sentence 'except' is a/an— [BCS-49]
 
 - ক. adjective
 - খ. noun
@@ -815,7 +815,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৩৯. Who wrote "A Vindication of the Rights of Women"? (BCS-49)
+### ৩৯. Who wrote "A Vindication of the Rights of Women"? [BCS-49]
 
 - ক. Claire Clairmont
 - খ. Marry Wollstonecraft
@@ -836,7 +836,7 @@ The passive form can be: Subject + was/were + thought + to be + complement
 
 ---
 
-### ৪০. Which sentence is correct? (BCS-49)
+### ৪০. Which sentence is correct? [BCS-49]
 
 - ক. The picture was hanged on the wall.
 - **খ. The picture was hung on the wall.** ✅
