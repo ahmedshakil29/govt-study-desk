@@ -6,8 +6,6 @@
 
 ---
 
-## English Literature
-
 ### ১. The novel 'Wuthering Heights' was penned by the author under the pen name— [BCS-49]
 
 - ক. Ellise Bellet

@@ -6,8 +6,6 @@
 
 ---
 
-## English Language
-
 ### ১. Pick the correctly spelt word: [BCS-49]
 
 - ক. Conscintious
