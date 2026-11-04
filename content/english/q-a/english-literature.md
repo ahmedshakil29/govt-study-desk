@@ -6,7 +6,7 @@
 
 ## English Literature
 
-### ২৩. The novel 'Wuthering Heights' was penned by the author under the pen name— [BCS-49]
+### ১. The novel 'Wuthering Heights' was penned by the author under the pen name— [BCS-49]
 
 - ক. Ellise Bellet
 - খ. Ellis Belle
@@ -30,7 +30,7 @@
 
 ---
 
-### ৩০. The play "Englishmen for My Money" was written by— [BCS-49]
+### ২. The play "Englishmen for My Money" was written by— [BCS-49]
 
 - ক. Christopher Marlowe
 - খ. Thomas Kyd
@@ -53,7 +53,7 @@
 
 ---
 
-### ৩১. "... I cannot but conclude the Bulk of your Natives, to be the most pernicious race of little odious vermin that Nature ever suffered to crawl upon the surface of the Earth." The statement occurs in— [BCS-49]
+### ৩. "... I cannot but conclude the Bulk of your Natives, to be the most pernicious race of little odious vermin that Nature ever suffered to crawl upon the surface of the Earth." The statement occurs in— [BCS-49]
 
 - ক. Robinson Crusoe
 - খ. A Doll's House
@@ -78,7 +78,7 @@
 
 ---
 
-### ৩৭. "Rubiyat of Khayyam" is attributed to— [BCS-49]
+### ৪. "Rubiyat of Khayyam" is attributed to— [BCS-49]
 
 - **ক. Edward FitzGerald** ✅
 - খ. Scott Fitzgerald
@@ -95,7 +95,7 @@
 
 ---
 
-### ৩৯. Who wrote "A Vindication of the Rights of Women"? [BCS-49]
+### ৫. Who wrote "A Vindication of the Rights of Women"? [BCS-49]
 
 - ক. Claire Clairmont
 - খ. Marry Wollstonecraft
@@ -113,29 +113,5 @@
 - **Mary Shelley:** Wollstonecraft-এর কন্যা, _Frankenstein_ (১৮১৮)-এর লেখক।
 
 ⚠️ **নোট:** বইটি প্রকাশের সময় (১৭৯২) তিনি 'Godwin' পদবি ব্যবহার করতেন না; বিয়ের পর (১৭৯৭) এই নাম। পরিচিত নাম **Mary Wollstonecraft**। চারটি অপশনের মধ্যে সঠিক বানানের ও সঠিক ব্যক্তি **গ**, তাই এটি উত্তর। প্রশ্নে 'Women' লেখা হয়েছে, মূল নাম 'Woman'।
-
----
-
-### ৪০. Which sentence is correct? [BCS-49]
-
-- ক. The picture was hanged on the wall.
-- **খ. The picture was hung on the wall.** ✅
-- গ. The picture was hunged on the wall.
-- ঘ. The picture had hanged on the wall.
-
-**ব্যাখ্যা:** **hang** verb-এর দুটি অর্থে দুটি আলাদা past form:
-
-| অর্থ                   | Past / Past participle | উদাহরণ                                |
-| ---------------------- | ---------------------- | ------------------------------------- |
-| ঝোলানো, টাঙানো (বস্তু) | **hung**               | The picture was **hung** on the wall. |
-| ফাঁসি দেওয়া           | **hanged**             | He was **hanged** for murder.         |
-
-ছবি দেয়ালে টাঙানো হয়েছে, তাই **hung**।
-
-**ভুল অপশন:**
-
-- **ক:** 'hanged' ফাঁসির অর্থে।
-- **গ:** 'hunged' বলে কোনো শব্দ নেই।
-- **ঘ:** 'hanged' ভুল, তাছাড়া past perfect ('had hanged') এখানে অপ্রয়োজনীয়।
 
 ---
