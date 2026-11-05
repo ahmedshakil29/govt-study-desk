@@ -1,52 +1,6 @@
-# English Question Bank (Bank Job) — যাচাইকৃত সংস্করণ
+# English Question Bank (Bank Job) - (CTI)
 
-**উৎস:** PDF "English Question Bank (CTI) — Combined 7 Banks" (Collected by Araf Hasan Jheel, SO, ICB)
-**মোট প্রশ্ন:** ১০২টি (৬টি সেকশন), মূল ক্রম অক্ষুণ্ণ।
-
-| সেকশন | পরীক্ষা | তারিখ | প্রশ্ন |
-|---|---|---|---|
-| ১ | CTI — Officer (Cash) | ০৩.০৭.২০২৬ | ২৫ |
-| ২ | Combined 6 Banks & 2 FIs — Officer (General) | ৩১.০১.২০২৬ | ২৫ |
-| ৩ | SPCBL — Assistant Manager (General) | ২৬.১১.২০২১ | ২০ |
-| ৪ | SPCBL — Officer (General) | ৩০.১০.২০২১ | ১৬ |
-| ৫ | SPCBL — Assistant Manager (Examination) | ২৩.১০.২০২১ | ৫ |
-| ৬ | NSI — Assistant Director | ০৮.১০.২০২১ | ১১ (PDF-এ) |
-
-> **দ্রষ্টব্য:** সেকশন ৬-এর হেডারে "Questions: 20" লেখা, কিন্তু PDF-এ মাত্র ১১টি প্রশ্ন আছে। বাকি ৯টি PDF-এ নেই, তাই এখানেও নেই।
-> **দ্রষ্টব্য:** PDF-এর বাংলা ব্যাখ্যার অনেক অক্ষর ভাঙা ছিল। সব ব্যাখ্যা নতুন করে লেখা হয়েছে।
-> **GK/তথ্য যাচাই:** এই PDF-এ গণিত বা GK প্রশ্ন নেই। একমাত্র তথ্যভিত্তিক বিষয় সেকশন ৬-এর ১ নম্বর প্রশ্নের উক্তির উৎস, যা web search-এ মিলিয়েছি।
-
----
-
-## ⚠️ PDF-এর উত্তরে ভুল / বিতর্কিত বিষয়ের তালিকা
-
-প্রতিটি প্রশ্ন নিজে যাচাই করেছি। **নিশ্চিতভাবে ভুল (যেখানে PDF-এর উত্তরটি কোনোভাবেই গ্রহণযোগ্য নয়) এমন উত্তর পাইনি।** তবে নিচের প্রশ্নগুলোতে PDF-এর কী বা প্রশ্নের গঠনে সমস্যা আছে:
-
-| প্রশ্ন | PDF-এর উত্তর | আমার যাচাই | কারণ |
-|---|---|---|---|
-| সেকশন ২, প্রশ্ন ১ | the | **a** (বিতর্কিত) | নির্দিষ্ট করে বলা না থাকলে "wants a dress" স্বাভাবিক। `the` তখনই হবে যখন নির্দিষ্ট পোশাকের কথা আগে থেকে জানা। |
-| সেকশন ২, প্রশ্ন ২ | preposition | preposition (শর্তসাপেক্ষে) | Underlined শব্দটি PDF-এ দেখা যায় না। "After" ধরে নিলে উত্তর ঠিক। বাক্যটিতেও ভুল আছে (`arrived at`)। |
-| সেকশন ২, প্রশ্ন ৬ | c | c | অপশন b-এর শুরুতে ছোট হাতের `the` আছে (সম্ভবত ছাপার ভুল)। ব্যাকরণগত ভুল মূলত c-তে। |
-| সেকশন ৬, প্রশ্ন ১ | With | With | PDF-এর "Churchill-এর বিখ্যাত উক্তি" দাবিটি যাচাইযোগ্য নয় (বিস্তারিত ওই প্রশ্নে)। |
-
-**একাধিক উত্তর গ্রহণযোগ্য এমন প্রশ্ন (PDF একটি কী দিয়েছে):**
-
-| প্রশ্ন | PDF-এর কী | অন্য গ্রহণযোগ্য উত্তর |
-|---|---|---|
-| সেকশন ১, প্রশ্ন ৪ | d) require | c) compel |
-| সেকশন ১, প্রশ্ন ৬ | a) as high as | b) higher than |
-| সেকশন ১, প্রশ্ন ৯ | b) is used to | d) got used to |
-| সেকশন ১, প্রশ্ন ১৩ | c) Having signed | d) After they signed |
-| সেকশন ১, প্রশ্ন ২০ | a, b, c তিনটিই | PDF নিজেই তিনটি দিয়েছে |
-| সেকশন ২, প্রশ্ন ১১ | b) has been teaching | d) has taught |
-| সেকশন ২, প্রশ্ন ১৭ | b) whom | d) that |
-| সেকশন ৪, প্রশ্ন ৪ | d | a (ব্যাকরণগতভাবে শুদ্ধ, তবে অস্পষ্ট) |
-| সেকশন ৫, প্রশ্ন ১ | d) apathy | c) indolence |
-| সেকশন ৬, প্রশ্ন ১১ | b) lest she should be | a) lest she be |
-
----
-
-# সেকশন ১: CTI — Officer (Cash) | ০৩.০৭.২০২৬
+# Combined 7 Banks — Officer (Cash) | 03.07.2026
 
 ### ১. By the time the rescue team arrived, the flood ... most of the village.
 
@@ -96,7 +50,7 @@
 
 **ব্যাখ্যা:** `require someone to do something` = কাউকে কিছু করা আবশ্যক করা। বিধি/নিয়মের (regulation) সাথে `require` সবচেয়ে স্বাভাবিক।
 
-⚠️ **নোট:** `compel someone to do something` (বাধ্য করা) ব্যাকরণগতভাবে শুদ্ধ। তবে `compel` বলপ্রয়োগের মতো জোরালো অর্থ দেয়, আর regulation-এর ক্ষেত্রে `require` প্রচলিত। তাই PDF-এর কী `require` রাখা হলো।
+⚠️ **নোট:** `compel someone to do something` (বাধ্য করা) ব্যাকরণগতভাবে শুদ্ধ। তবে `compel` বলপ্রয়োগের মতো জোরালো অর্থ দেয়, আর regulation-এর ক্ষেত্রে `require` প্রচলিত। তাই `require`।
 
 **ভুল অপশন:** `affect` (প্রভাবিত করা) ও `effect` (ফল; ক্রিয়া হলে "ঘটানো") এর পরে `to wear` বসে না।
 
@@ -122,7 +76,7 @@
 
 **ব্যাখ্যা:** Degree পরিবর্তনের নিয়ম: **No other + positive degree: as + adj + as** → "No other mountain is as high as Everest."। উদাহরণ: No other boy in the class is as tall as Rahim.
 
-⚠️ **নোট:** `No other mountain is higher than Everest` ব্যাকরণগতভাবে শুদ্ধ। কারণ **No other + comparative + than** কাঠামোও চলে। প্রশ্নে দুটিই বসে। PDF-এর কী `a`, তাই `a` ধরা হলো। পরীক্ষায় একটিই থাকলে সেটিই দিন।
+⚠️ **নোট:** `No other mountain is higher than Everest` ব্যাকরণগতভাবে শুদ্ধ। কারণ **No other + comparative + than** কাঠামোও চলে। প্রশ্নে দুটিই বসে।
 
 **ভুল অপশন:** `the highest` ("No other" এর সাথে superlative বসে না), `higher as` (comparative-এর পরে as নয়, than হয়)।
 
@@ -163,7 +117,7 @@
 
 **ব্যাখ্যা:** `be used to + noun/V-ing` = অভ্যস্ত থাকা (বর্তমান অবস্থা)। সূত্র: **is/am/are used to + noun phrase**। উদাহরণ: He is used to the heat. `used to + verb` = আগে করত (এখন করে না)।
 
-⚠️ **নোট:** `got used to` (অভ্যস্ত হয়ে গেল) অতীত ঘটনা হিসেবে ব্যাকরণগতভাবে শুদ্ধ হতে পারে। তবে এখানে "দশ বছর পর এখন অভ্যস্ত" ভাব সবচেয়ে ভালো মেলে `is used to`-তে। PDF-এর কী `b`।
+⚠️ **নোট:** `got used to` (অভ্যস্ত হয়ে গেল) অতীত ঘটনা হিসেবে ব্যাকরণগতভাবে শুদ্ধ হতে পারে। তবে এখানে "দশ বছর পর এখন অভ্যস্ত" ভাব সবচেয়ে ভালো মেলে `is used to`-তে।
 
 **ভুল অপশন:** `used to` (verb-এর আগে বসে, noun-এর আগে নয়), `was used to` (অতীত অবস্থা, "After a decade" এর সাথে কম মানানসই)।
 
@@ -215,7 +169,7 @@
 
 **ব্যাখ্যা:** একটি কাজ শেষ করে আরেকটি শুরু বোঝাতে **Perfect Participle (Having + V₃)**। কর্তা একই হলে (the two nations) এই কাঠামো চলে। উদাহরণ: Having finished the work, he left.
 
-⚠️ **নোট:** `After they signed the treaty, ...` ব্যাকরণগতভাবে সম্পূর্ণ শুদ্ধ। প্রশ্নটি participle phrase যাচাই করছে ধরে PDF-এর কী `c` রাখা হলো।
+⚠️ **নোট:** `After they signed the treaty, ...` ব্যাকরণগতভাবে সম্পূর্ণ শুদ্ধ। প্রশ্নটি participle phrase যাচাই করছে ধরে `c` হলো।
 
 **ভুল অপশন:** `Signing` (একই সময়ের কাজ বোঝায়, আগে-পরে নয়), `Signed` (passive অর্থ, কর্তার সাথে মেলে না)।
 
@@ -306,7 +260,7 @@
 
 **ব্যাখ্যা:** **Concur** = একমত হওয়া। সমার্থক: agree, assent, consent (মোটামুটি)। `Disagree` বিপরীত শব্দ।
 
-⚠️ **নোট:** প্রশ্নে তিনটি অপশনই গ্রহণযোগ্য, PDF নিজেই তিনটি উত্তর দিয়েছে। নিকটতম সমার্থক হিসেবে `agree` সবচেয়ে সরাসরি। `consent` মূলত অনুমতি দেওয়া বোঝায়।
+⚠️ **নোট:** প্রশ্নে তিনটি অপশনই গ্রহণযোগ্য। নিকটতম সমার্থক হিসেবে `agree` সবচেয়ে সরাসরি। `consent` মূলত অনুমতি দেওয়া বোঝায়।
 
 ---
 
@@ -367,9 +321,9 @@
 
 ---
 
-# সেকশন ২: Combined 6 Banks & 2 FIs — Officer (General) | ৩১.০১.২০২৬
+# Combined 6 Banks & 2 FIs — Officer (General) | 31.01.2026
 
-### ১. Fill in the blank with the right option. My sister really wants ___ dress for Christmas.
+### ১. Fill in the blank with the right option. My sister really wants \_\_\_ dress for Christmas.
 
 - **ক. a** ✅
 - খ. an
@@ -378,13 +332,13 @@
 
 **ব্যাখ্যা:** নির্দিষ্ট করে কোনো পোশাকের কথা আগে থেকে জানা না থাকলে singular countable noun-এর আগে **a** বসে। `dress`-এর `d` ব্যঞ্জন ধ্বনি, তাই `an` নয়। উদাহরণ: She wants a new bag.
 
-⚠️ **নোট:** PDF-এর কী `the`। `the dress` তখনই ঠিক হবে যখন কোনো নির্দিষ্ট, আগে উল্লেখিত পোশাক বোঝানো হয়। প্রশ্নে সেই প্রসঙ্গ নেই, তাই `a` বেশি স্বাভাবিক। পরীক্ষায় বোর্ডের কী `the` হলে সেটিই ধরা হতে পারে।
+⚠️ **নোট:** `the`। `the dress` তখনই ঠিক হবে যখন কোনো নির্দিষ্ট, আগে উল্লেখিত পোশাক বোঝানো হয়। প্রশ্নে সেই প্রসঙ্গ নেই, তাই `a` বেশি স্বাভাবিক।
 
 **ভুল অপশন:** `an` (স্বরধ্বনির আগে), `no article` (singular countable noun-এর আগে article ছাড়া চলে না)।
 
 ---
 
-### ২. After a while they have arrived their destination. The underlined word is a/an
+### ২. After(underline) a while they have arrived their destination. The underlined word is a/an
 
 - **ক. preposition** ✅
 - খ. adverb
@@ -392,8 +346,6 @@
 - ঘ. noun
 
 **ব্যাখ্যা:** **After a while**-এ `after` একটি **preposition**, কারণ এর পরে noun phrase (`a while`) আছে। Preposition-এর পরে noun/pronoun বসে।
-
-⚠️ **নোট:** PDF-এ কোন শব্দের নিচে underline তা দেখা যায় না। PDF-এর ব্যাখ্যা অনুযায়ী `After` ধরে উত্তর দেওয়া হয়েছে। এছাড়া বাক্যে `arrived their destination` ভুল, শুদ্ধ `arrived at their destination`।
 
 **ভুল অপশন:** `adverb` (after একা বসলে adverb হতে পারে, কিন্তু এখানে noun phrase আছে)। `conjunction` হলে পরে clause থাকত। `noun` নয়।
 
@@ -441,13 +393,11 @@
 ### ৬. Which sentence is incorrect?
 
 - ক. Previous studies have shown that motivation plays a crucial role in learning.
-- খ. the author argues that earlier researchers misunderstood the phenomenon.
+- খ. The author argues that earlier researchers misunderstood the phenomenon.
 - **গ. The experiment was designed carefully and reliable results.** ✅
 - ঘ. The finding suggested that further research was necessary.
 
 **ব্যাখ্যা:** `was designed carefully and reliable results` এ **parallel structure** ভাঙা। `and` এর পরে ক্রিয়া দরকার, যেমন: "The experiment was designed carefully and **yielded** reliable results." অর্থাৎ দুটি সমান্তরাল অংশ verb phrase হওয়া উচিত।
-
-⚠️ **নোট:** অপশন খ-এর শুরুতে ছোট হাতের `the` আছে, সম্ভবত ছাপার ভুল। প্রশ্নটি ব্যাকরণ-সংক্রান্ত ভুল চাইছে, তাই `গ`।
 
 ---
 
@@ -488,7 +438,7 @@
 
 ---
 
-### ১০. Each of scripts ___ scrutinized carefully before result submission.
+### ১০. Each of scripts \_\_\_ scrutinized carefully before result submission.
 
 - ক. were
 - খ. have been
@@ -499,7 +449,7 @@
 
 ---
 
-### ১১. Dr. Aminul ___ at the university since 1998 and has presented multiple papers at conferences.
+### ১১. Dr. Aminul \_\_\_ at the university since 1998 and has presented multiple papers at conferences.
 
 - ক. teaches
 - **খ. has been teaching** ✅
@@ -508,13 +458,13 @@
 
 **ব্যাখ্যা:** `since + নির্দিষ্ট সময়` এর সাথে **Present Perfect (Continuous)** বসে। চলমান কাজের জোর বোঝাতে `has been teaching`। উদাহরণ: He has been living here since 2010.
 
-⚠️ **নোট:** `has taught since 1998` ব্যাকরণগতভাবে শুদ্ধ। দুটিই Present Perfect-এর রূপ। PDF-এর কী `b`। পার্থক্য: `has been teaching` চলমান ধারাবাহিকতার উপর জোর দেয়।
+⚠️ **নোট:** `has taught since 1998` ব্যাকরণগতভাবে শুদ্ধ। দুটিই Present Perfect-এর রূপ। পার্থক্য: `has been teaching` চলমান ধারাবাহিকতার উপর জোর দেয়।
 
 **ভুল অপশন:** `teaches` (Present Indefinite, since-এর সাথে বসে না), `taught` (Past Indefinite, since-এর সাথে বসে না)।
 
 ---
 
-### ১২. She ___ the results correctly but the professor disagreed with her interpretation.
+### ১২. She \_\_\_ the results correctly but the professor disagreed with her interpretation.
 
 - ক. had interpreted
 - খ. has interpreted
@@ -527,7 +477,7 @@
 
 ---
 
-### ১৩. The jury insist that the criminal ___ hung by Saturday.
+### ১৩. The jury insist that the criminal \_\_\_ hung by Saturday.
 
 - **ক. be** ✅
 - খ. is
@@ -540,7 +490,7 @@
 
 ---
 
-### ১৪. She was reluctant to comment ___ the ethical implications of the study.
+### ১৪. She was reluctant to comment \_\_\_ the ethical implications of the study.
 
 - ক. about
 - **খ. on** ✅
@@ -560,13 +510,13 @@
 
 **ব্যাখ্যা:** Yes/No প্রশ্নের indirect speech-এ **if/whether** বসে, বাক্য assertive order নেয়। Reporting verb অতীত, তাই Past Indefinite → **Past Perfect (had attended)**। `last week` → `the previous week` / `the week before`।
 
-| Direct speech-এর tense | Indirect speech-এ |
-|---|---|
-| Present Indefinite | Past Indefinite |
-| Present Continuous | Past Continuous |
-| Present Perfect | Past Perfect |
-| Past Indefinite | Past Perfect |
-| Past Continuous | Past Perfect Continuous |
+| Direct speech-এর tense | Indirect speech-এ       |
+| ---------------------- | ----------------------- |
+| Present Indefinite     | Past Indefinite         |
+| Present Continuous     | Past Continuous         |
+| Present Perfect        | Past Perfect            |
+| Past Indefinite        | Past Perfect            |
+| Past Continuous        | Past Perfect Continuous |
 
 **ভুল অপশন:** ক-তে `did I` (প্রশ্নের order রয়ে গেছে), গ-তে `had I` ও `the last week` ভুল, ঘ-তে tense পরিবর্তন হয়নি (`attended` থেকে `had attended` হওয়া উচিত ছিল)।
 
@@ -583,7 +533,7 @@
 
 ---
 
-### ১৭. The researcher ___ the committee praised for methodological rigor later revised the paper.
+### ১৭. The researcher \_\_\_ the committee praised for methodological rigor later revised the paper.
 
 - ক. who
 - **খ. whom** ✅
@@ -592,13 +542,13 @@
 
 **ব্যাখ্যা:** `the committee praised the researcher`-এ researcher হলো **object**। ব্যক্তি-object এর জন্য relative pronoun **whom**। উদাহরণ: The man whom I met was kind।
 
-⚠️ **নোট:** আধুনিক ইংরেজিতে `that` (বা বাদ দেওয়া pronoun) ও চলে। তবে প্রশ্নে `whom` বসানোর সুস্পষ্ট ব্যাকরণ-নিয়ম (object case) থাকায় PDF-এর কী `b`।
+⚠️ **নোট:** আধুনিক ইংরেজিতে `that` (বা বাদ দেওয়া pronoun) ও চলে। তবে প্রশ্নে `whom` বসানোর সুস্পষ্ট ব্যাকরণ-নিয়ম (object case) থাকায় এর উত্তর `b`।
 
 **ভুল অপশন:** `who` (subject case), `which` (ব্যক্তির জন্য নয়)।
 
 ---
 
-### ১৮. He can climb trees ___ a monkey.
+### ১৮. He can climb trees \_\_\_ a monkey.
 
 - ক. as
 - **খ. like** ✅
@@ -620,7 +570,7 @@
 
 ---
 
-### ২০. I bumped ___ one of my old friends in the New Market yesterday.
+### ২০. I bumped \_\_\_ one of my old friends in the New Market yesterday.
 
 - ক. with
 - খ. in
@@ -692,7 +642,7 @@
 
 ---
 
-# সেকশন ৩: SPCBL — Assistant Manager (General) | ২৬.১১.২০২১
+# SPCBL — Assistant Manager (General) | 26.11.2021
 
 ### ১. The ring is made — gold. Fill in the blank with appropriate preposition.
 
@@ -775,7 +725,7 @@
 - গ. Saga
 - **ঘ. Elegy** ✅
 
-**ব্যাখ্যা:** **Elegy** = প্রিয়জনের মৃত্যুতে রচিত শোককাব্য। উদাহরণ: Tennyson-এর *In Memoriam*।
+**ব্যাখ্যা:** **Elegy** = প্রিয়জনের মৃত্যুতে রচিত শোককাব্য। উদাহরণ: Tennyson-এর _In Memoriam_।
 
 **ভুল অপশন:** `Ode` = প্রশংসামূলক গীতিকবিতা; `Homage` = শ্রদ্ধা (কবিতার ধরন নয়); `Saga` = বীরত্বগাথা, দীর্ঘ কাহিনি।
 
@@ -823,7 +773,7 @@
 - গ. Society
 - ঘ. League
 
-**ব্যাখ্যা:** **Ecclesiastical** = গির্জা বা ধর্মযাজক-সংক্রান্ত। গ্রিক *ekklesia* (সমাবেশ/গির্জা) থেকে। উদাহরণ: ecclesiastical law (গির্জা-আইন)।
+**ব্যাখ্যা:** **Ecclesiastical** = গির্জা বা ধর্মযাজক-সংক্রান্ত। গ্রিক _ekklesia_ (সমাবেশ/গির্জা) থেকে। উদাহরণ: ecclesiastical law (গির্জা-আইন)।
 
 ---
 
@@ -860,7 +810,7 @@
 - গ. A hater of mankind
 - ঘ. A lover of peace
 
-**ব্যাখ্যা:** Misogynist = নারীবিদ্বেষী (গ্রিক *miso* = ঘৃণা + *gyne* = নারী)। তুলনা: Misanthrope = মানবদ্বেষী; Philogynist = নারীপ্রেমী।
+**ব্যাখ্যা:** Misogynist = নারীবিদ্বেষী (গ্রিক _miso_ = ঘৃণা + _gyne_ = নারী)। তুলনা: Misanthrope = মানবদ্বেষী; Philogynist = নারীপ্রেমী।
 
 ---
 
@@ -930,7 +880,7 @@
 
 ---
 
-# সেকশন ৪: SPCBL — Officer (General) | ৩০.১০.২০২১
+# SPCBL — Officer (General) | 30.10.2021
 
 ### ১. Shakib Al-Hasan delivered a six ..... the boundary.
 
@@ -976,7 +926,7 @@
 
 **ব্যাখ্যা:** `his` কার, রোহনের না তার বাবার, তা অস্পষ্ট। Pronoun-এর অস্পষ্টতা এড়াতে noun (`Rohan's`) ব্যবহার করা হয়েছে।
 
-⚠️ **নোট:** অপশন ক ব্যাকরণগতভাবে অশুদ্ধ নয়, শুধু pronoun অস্পষ্ট। প্রশ্নের উদ্দেশ্য clarity যাচাই, তাই PDF-এর কী `ঘ`।
+⚠️ **নোট:** অপশন ক ব্যাকরণগতভাবে অশুদ্ধ নয়, শুধু pronoun অস্পষ্ট। প্রশ্নের উদ্দেশ্য clarity যাচাই, তাই এর উত্তর `ঘ`।
 
 **ভুল অপশন:** খ-তে subject-verb agreement ভুল (`was`)। গ-তে `their` ধরে নেয় রোহন ও তার বাবার মা একই ব্যক্তি, অর্থ বিভ্রান্ত করে।
 
@@ -1128,7 +1078,7 @@
 
 ---
 
-# সেকশন ৫: SPCBL — Assistant Manager (Examination) | ২৩.১০.২০২১
+# SPCBL — Assistant Manager (Examination) | 23.10.2021
 
 ### ১. What is the antonym of the word 'initiative'?
 
@@ -1139,7 +1089,7 @@
 
 **ব্যাখ্যা:** **Initiative** = উদ্যোগ, নিজ থেকে কাজ শুরুর প্রবণতা। বিপরীত: **apathy** = উদাসীনতা, আগ্রহহীনতা।
 
-⚠️ **নোট:** `indolence` (আলস্য) ও গ্রহণযোগ্য বিপরীত হতে পারে। PDF-এর ব্যাখ্যাতেও দুটিই উল্লেখ আছে। `apathy` আগ্রহ ও উদ্যোগের অভাবের কাছাকাছি, তাই PDF-এর কী `ঘ`।
+⚠️ **নোট:** `indolence` (আলস্য) ও গ্রহণযোগ্য বিপরীত হতে পারে। `apathy` আগ্রহ ও উদ্যোগের অভাবের কাছাকাছি, তাই উত্তর `ঘ`।
 
 **ভুল অপশন:** `activity` (সক্রিয়তা) ও `enterprise` (উদ্যোগ/সাহসী কর্মোদ্যম) সমার্থক ভাব দেয়।
 
@@ -1195,7 +1145,7 @@
 
 ---
 
-# সেকশন ৬: National Security Intelligence (NSI) — Assistant Director | ০৮.১০.২০২১
+# National Security Intelligence (NSI) — Assistant Director | 08.10.2021
 
 ### ১. ........ opportunity comes responsibility.
 
@@ -1205,8 +1155,6 @@
 - **ঘ. With** ✅
 
 **ব্যাখ্যা:** **With opportunity comes responsibility** = সুযোগের সাথে দায়িত্বও আসে। কাঠামো: Inversion (আগে adverbial, পরে verb `comes`, শেষে subject `responsibility`)।
-
-⚠️ **নোট:** PDF-এ উক্তিটি Winston Churchill-এর বলা হয়েছে। Web search-এ কিছু quote-সাইট এটি তাঁর নামে দিলেও কোনো নির্ভরযোগ্য উৎস (বক্তৃতা/বই) পাইনি; এগুলো "প্রায়ই আরোপিত" ধরনের। Churchill-এর সুপরিচিত অনুরূপ উক্তি হলো "The price of greatness is responsibility"। তাই উৎস নিশ্চিত নয়। উত্তর `With` ব্যাকরণ ও অর্থের জন্য ঠিক।
 
 ---
 
@@ -1320,10 +1268,8 @@
 
 **ব্যাখ্যা:** **lest** = পাছে/যাতে ... না হয় (নেতিবাচক অর্থ)। কাঠামো: **lest + subject + should + verb**। উদাহরণ: Work hard lest you should fail।
 
-⚠️ **নোট:** `lest she be recognized` (subjunctive, `should` ছাড়া) আনুষ্ঠানিক ইংরেজিতে শুদ্ধ। PDF-এর কী `খ`, বাংলাদেশি পরীক্ষায় প্রচলিত নিয়ম `lest ... should`।
+⚠️ **নোট:** `lest she be recognized` (subjunctive, `should` ছাড়া) আনুষ্ঠানিক ইংরেজিতে শুদ্ধ। বাংলাদেশি পরীক্ষায় প্রচলিত নিয়ম `lest ... should`।
 
 **ভুল অপশন:** গ-তে `disguised` এর পরে `herself` নেই (reflexive দরকার)। ঘ-তে `can` (lest-এর সাথে বসে না)।
 
 ---
-
-*সমাপ্ত।*
