@@ -2452,60 +2452,6 @@
 
 ---
 
-# English Question Bank (Bank Job) — যাচাইকৃত সংস্করণ, পার্ট ৩
-
-**উৎস:** PDF `English_3.pdf` (Collected by Araf Hasan Jheel, SO, ICB)
-**মোট প্রশ্ন:** ১০৭টি (১০টি সেকশন), মূল ক্রম অক্ষুণ্ণ।
-
-| সেকশন | পরীক্ষা                                                                               | তারিখ      | প্রশ্ন (এই PDF-এ) |
-| ----- | ------------------------------------------------------------------------------------- | ---------- | ----------------- |
-| ১     | NSI — Wireless Operator / Accounts cum Cashier (পার্ট ২-এর ধারাবাহিকতা, প্রশ্ন ১৭–২০) | ১১.০৯.২০২১ | ৪                 |
-| ২     | NSI — অফিস সহকারী / ডেসপাচ রাইডার ও অফিস সহায়ক                                       | ১০.০৯.২০২১ | ২০                |
-| ৩     | NSI — Computer Operator                                                               | ০৩.০৪.২০২১ | ২০                |
-| ৪     | Combined 6 Banks — Assistant Programmer                                               | ১৮.০৩.২০২১ | ১০                |
-| ৫     | Rupali Bank — Assistant Network Engineer                                              | ০৬.০৩.২০২১ | ১০                |
-| ৬     | Sonali Bank — Assistant Database Administrator                                        | ৩০.১১.২০২০ | ১০                |
-| ৭     | Rupali Bank — Senior Officer (Financial Analyst)                                      | ২০.১১.২০২০ | ১০                |
-| ৮     | Janata Bank — Engineer (Textile)                                                      | ০৭.১১.২০২০ | ১০                |
-| ৯     | Combined 3 Banks (Sonali, Janata & RAKUB) — Assistant Engineer (IT)                   | ৩১.১০.২০২০ | ১০                |
-| ১০    | Janata Bank — Officer (Cash)                                                          | ৩১.১০.২০২০ | ৩ (PDF-এ)         |
-
-> **দ্রষ্টব্য ১:** সেকশন ১ আগের ফাইলের (`English_Question_Bank_2_Verified.md`) সেকশন ৬-এর বাকি অংশ। ১৭–২০ নম্বর যোগ হয়ে ওই পরীক্ষার সব ২০টি প্রশ্ন এখন সম্পূর্ণ।
-> **দ্রষ্টব্য ২:** সেকশন ১০-এর হেডারে "Questions: 20" লেখা, কিন্তু PDF-এ মাত্র ৩টি আছে (PDF এখানেই শেষ)। বাকি ১৭টি PDF-এ নেই।
-> **দ্রষ্টব্য ৩:** PDF-এর বাংলা অংশের অক্ষর ভেঙে গিয়েছিল। যেসব বাংলা প্রশ্ন বা অপশন আমি অর্থ অনুযায়ী পুনর্গঠন করেছি, সেখানে নোট দিয়েছি। সব ব্যাখ্যা নতুন করে লেখা।
-> **তথ্য যাচাই (web search):** J.K. Rowling-এর উক্তি, "Good face..." উক্তির উৎস। বাকি সাহিত্য-সংক্রান্ত তথ্য (Gorky, Hosseini, Shakespeare) সুপরিচিত, তাই আলাদা সার্চ করিনি।
-
----
-
-## ⚠️ PDF-এর উত্তরে ভুল / বিতর্কিত বিষয়ের তালিকা
-
-**PDF-এর কী ভুল মনে হয়েছে (আমার যাচাইকৃত উত্তর দেওয়া হয়েছে):**
-
-| প্রশ্ন            | PDF-এর উত্তর         | আমার যাচাই                          | কারণ                                                                                                                                  |
-| ----------------- | -------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| সেকশন ৫, প্রশ্ন ৪ | c) has gone          | **b) went**                         | `just now` (= একটু আগে) এর সাথে Past Indefinite বসে। Present Perfect বসে `just` (just now ছাড়া) এর সাথে, যেমন: He has just gone out। |
-| সেকশন ৯, প্রশ্ন ৬ | c) diverse / exhibit | **a) chaotic / display** (বিতর্কিত) | "যুদ্ধে বিধ্বস্ত ও নিরক্ষরতায় অবরুদ্ধ দেশের চিত্র" বর্ণনা করতে `diverse` (বৈচিত্র্যময়) অর্থহীন; `chaotic` প্রসঙ্গের সাথে মেলে।      |
-
-**একাধিক উত্তর গ্রহণযোগ্য বা প্রশ্নে দুর্বলতা:**
-
-| প্রশ্ন             | PDF-এর কী                   | অন্য গ্রহণযোগ্য বা মন্তব্য                    |
-| ------------------ | --------------------------- | --------------------------------------------- |
-| সেকশন ১, প্রশ্ন ১৭ | c) were                     | `was` কথ্য ইংরেজিতে চলে, তবে `were` প্রমিত    |
-| সেকশন ২, প্রশ্ন ২  | b) I have no appetite       | d) I am not hungry-ও গ্রহণযোগ্য               |
-| সেকশন ২, প্রশ্ন ৪  | b) take tea                 | a) drink tea ও c) have tea-ও শুদ্ধ            |
-| সেকশন ৩, প্রশ্ন ১৬ | b) too ... to be understood | d) too ... to understand-ও শুদ্ধ              |
-| সেকশন ৪, প্রশ্ন ৩  | c) Stipulation              | কোনো অপশনই পূর্ণ সমার্থক নয়                  |
-| সেকশন ৫, প্রশ্ন ৭  | b) Majestic                 | `Bombastic`-এর সাথে কোনো অপশনই ভালো মেলে না   |
-| সেকশন ৫, প্রশ্ন ৯  | c) Queen Elizabeth          | উক্তির উৎস অনিশ্চিত (বিস্তারিত ওই প্রশ্নে)    |
-| সেকশন ৮, প্রশ্ন ৯  | b) don't have               | c) haven't had-ও শুদ্ধ                        |
-| সেকশন ৯, প্রশ্ন ৮  | d) depicts / possess        | `simulates / possess` আদর্শ হতো, তা অপশনে নেই |
-
-**PDF-এর ব্যাখ্যায় ভুল:** সেকশন ৯-এর ১০ নম্বরে ব্যাখ্যা বলছে "ভগ্নাংশ সবসময় plural" — এটি ভুল নিয়ম। শুদ্ধ নিয়ম পাশের প্রশ্নে দিয়েছি। সেকশন ৪-এর ৯ নম্বরের ব্যাখ্যাও এলোমেলো।
-
----
-
-# সেকশন ১: NSI — Wireless Operator / Accounts cum Cashier (প্রশ্ন ১৭–২০) | ১১.০৯.২০২১
-
 ### ১৭. If I ..... rich, I would travel around the world.
 
 - ক. am
@@ -2556,7 +2502,7 @@
 
 ---
 
-# সেকশন ২: NSI — অফিস সহকারী / ডেসপাচ রাইডার ও অফিস সহায়ক | ১০.০৯.২০২১
+## NSI — অফিস সহকারী / ডেসপাচ রাইডার ও অফিস সহায়ক | 10.09.2021
 
 ### ১. 'তোমার বাবার পেশা কী?' — এর সঠিক ইংরেজি অনুবাদ:
 
@@ -2569,8 +2515,6 @@
 
 **ভুল অপশন:** খ ও গ-তে ব্যাকরণগত ভুল। ঘ-তে `work` শব্দ পেশার চেয়ে কাজের স্থান/কাজ বোঝায় এবং প্রশ্নচিহ্ন নেই।
 
-**নোট:** PDF-এর বাংলা প্রশ্ন ভাঙা ছিল, অর্থ অনুযায়ী পুনর্গঠন করেছি।
-
 ---
 
 ### ২. 'আমার ক্ষুধা নেই / আমার খাওয়ার রুচি নেই' — এর সঠিক ইংরেজি অনুবাদ:
@@ -2581,8 +2525,6 @@
 - ঘ. I am not hungry.
 
 **ব্যাখ্যা:** **appetite** = খাওয়ার রুচি/ক্ষুধা। `I have no appetite` = আমার ক্ষুধা/রুচি নেই। `hunger` সাধারণত তীব্র ক্ষুধার কষ্ট বোঝায়, তাই `no hunger` অপ্রচলিত।
-
-⚠️ **নোট:** `I am not hungry` প্রচলিত ও শুদ্ধ। PDF-এর কী `খ`। PDF-এর বাংলা প্রশ্নের অক্ষর ভাঙা, তাই পুনর্গঠিত প্রশ্ন "ক্ষুধা/রুচি নেই" ধরেছি। সঠিক অর্থ "খাওয়ার রুচি নেই" হলে খ নিশ্চিত শুদ্ধ।
 
 **ভুল অপশন:** `I am full` = আমার পেট ভরা।
 
@@ -2609,8 +2551,6 @@
 - ঘ. I do not like tea.
 
 **ব্যাখ্যা:** চা-কফি পান বোঝাতে `drink`, `take`, `have` তিনটিই চলে। `drink tea` সবচেয়ে সাধারণ, `take tea` কিছুটা আনুষ্ঠানিক, `have tea` কথ্য রূপ। **`like`** মানে "পছন্দ করি না", যা অর্থ বদলে দেয়।
-
-⚠️ **নোট:** PDF-এর কী `খ` (take tea)। ব্যাখ্যায় বলা হয়েছে চা-কফির ক্ষেত্রে `take` চলে, কিন্তু ক ও গ-ও সমানভাবে শুদ্ধ। পরীক্ষায় তিনটির যেকোনো একটি এলে `ঘ` বাদ দিন।
 
 ---
 
@@ -2660,7 +2600,7 @@
 
 **ব্যাখ্যা:** সময় বলতে **It is + সময়** (It এখানে dummy subject)। `now` বোঝায় "এখন"। `o'clock` পূর্ণ ঘণ্টায় ব্যবহৃত।
 
-**ভুল অপশন:** খ-তে structure অস্বাভাবিক। গ-তে `now` বাদ, তাই "এখন" অর্থ অনুপস্থিত। ঘ-তে `o'clock` ছাড়াও সময় বোঝা যায়, তবে PDF-এর পূর্ণরূপ ক।
+**ভুল অপশন:** খ-তে structure অস্বাভাবিক। গ-তে `now` বাদ, তাই "এখন" অর্থ অনুপস্থিত। ঘ-তে `o'clock` ছাড়াও সময় বোঝা যায়।
 
 ---
 
@@ -2673,7 +2613,7 @@
 
 **ব্যাখ্যা:** দুটি অতীত ঘটনার মধ্যে যেটি আগে ঘটেছে সেটি **Past Perfect (had died)**, পরেরটি **Past Indefinite (came)**। সূত্র: **Past Perfect + before + Past Indefinite**।
 
-**ভুল অপশন:** ক-তে `after` অর্থ উল্টে দেয়। খ ব্যাকরণগতভাবে সম্ভব, তবে আগে-পরের সম্পর্ক স্পষ্ট নয় (PDF-এর কী `গ`)। ঘ-তে `while` ভুল সংযোজক।
+**ভুল অপশন:** ক-তে `after` অর্থ উল্টে দেয়। খ ব্যাকরণগতভাবে সম্ভব, তবে আগে-পরের সম্পর্ক স্পষ্ট নয়। ঘ-তে `while` ভুল সংযোজক।
 
 ---
 
@@ -2802,7 +2742,7 @@
 
 ---
 
-# সেকশন ৩: NSI — Computer Operator | ০৩.০৪.২০২১ (Full Marks: ৮০)
+## NSI — Computer Operator | 03.04.2021
 
 ### ১. Bangladesh is committed ....... a policy of peaceful existence.
 
@@ -2982,7 +2922,7 @@
 
 **ব্যাখ্যা:** **too + adjective + to + verb** = এত ... যে ... করা যায় না। Passive অর্থ বোঝাতে `to be understood`। **allusive** = ইঙ্গিতপূর্ণ (প্রচুর allusion বা পরোক্ষ উল্লেখ আছে এমন)।
 
-⚠️ **নোট:** `too allusive to understand` (ঘ) আধুনিক ইংরেজিতে প্রচলিত ও গ্রহণযোগ্য (যেমন: too hot to handle)। PDF-এর কী `খ`। প্রশ্নটি passive infinitive যাচাই করছে।
+⚠️ **নোট:** `too allusive to understand` (ঘ) আধুনিক ইংরেজিতে প্রচলিত ও গ্রহণযোগ্য (যেমন: too hot to handle)। প্রশ্নটি passive infinitive যাচাই করছে।
 
 **ভুল অপশন:** ক-তে `very ... to` (too দরকার) ও `be understand`। গ-তে `so ... to` (so ... that হয়)।
 
@@ -2996,8 +2936,6 @@
 - ঘ. আনন্দ বিনোদন জীবনের একমাত্র উদ্দেশ্য নয়
 
 **ব্যাখ্যা:** **ought to** = নৈতিক কর্তব্য বা উচিত। `love our country` = দেশকে ভালোবাসা। তাই "দেশকে ভালোবাসতে হবে (উচিত)"।
-
-**নোট:** PDF-এর বাংলা অপশন ভাঙা ছিল, অর্থ অনুযায়ী পুনর্গঠিত। ক-তে "দায়বদ্ধ" শব্দ `love`-এর অর্থ আনে না; গ ও ঘ প্রাসঙ্গিক নয়।
 
 ---
 
@@ -3038,7 +2976,7 @@
 
 ---
 
-# সেকশন ৪: Combined 6 Banks — Assistant Programmer | ১৮.০৩.২০২১
+## Combined 6 Banks — Assistant Programmer | 18.03.2021
 
 ### ১. 'Every now and then' means
 
@@ -3073,7 +3011,7 @@
 
 **ব্যাখ্যা:** **Bargain** (verb) = দর-কষাকষি করে চুক্তির শর্ত ঠিক করা। **Stipulation** = চুক্তির শর্ত/নির্দিষ্ট শর্তারোপ। অপশনগুলোর মধ্যে এটিই চুক্তি-আলোচনার সবচেয়ে কাছের।
 
-⚠️ **নোট:** কোনো অপশনই `bargain`-এর পূর্ণ সমার্থক নয়। `Quarrel` (ঝগড়া), `Confrontation` (মুখোমুখি সংঘাত), `Dissent` (ভিন্নমত) অর্থে অনেক দূরের। তাই PDF-এর কী `গ` রাখা হলো।
+⚠️ **নোট:** কোনো অপশনই `bargain`-এর পূর্ণ সমার্থক নয়। `Quarrel` (ঝগড়া), `Confrontation` (মুখোমুখি সংঘাত), `Dissent` (ভিন্নমত) অর্থে অনেক দূরের।
 
 ---
 
@@ -3101,8 +3039,6 @@
 
 **ভুল অপশন:** `J.R.R. Tolkien` (_The Lord of the Rings_), `Dr. Seuss` (শিশুতোষ ছড়া/গল্প), `W.B. Yeats` (আইরিশ কবি, কবিতা ও নাটক)। কেউই এই উক্তির লেখক নন।
 
-**নোট:** PDF-এ বানান `Tolkein` ভুল, শুদ্ধ `Tolkien`।
-
 ---
 
 ### ৬. "Why do you always buy five loaves, no **_ and _**?
@@ -3127,7 +3063,7 @@
 
 **ব্যাখ্যা:** `the Sun`, `the rain` (নির্দিষ্ট বৃষ্টি যা এইমাত্র থেমেছে), `a beautiful rainbow` (প্রথমবার উল্লেখ, অনির্দিষ্ট), `the sky` (অদ্বিতীয়/সুনির্দিষ্ট)। সূত্র: অদ্বিতীয় বস্তুর আগে `the` (the sun, the sky, the moon)।
 
-**নোট:** `a beautiful rainbow`-এ `a` বসেছে কারণ `beautiful` ব্যঞ্জনধ্বনি (b) দিয়ে শুরু। PDF-এর ব্যাখ্যায় যুক্তি এলোমেলো ছিল।
+**নোট:** `a beautiful rainbow`-এ `a` বসেছে কারণ `beautiful` ব্যঞ্জনধ্বনি (b) দিয়ে শুরু।
 
 ---
 
@@ -3153,8 +3089,6 @@
 
 **ভুল অপশন:** `told ... not to go` আদেশ বোঝায়, পরামর্শ নয়। `said him` ব্যাকরণগত ভুল। `requested` অনুরোধ, পরামর্শ নয়।
 
-**নোট:** PDF-এর ব্যাখ্যা `advised him against going` বলেছে। এটিও শুদ্ধ রূপ, তবে অপশনে নেই।
-
 ---
 
 ### ১০. He never thought what might come out of it, \_\_\_?
@@ -3170,7 +3104,7 @@
 
 ---
 
-# সেকশন ৫: Rupali Bank — Assistant Network Engineer | ০৬.০৩.২০২১
+## Rupali Bank — Assistant Network Engineer | 06.03.2021
 
 ### ১. We run — the end of the runway.
 
@@ -3180,8 +3114,6 @@
 - ঘ. by
 
 **ব্যাখ্যা:** **run to + গন্তব্য** (গতি + লক্ষ্যবিন্দু)। We run to the end of the runway = আমরা রানওয়ের শেষ প্রান্ত পর্যন্ত দৌড়াই।
-
-**নোট:** PDF-এর ব্যাখ্যায় `at` ও `to` দুটোই বলা হয়েছিল। গতির অর্থে `to`-ই শুদ্ধ; `run at` মানে আক্রমণ করতে ছুটে যাওয়া।
 
 ---
 
@@ -3220,8 +3152,6 @@
 
 **ব্যাখ্যা:** **just now** (= একটু আগে) অতীতের নির্দিষ্ট মুহূর্ত বোঝায়, তাই **Past Indefinite**: He went out just now। **just** (just now ছাড়া) Present Perfect-এর সাথে বসে: He has just gone out।
 
-⚠️ **নোট:** PDF-এর কী `গ` (has gone)। এটি মূলত ভুল। `just now`-এর সাথে Present Perfect প্রমিত নয়। তবে কিছু বাংলাদেশি গাইডে এটি `has gone` দেওয়া হয়, তাই পরীক্ষায় বোর্ডের কী ভিন্ন হতে পারে।
-
 ---
 
 ### ৫. They love each other. Correct passive form will be —
@@ -3257,7 +3187,7 @@
 
 **ব্যাখ্যা:** **Bombastic** = আড়ম্বরপূর্ণ কিন্তু অন্তঃসারশূন্য (বিশেষত বক্তৃতা বা লেখা)। সমার্থক: pompous, grandiloquent, inflated। অপশনের মধ্যে **majestic** (জমকালো/মহিমান্বিত) অর্থের দিক থেকে সবচেয়ে কাছের।
 
-⚠️ **নোট:** `majestic` ইতিবাচক, `bombastic` নেতিবাচক (ফাঁপা আড়ম্বর)। অপশনের মধ্যে কোনোটিই নিখুঁত সমার্থক নয়, তাই PDF-এর কী `খ`।
+⚠️ **নোট:** `majestic` ইতিবাচক, `bombastic` নেতিবাচক (ফাঁপা আড়ম্বর)। অপশনের মধ্যে কোনোটিই নিখুঁত সমার্থক নয়।
 
 **ভুল অপশন:** `Fragile` = ভঙ্গুর, `Rapid` = দ্রুত, `Sensitive` = সংবেদনশীল।
 
@@ -3304,7 +3234,7 @@
 
 ---
 
-# সেকশন ৬: Sonali Bank — Assistant Database Administrator | ৩০.১১.২০২০
+## Sonali Bank — Assistant Database Administrator | 30.11.2020
 
 ### ১. They while their evenings with books and games. Here while is.
 
@@ -3314,8 +3244,6 @@
 - ঘ. adverb
 
 **ব্যাখ্যা:** **while away** (phrasal verb) = সময় কাটানো। এখানে `While` subject `They`-এর পর মূল verb (`while away their evenings`)। উদাহরণ: We whiled away the afternoon in the garden।
-
-**নোট:** প্রশ্নের বাক্য থেকে `away` বাদ পড়েছে (PDF-এর মুদ্রণ ত্রুটি হতে পারে)।
 
 ---
 
@@ -3426,7 +3354,7 @@
 
 ---
 
-# সেকশন ৭: Rupali Bank — Senior Officer (Financial Analyst) | ২০.১১.২০২০
+## Rupali Bank — Senior Officer (Financial Analyst) | 20.11.2020
 
 ### ১. I am not good .... translation.
 
@@ -3546,7 +3474,7 @@
 
 ---
 
-# সেকশন ৮: Janata Bank — Engineer (Textile) | ০৭.১১.২০২০
+## Janata Bank — Engineer (Textile) | 07.11.2020
 
 ### ১. Which of the following spelling is correct?
 
@@ -3651,7 +3579,7 @@
 
 **ব্যাখ্যা:** `The exam is going well` Present Continuous। তাই দ্বিতীয় অংশ Present Indefinite (`don't have`) বা Present Perfect (`haven't had`)। দুটিই শুদ্ধ: "এ পর্যন্ত কোনো সমস্যা হয়নি" (haven't had) বা "কোনো সমস্যা নেই" (don't have)।
 
-⚠️ **নোট:** PDF-এর কী `খ`, তবে `গ` (haven't had)-ও সমানভাবে শুদ্ধ (PDF-এর ব্যাখ্যাতেও দুটিই বলা)। দুটিই গ্রহণযোগ্য।
+⚠️ **নোট:** `গ` (haven't had)-ও সমানভাবে শুদ্ধ। দুটিই গ্রহণযোগ্য।
 
 **ভুল অপশন:** `couldn't have` অর্থ ও গঠন মেলে না; `haven't have` ব্যাকরণগত ভুল।
 
@@ -3668,7 +3596,7 @@
 
 ---
 
-# সেকশন ৯: Combined 3 Banks (Sonali, Janata & RAKUB) — Assistant Engineer (IT) | ৩১.১০.২০২০
+## Combined 3 Banks (Sonali, Janata & RAKUB) — Assistant Engineer (IT) | 31.10.2020
 
 ### ১. We gave — a meal.
 
@@ -3736,8 +3664,6 @@
 
 **ব্যাখ্যা:** `In spite of` (সত্ত্বেও) বৈপরীত্য আনে। যুদ্ধে বিধ্বস্ত ও নিরক্ষরতায় আটকে থাকা দেশের চিত্র **নেতিবাচক** (chaotic = বিশৃঙ্খল), কিন্তু তা সত্ত্বেও স্থানীয়রা জাতীয়তাবাদ **প্রদর্শন করে** (display)।
 
-⚠️ **নোট:** PDF-এর কী `গ` (diverse / exhibit)। `exhibit` ঠিক, কিন্তু `diverse` (বৈচিত্র্যময়) চিত্রটি যুদ্ধ-বিধ্বস্ত দেশের নেতিবাচক বর্ণনার সাথে মেলে না। ক (chaotic/display) সবচেয়ে সঙ্গত। ঘ-ও (sickening/unveil) আংশিক সম্ভব, তবে `unveil nationalism` অপ্রচলিত।
-
 **ভুল অপশন:** `pleasing / conceal` (প্রীতিকর দৃশ্য ও গোপন করা, উভয়ই প্রসঙ্গবিরুদ্ধ)।
 
 ---
@@ -3788,11 +3714,9 @@
 
 **ব্যাখ্যা:** **Fraction/portion + of + noun** এ verb **of-এর পরের noun-এর** সংখ্যা অনুযায়ী হয়। `students` বহুবচন, তাই `are`। উদাহরণ: One-third of the water is polluted (uncountable → singular)।
 
-**নোট:** PDF-এর ব্যাখ্যা ("one-third ছাড়া সব ভগ্নাংশ plural") ভুল নিয়ম। সঠিক নিয়ম উপরের।
-
 ---
 
-# সেকশন ১০: Janata Bank — Officer (Cash) | ৩১.১০.২০২০
+## Janata Bank — Officer (Cash) | 31.10.2020
 
 ### ১. The world leaders are not indifferent \_\_\_ the spreading of Corona virus across the world. Fill in the blank with an appropriate preposition
 
