@@ -1,6 +1,6 @@
 # English Question Bank (Bank Job) - (CTI)
 
-# Combined 7 Banks — Officer (Cash) | 03.07.2026
+## Combined 7 Banks — Officer (Cash) | 03.07.2026
 
 ### ১. By the time the rescue team arrived, the flood ... most of the village.
 
@@ -321,7 +321,7 @@
 
 ---
 
-# Combined 6 Banks & 2 FIs — Officer (General) | 31.01.2026
+## Combined 6 Banks & 2 FIs — Officer (General) | 31.01.2026
 
 ### ১. Fill in the blank with the right option. My sister really wants \_\_\_ dress for Christmas.
 
@@ -642,7 +642,7 @@
 
 ---
 
-# SPCBL — Assistant Manager (General) | 26.11.2021
+## SPCBL — Assistant Manager (General) | 26.11.2021
 
 ### ১. The ring is made — gold. Fill in the blank with appropriate preposition.
 
@@ -880,7 +880,7 @@
 
 ---
 
-# SPCBL — Officer (General) | 30.10.2021
+## SPCBL — Officer (General) | 30.10.2021
 
 ### ১. Shakib Al-Hasan delivered a six ..... the boundary.
 
@@ -1078,7 +1078,7 @@
 
 ---
 
-# SPCBL — Assistant Manager (Examination) | 23.10.2021
+## SPCBL — Assistant Manager (Examination) | 23.10.2021
 
 ### ১. What is the antonym of the word 'initiative'?
 
@@ -1145,7 +1145,7 @@
 
 ---
 
-# National Security Intelligence (NSI) — Assistant Director | 08.10.2021
+## National Security Intelligence (NSI) — Assistant Director | 08.10.2021
 
 ### ১. ........ opportunity comes responsibility.
 
