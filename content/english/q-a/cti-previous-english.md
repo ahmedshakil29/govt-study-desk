@@ -1273,3 +1273,1259 @@
 **ভুল অপশন:** গ-তে `disguised` এর পরে `herself` নেই (reflexive দরকার)। ঘ-তে `can` (lest-এর সাথে বসে না)।
 
 ---
+
+# English Question Bank (Bank Job) — যাচাইকৃত সংস্করণ, পার্ট ২
+
+**উৎস:** PDF `English_2.pdf` (Collected by Araf Hasan Jheel, SO, ICB)
+**মোট প্রশ্ন:** ৯৮টি (৬টি সেকশন), মূল ক্রম অক্ষুণ্ণ।
+
+| সেকশন | পরীক্ষা                                                         | তারিখ      | প্রশ্ন (এই PDF-এ) |
+| ----- | --------------------------------------------------------------- | ---------- | ----------------- |
+| ১     | NSI — Assistant Director (পার্ট ১-এর ধারাবাহিকতা, প্রশ্ন ১২–২০) | ০৮.১০.২০২১ | ৯                 |
+| ২     | NSI — Field Officer                                             | ০৮.১০.২০২১ | ২০                |
+| ৩     | Sonali & Janata Bank — Senior Officer (IT)                      | ২৫.০৯.২০২১ | ১০                |
+| ৪     | NSI — Junior Field Officer                                      | ২৪.০৯.২০২১ | ২৩                |
+| ৫     | NSI — Watch Constable                                           | ১৭.০৯.২০২১ | ২০                |
+| ৬     | NSI — Wireless Operator / Accounts cum Cashier                  | ১১.০৯.২০২১ | ১৬ (PDF-এ)        |
+
+> **দ্রষ্টব্য ১:** এই PDF শুরু হয়েছে আগের ফাইলের সেকশন ৬ (NSI Assistant Director)-এর প্রশ্ন ১১-এর ব্যাখ্যার শেষাংশ দিয়ে। প্রশ্ন ১১ আগের ফাইলে (`English_Question_Bank_Verified.md`) আছে। এখানে ১২–২০ নম্বর প্রশ্ন, ফলে আগের "১১টির বেশি PDF-এ নেই" কথাটি এখন সম্পূর্ণ হলো (মোট ২০টি)।
+> **দ্রষ্টব্য ২:** সেকশন ৬-এর হেডারে "Questions: 20" লেখা, কিন্তু PDF-এ ১৬টি আছে। শেষ ৪টি PDF-এ নেই, তাই এখানেও নেই।
+> **দ্রষ্টব্য ৩:** PDF-এর বাংলা অংশ ও কিছু অপশনের বাংলা অক্ষর ভাঙা ছিল। যেসব বাংলা অপশন পুনর্গঠন করেছি, সেখানে নোটে উল্লেখ আছে। সব ব্যাখ্যা নতুন করে লেখা।
+> **তথ্য যাচাই:** একমাত্র তথ্যভিত্তিক প্রশ্ন সেকশন ৬-এর ৮ নম্বর (হাজী মুহাম্মদ মুহসিন); web search-এ মিলিয়েছি।
+
+---
+
+## ⚠️ PDF-এর উত্তরে ভুল / বিতর্কিত বিষয়ের তালিকা
+
+**PDF-এর কী ভুল মনে হয়েছে (আমার যাচাইকৃত উত্তর দেওয়া হয়েছে):**
+
+| প্রশ্ন             | PDF-এর উত্তর                   | আমার যাচাই                              | কারণ                                                                                                                                     |
+| ------------------ | ------------------------------ | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| সেকশন ২, প্রশ্ন ১৬ | c) at a stone's throw          | **a) as ill luck would have it**        | `at a stone's throw` মানে "খুব কাছে"। এই বাক্যে "দুর্ভাগ্যবশত" অর্থ দরকার।                                                               |
+| সেকশন ৪, প্রশ্ন ৫  | b) at                          | **c) to** (বিতর্কিত)                    | রাস্তার ওপাশ থেকে শোনার জন্য ডাকা বোঝাতে `shout to`। `shout at` মানে রেগে চিৎকার করা।                                                    |
+| সেকশন ৫, প্রশ্ন ১৭ | a) The goal ... should produce | **d) The aim ... should be to produce** | a-তে `goal` (কর্তা) নিজে produce করতে পারে না, `should be to produce` দরকার। PDF-এর ব্যাখ্যা নিজেই d-কেও শুদ্ধ বলেছে।                    |
+| সেকশন ২, প্রশ্ন ৯  | b) adverb                      | **a) preposition** (বিতর্কিত)           | `After a while`-এ `after`-এর পরে noun phrase আছে, তাই preposition। পার্ট ১-এ একই প্রশ্নের কী ছিল preposition, দুই PDF-এ কী পরস্পরবিরোধী। |
+| সেকশন ৪, প্রশ্ন ৮  | c) the                         | **a) a** (বিতর্কিত)                     | পার্ট ১-এর (সেকশন ২, প্রশ্ন ১) মতোই: নির্দিষ্ট প্রসঙ্গ না থাকলে `wants a dress` স্বাভাবিক।                                               |
+
+**PDF-এর ব্যাখ্যায় ভুল (কী ঠিক আছে):**
+
+| প্রশ্ন             | সমস্যা                                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------------------ |
+| সেকশন ১, প্রশ্ন ১৮ | ব্যাখ্যায় `under the water` লেখা, শুদ্ধ `under the weather`।                                    |
+| সেকশন ১, প্রশ্ন ২০ | ব্যাখ্যায় d-কে উত্তর বলা হয়েছে এবং `cartoon` লেখা। কিন্তু c-ই শুদ্ধ (d-তে `like` ভুল)।         |
+| সেকশন ৫, প্রশ্ন ১৪ | `man` (verb)-এর অর্থ "দৃঢ় করা" লেখা ভুল। শুদ্ধ অর্থ: কর্মী/লোক নিয়োগ করে চালানো (to staff)।    |
+| সেকশন ৬, প্রশ্ন ৯  | ব্যাখ্যায় `has been living` লেখা। subject বহুবচন, তাই `have been living` শুদ্ধ (অপশন b-ও তা-ই)। |
+
+**একাধিক উত্তর গ্রহণযোগ্য বা প্রশ্নে দুর্বলতা:** সেকশন ১-এর ১৬; সেকশন ২-এর ৫, ১০, ১৫; সেকশন ৩-এর ৭; সেকশন ৫-এর ৯, ১০; সেকশন ৬-এর ১০। এগুলোতে ⚠️ নোট আছে।
+
+---
+
+# সেকশন ১: NSI — Assistant Director (প্রশ্ন ১২–২০) | ০৮.১০.২০২১
+
+### ১২. Choose the correct sentence.
+
+- ক. No sooner be graduated he got a job
+- **খ. No sooner had he graduated than he got a job** ✅
+- গ. No sooner had he graduated then he had got a job
+- ঘ. No sooner he had graduated he got a job
+
+**ব্যাখ্যা:** **No sooner had + S + V₃ ... than + S + V₂**। প্রথম অংশে Past Perfect, দ্বিতীয় অংশে Past Indefinite। `As soon as he graduated, he got a job` এর negative রূপ এটি।
+
+**ভুল অপশন:** ক-তে `be graduated` ভুল। গ-তে `then` (সময়ের ক্রম, তুলনার `than` নয়) ও `had got` ভুল। ঘ-তে inversion (`had he`) ও `than` নেই।
+
+---
+
+### ১৩. What is the noun form of the word "defer"?
+
+- ক. Defer
+- **খ. Deferment** ✅
+- গ. Defference
+- ঘ. Different
+
+**ব্যাখ্যা:** **defer** (স্থগিত করা) → **deferment** (স্থগিতকরণ)। প্রত্যয়: verb + `-ment` (postpone → postponement)। `deferral`-ও প্রচলিত noun, তবে অপশনে নেই।
+
+**ভুল অপশন:** `Defference` ভুল বানান। `Different` adjective (ভিন্ন)।
+
+---
+
+### ১৪. What is the verb form of the word "Acquisition"?
+
+- ক. Acquiesce
+- খ. Acquisition
+- **গ. Acquire** ✅
+- ঘ. Aquifer
+
+**ব্যাখ্যা:** **acquire** (অর্জন করা) → **acquisition** (অর্জন, অধিগ্রহণ)। প্রত্যয় `-tion`।
+
+**ভুল অপশন:** `Acquiesce` = নীরবে মেনে নেওয়া (সম্পর্কহীন verb)। `Aquifer` = ভূগর্ভস্থ পানির স্তর।
+
+---
+
+### ১৫. What a synonym of the word "erudite"?
+
+- **ক. Knowledgeable** ✅
+- খ. Angry
+- গ. Illiterate
+- ঘ. Smart
+
+**ব্যাখ্যা:** **Erudite** = বিদ্বান, গভীর পাণ্ডিত্যসম্পন্ন (learned, scholarly)। নিকটতম অপশন `knowledgeable`। `Smart` সাধারণ চালাক বোঝায়, পাণ্ডিত্য নয়।
+
+---
+
+### ১৬. Choose the correct translation of the sentence: "You should fight shy of an evil company"
+
+- ক. তোমার খারাপ সংসর্গ থেকে দূরে থাকা উচিত
+- খ. তোমার খারাপ সংসর্গীদের সাথে মারামারি করা উচিত
+- গ. তোমার বাজে লোকদের সাথে মারামারি করা উচিত
+- **ঘ. তোমার বাজে সঙ্গ এড়িয়ে চলা উচিত** ✅
+
+**ব্যাখ্যা:** **fight shy of** = এড়িয়ে চলা, দূরে থাকা (to avoid)। এখানে `fight` আক্ষরিক "লড়াই" নয়। `evil company` = খারাপ সংসর্গ।
+
+⚠️ **নোট:** PDF-এর বাংলা অপশনগুলোর অক্ষর ভাঙা, তাই উপরের অপশন আমি পুনর্গঠন করেছি। অপশন ক ("খারাপ সংসর্গ থেকে দূরে থাকা") অর্থের দিক থেকে প্রায় একই। PDF-এর কী `ঘ` ("এড়িয়ে চলা", যা `fight shy of`-এর সরাসরি অর্থ)। ক-ও যুক্তিসঙ্গত।
+
+**ভুল অপশন:** খ ও গ-তে `fight`-এর আক্ষরিক অর্থ ধরা হয়েছে।
+
+---
+
+### ১৭. Choose the correct Spelling.
+
+- **ক. Onomatopoeia** ✅
+- খ. Onamatopoea
+- গ. Onamotopoeia
+- ঘ. Anomatopoeia
+
+**ব্যাখ্যা:** শুদ্ধ বানান **Onomatopoeia** = ধ্বন্যাত্মক শব্দ (শব্দের অনুকরণে গঠিত, যেমন buzz, splash, bang)। বাংলা: ধ্বন্যাত্মক/অনুকার শব্দ।
+
+---
+
+### ১৮. I am feeling under the weather. What does the underlined phrase mean?
+
+- ক. Feeling very cold
+- খ. Traumatized
+- গ. Showering sign of torture
+- **ঘ. Feeling slightly ill** ✅
+
+**ব্যাখ্যা:** **under the weather** = একটু অসুস্থ বোধ করা, শরীর ভালো না থাকা। উদাহরণ: I have been feeling under the weather since morning।
+
+**নোট:** PDF-এর ব্যাখ্যায় ভুল করে `under the water` লেখা আছে। শুদ্ধ `under the weather`।
+
+---
+
+### ১৯. I would have made sure Rana was here ....... were coming.
+
+- ক. If I have known you
+- খ. If I knew you
+- **গ. If I had known you** ✅
+- ঘ. when I had known
+
+**ব্যাখ্যা:** **3rd Conditional:** result clause `would have + V₃`, if-clause `Past Perfect (had known)`। পূর্ণ বাক্য: I would have made sure Rana was here if I had known you were coming। উদাহরণ: I would have called if I had known।
+
+**ভুল অপশন:** `have known` (Present Perfect), `knew` (Past Simple, 2nd conditional-এর রূপ), `when` (শর্ত নয়, সময়ের সংযোজক)।
+
+---
+
+### ২০. Choose the correct sentence.
+
+- ক. The kid likes to watch cartoon and eating chocolates.
+- খ. The kid likes watching cartoons and to eat chocolates.
+- **গ. The kid likes watching cartoons and eating chocolates.** ✅
+- ঘ. The kid like watching cartoons and eating chocolates.
+
+**ব্যাখ্যা:** **Parallel structure:** `and` দিয়ে যুক্ত অংশের রূপ একই হতে হবে। এখানে `watching ... and eating` (দুটিই gerund)। Subject `The kid` (একবচন), তাই verb `likes`।
+
+**নোট:** PDF-এর ব্যাখ্যায় অসংগতি আছে (d-কে উত্তর বলা এবং `cartoon`)। উত্তর c-ই ঠিক।
+
+**ভুল অপশন:** ক-তে `to watch ... eating` (অসামঞ্জস্য) ও `cartoon` (বহুবচন দরকার)। খ-তে `watching ... to eat` অসামঞ্জস্য। ঘ-তে `like` (singular subject-এর সাথে `likes`)।
+
+---
+
+# সেকশন ২: NSI — Field Officer | ০৮.১০.২০২১
+
+### ১. As soon as he saw me, he ..... away.
+
+- ক. has fled
+- **খ. fled** ✅
+- গ. fleed
+- ঘ. had fled
+
+**ব্যাখ্যা:** `As soon as` clause Past Indefinite (`saw`) হলে main clause-ও Past Indefinite। **flee – fled – fled** (irregular verb)। উদাহরণ: As soon as the bell rang, the students ran out।
+
+**ভুল অপশন:** `has fled` (Present Perfect), `fleed` (অস্তিত্বহীন রূপ), `had fled` (Past Perfect, এখানে দরকার নেই)।
+
+---
+
+### ২. While (walk) in the morning, I saw them playing.
+
+- ক. walk
+- খ. walked
+- **গ. walking** ✅
+- ঘ. walks
+
+**ব্যাখ্যা:** দুই কাজের কর্তা একই (I) হলে `while` এর পরে **V-ing** বসতে পারে (subject + be বাদ)। While walking = While I was walking।
+
+---
+
+### ৩. Don't mention anything unless you (ask) for.
+
+- ক. ask
+- খ. were asked
+- **গ. are asked** ✅
+- ঘ. will ask
+
+**ব্যাখ্যা:** `ask for` কেউ আপনাকে জিজ্ঞেস করলে, তাই **passive**। Imperative (`Don't mention`) বাক্যে `unless` clause Present Indefinite। শুদ্ধ: unless you **are asked** for।
+
+**ভুল অপশন:** `ask` (active, অর্থ ভুল), `were asked` (Past, বাক্যটি present/imperative), `will ask` (unless-এর পরে future বসে না)।
+
+---
+
+### ৪. Find out the correct form—
+
+- **ক. I got the work done by him.** ✅
+- খ. I got the work doing by him.
+- গ. I got the work been done by him.
+- ঘ. I got the work was doing by him.
+
+**ব্যাখ্যা:** Causative `get + object + past participle` = নিজে না করে অন্যকে দিয়ে করানো। সূত্র: **Subject + get/have + object + V₃ (+ by agent)**। উদাহরণ: I had my hair cut।
+
+---
+
+### ৫. Find out the correct form—
+
+- **ক. I, you and Shuma are guilty.** ✅
+- খ. Shuma, you and I are guilty.
+- গ. Shuma, I and you are guilty.
+- ঘ. I, you and shuma is guilty.
+
+**ব্যাখ্যা:** সাধারণ ভদ্র ক্রম: **2nd → 3rd → 1st** (You, Shuma and I)। কিন্তু দোষ স্বীকার বা অপরাধ (confession/guilt) বোঝালে **1st person আগে**: **I, you and Shuma**। এখানে `guilty` অপরাধ বোঝায়।
+
+⚠️ **নোট:** অপশন খ সাধারণ ভদ্র ক্রমে শুদ্ধ। প্রশ্নে `guilty` থাকায় PDF-এর কী `ক` রাখা হলো। শুধু ক্রমের নিয়ম আলাদা করে জানতে এই প্রশ্ন গুরুত্বপূর্ণ।
+
+**ভুল অপশন:** গ-তে ক্রম অশুদ্ধ। ঘ-তে `shuma` ছোট হাতের অক্ষর ও `is` (বহুবচন subject-এ `are`)।
+
+---
+
+### ৬. Find out the correct form—
+
+- ক. It is you who is responsible for this.
+- **খ. It is you who are responsible for this.** ✅
+- গ. It is you who are respond for this.
+- ঘ. It is you who respons for this.
+
+**ব্যাখ্যা:** `It is + pronoun + who/that` গঠনে `who`-এর পরের verb **আগের pronoun-এর person অনুযায়ী** হয়। `you` এর সাথে `are`। উদাহরণ: It is I who am sorry; It is he who is guilty।
+
+**ভুল অপশন:** ক-তে `is` (you-এর সাথে নয়), গ ও ঘ-তে `respond/respons` ভুল শব্দরূপ (adjective `responsible` দরকার)।
+
+---
+
+### ৭. ..... man standing in front of you is a doctor.
+
+- ক. A
+- **খ. The** ✅
+- গ. An
+- ঘ. No article
+
+**ব্যাখ্যা:** `standing in front of you` লোকটিকে নির্দিষ্ট করছে, তাই **the**। নির্দিষ্টকরণ থাকলে definite article।
+
+---
+
+### ৮. Rupa is ..... taller of the two sisters.
+
+- **ক. the** ✅
+- খ. a
+- গ. an
+- ঘ. No article
+
+**ব্যাখ্যা:** দুইজনের মধ্যে তুলনা করে একজনকে নির্দিষ্ট করলে comparative-এর আগে **the** বসে এবং পরে `of the two` থাকে। সূত্র: **the + comparative + of the two**। উদাহরণ: He is the stronger of the two।
+
+---
+
+### ৯. After a while they have arrived their destination. The underlined word 'After' is a/an—
+
+- **ক. preposition** ✅
+- খ. adverb
+- গ. noun
+- ঘ. conjunction
+
+**ব্যাখ্যা:** `After a while` = কিছুক্ষণ পর। এখানে `after`-এর পরে noun phrase (`a while`) আছে, তাই `after` **preposition**। বাক্যটি `After a while` নিজে সময়বাচক adverbial phrase।
+
+⚠️ **নোট:** PDF-এর কী `adverb`। কিন্তু ব্যাখ্যাতেই বলা আছে preposition হিসেবেও ব্যবহার সম্ভব। পার্ট ১-এ একই প্রশ্নের কী ছিল `preposition`। ব্যাকরণগত বিচারে (object থাকলে preposition) আমি `preposition` ধরেছি। এই PDF-এর কী `adverb` হলে সেটি বোর্ডের ধরন। এছাড়া বাক্যে `arrived their destination` ভুল (`arrived at`)।
+
+---
+
+### ১০. The synonym of the word 'Instantaneous' is —
+
+- ক. gradual
+- **খ. quick** ✅
+- গ. obedient
+- ঘ. deceive
+
+**ব্যাখ্যা:** **Instantaneous** = তাৎক্ষণিক, সঙ্গে সঙ্গে ঘটা। অপশনের মধ্যে নিকটতম `quick`। উদাহরণ: instantaneous response।
+
+**ভুল অপশন:** `gradual` = ধীরে ধীরে (বিপরীত), `obedient` = বাধ্য, `deceive` = প্রতারণা করা (verb)।
+
+---
+
+### ১১. Which is the correct spelling of the following?
+
+- ক. greatfulness
+- খ. gratefullness
+- **গ. gratefulness** ✅
+- ঘ. greatfullness
+
+**ব্যাখ্যা:** শুদ্ধ বানান **gratefulness** (grateful + ness)। মূল শব্দ `grate-ful` (great নয়)। `-ful` যুক্ত শব্দে `-ness` যোগ হলে একটি `l` থাকে (grateful, তাই gratefulness)। সমার্থক noun: gratitude, thankfulness।
+
+---
+
+### ১২. Fill in the blank: 'The poet had acquaintance ...... the renowned writers of his time'.
+
+- ক. to
+- খ. from
+- গ. by
+- **ঘ. with** ✅
+
+**ব্যাখ্যা:** `acquaintance with someone/something` = পরিচয়। উদাহরণ: I have a slight acquaintance with him।
+
+---
+
+### ১৩. A synonym of 'Prolific' is?
+
+- ক. Terrific
+- **খ. Productive** ✅
+- গ. Sophistic
+- ঘ. Proactive
+
+**ব্যাখ্যা:** **Prolific** = প্রচুর ফলনশীল, অনেক লেখে/তৈরি করে এমন (a prolific writer)। সমার্থক: **productive**।
+
+**ভুল অপশন:** `Terrific` = চমৎকার/ভয়ংকর, `Sophistic` = কূটতর্কপূর্ণ, `Proactive` = আগেভাগে উদ্যোগী।
+
+---
+
+### ১৪. 'Doing something at the drop of a hat' — What does the idiom mean?
+
+- ক. Doing something slowly.
+- **খ. Doing something instantaneously** ✅
+- গ. Doing something irrationally.
+- ঘ. Doing something later
+
+**ব্যাখ্যা:** **at the drop of a hat** = একটুও দ্বিধা না করে, সঙ্গে সঙ্গে। উদাহরণ: He would fight at the drop of a hat।
+
+---
+
+### ১৫. Which of the following is the passive voice form of 'Smartphones are very cheap today'?
+
+- ক. Smartphones are being very cheap today.
+- খ. Smartphones can be very cheap today.
+- গ. Smartphones are available at a cheap rate today.
+- **ঘ. Smartphones are considered to be very cheap today.** ✅
+
+**ব্যাখ্যা:** `are` এখানে main verb এবং বাক্যে object নেই। তাই সরাসরি passive হয় না। নিয়ম অনুযায়ী `are/is + considered to be + adjective` ব্যবহার করে passive-এর মতো রূপ দেওয়া হয়। অপশনের মধ্যে একমাত্র ঘ-তে passive গঠন (`are considered`) ও অর্থ রক্ষা পেয়েছে।
+
+⚠️ **নোট:** ব্যাকরণগতভাবে stative বাক্যের প্রকৃত passive নেই। এটি কেবল "অপশনের মধ্যে সবচেয়ে ঘনিষ্ঠ" ধরনের প্রশ্ন।
+
+**ভুল অপশন:** ক-তে অর্থহীন গঠন, খ-তে অর্থ বদলেছে (`can be`), গ-তে passive নয় (active-এ নতুন বাক্য)।
+
+---
+
+### ১৬. He tried his best but ......... failed once again.
+
+- **ক. as ill luck would have it** ✅
+- খ. at the bottom of
+- গ. at a stone's throw
+- ঘ. at the disposal of
+
+**ব্যাখ্যা:** **as ill luck would have it** = দুর্ভাগ্যবশত, দুর্ভাগ্যক্রমে। অর্থ: সে পূর্ণ চেষ্টা করেছিল, কিন্তু দুর্ভাগ্যবশত আবারও ব্যর্থ হলো।
+
+⚠️ **নোট:** PDF-এর কী `গ` (at a stone's throw)। এটি ভুল মনে হয়েছে। `at a stone's throw` মানে "খুব কাছে" (দূরত্ব বা নৈকট্য), যার সাথে "ব্যর্থ হলো" যুক্ত হয় না। PDF-এর ব্যাখ্যাটি জোর করে গড়া ("সফলতার খুব নিকটে গিয়ে ব্যর্থ")।
+
+**ভুল অপশন:** `at the bottom of` = মূলে/তলদেশে; `at a stone's throw` = অতি নিকটে; `at the disposal of` = কারও ব্যবহারের জন্য উপলব্ধ।
+
+---
+
+### ১৭. The antonym of the word 'Sanctification' is—
+
+- **ক. Desecration** ✅
+- খ. Declaration
+- গ. Sanction
+- ঘ. Degradation
+
+**ব্যাখ্যা:** **Sanctification** = পবিত্রকরণ, শুদ্ধিকরণ। বিপরীত: **desecration** = অপবিত্রকরণ (পবিত্র বস্তুর অবমাননা)।
+
+**ভুল অপশন:** `Declaration` = ঘোষণা; `Sanction` = অনুমোদন/নিষেধাজ্ঞা; `Degradation` = অবনতি/মর্যাদাহানি (সাধারণ অর্থ, পবিত্রতার বিপরীত নয়)।
+
+---
+
+### ১৮. As soon as he saw me, he ran away. The correct negative form is—
+
+- ক. No sooner had he seen me he ran away.
+- **খ. No sooner had he seen me than he ran away.** ✅
+- গ. No sooner he saw me than he ran away.
+- ঘ. He did not see me and he ran away.
+
+**ব্যাখ্যা:** **As soon as + S + V₂, S + V₂** → **No sooner had + S + V₃ + than + S + V₂**। (পার্ট ১, সেকশন ২, প্রশ্ন ৪-এর অনুরূপ।)
+
+---
+
+### ১৯. A fire (break) out in the slums last night.
+
+- **ক. broke** ✅
+- খ. broken
+- গ. has broken
+- ঘ. was broken
+
+**ব্যাখ্যা:** `last night` নির্দিষ্ট অতীত সময়, তাই **Past Indefinite**। **break – broke – broken**। `break out` (অকস্মাৎ শুরু হওয়া) intransitive, তাই passive নয়।
+
+---
+
+### ২০. Find out the correct form—
+
+- **ক. Father prayed that I might pass the exam.** ✅
+- খ. Father prayed for me that I might pass in the exam.
+- গ. Father said that I might pass the exam.
+- ঘ. Father prayed for me that I may passed the exam.
+
+**ব্যাখ্যা:** Optative বাক্যের (`May you pass`) indirect speech: **prayed that + subject + might + verb**। মূল রূপ: Father said to me, "May you pass the exam"।
+
+**ভুল অপশন:** খ-তে `pass in the exam` (অপ্রচলিত); গ-তে `said` প্রার্থনা-অর্থ বহন করে না; ঘ-তে `may passed` ভুল গঠন।
+
+---
+
+# সেকশন ৩: Sonali & Janata Bank — Senior Officer (IT) | ২৫.০৯.২০২১
+
+### ১. The warning of the authority falls on deaf ears. Here warning does the function of—
+
+- ক. Adverb
+- খ. Adjective
+- গ. Verb
+- **ঘ. Noun** ✅
+
+**ব্যাখ্যা:** `The ... of` এর মাঝের শব্দ সাধারণত noun। `warning` এখানে subject (The warning ... falls), তাই **noun** (verbal noun)। নিয়ম: article (`The`) এর পর noun আসে।
+
+---
+
+### ২. "A rolling stone gathers no moss" — the complex form of the sentence is ......
+
+- ক. Since a stone is rolling, it gathers no moss
+- খ. Though a stone rolls, it gathers no moss
+- গ. A stone what rolls gathers no moss.
+- **ঘ. A stone that rolls gathers no moss** ✅
+
+**ব্যাখ্যা:** Simple → Complex: participle phrase বা adjective-কে **relative clause**-এ রূপান্তর। `rolling stone` → `stone that rolls`।
+
+**ভুল অপশন:** ক-তে `Since` কারণ বোঝায় (অর্থ বদলায়), খ-তে `Though` বৈপরীত্য (অর্থ বদলায়), গ-তে `what` ভুল relative pronoun।
+
+---
+
+### ৩. Education is enlightening. Here 'enlightening' is—
+
+- ক. A gerund
+- **খ. A participle** ✅
+- গ. An infinitive
+- ঘ. A finite verb
+
+**ব্যাখ্যা:** `is` linking verb, তারপর `enlightening` adjective-এর মতো কাজ করছে ("আলোকদানকারী")। এটি **Present Participle** (participial adjective)।
+
+**ভুল অপশন:** Gerund noun-এর কাজ করে (Reading is fun)। Infinitive `to + verb`। `is` finite verb, `enlightening` নয়।
+
+---
+
+### ৪. The comparison of unlike things with the words 'as' or 'like' is known to be....
+
+- ক. Metaphor
+- **খ. Simile** ✅
+- গ. Alliteration
+- ঘ. Personification
+
+**ব্যাখ্যা:** **Simile** = `as/like` দিয়ে সরাসরি তুলনা (He is as brave as a lion)। **Metaphor** = `as/like` ছাড়া তুলনা (He is a lion)। Alliteration = একই ধ্বনির পুনরাবৃত্তি; Personification = নির্জীবে প্রাণ আরোপ।
+
+**নোট:** প্রশ্নের শব্দবিন্যাস PDF-এ ভাঙা, তাই প্রশ্নটি অর্থ অনুযায়ী পুনর্গঠিত।
+
+---
+
+### ৫. In English grammar — deals with formation of sentences.
+
+- ক. Morphology
+- খ. Etymology
+- **গ. Syntax** ✅
+- ঘ. Semantics
+
+**ব্যাখ্যা:** **Syntax** = বাক্য গঠনের নিয়ম। **Morphology** = শব্দ গঠন; **Etymology** = শব্দের উৎপত্তি; **Semantics** = অর্থতত্ত্ব।
+
+---
+
+### ৬. Give the antonym of the word 'transitory'—
+
+- ক. Temporary
+- **খ. Permanent** ✅
+- গ. Transparent
+- ঘ. Short lived
+
+**ব্যাখ্যা:** **Transitory** = ক্ষণস্থায়ী। বিপরীত: **permanent** = স্থায়ী। `Temporary` ও `Short lived` সমার্থক।
+
+---
+
+### ৭. Choose the pair of the words that expresses a relationship similar to that of "Harm : Damage"—
+
+- ক. Sweet : Sour
+- **খ. Injure : Incapacitate** ✅
+- গ. Stout : Weak
+- ঘ. Hook : Crook
+
+**ব্যাখ্যা:** **Harm : Damage** দুটি সমার্থক/সম্পর্কিত শব্দ। **Injure : Incapacitate** একই ধারার (ক্ষতি করা : অক্ষম করে ফেলা)। বাকিগুলো বিপরীত (Sweet : Sour; Stout : Weak) বা idiom-জোড় (by hook or by crook)।
+
+⚠️ **নোট:** Analogy প্রশ্নে `Injure` ও `Incapacitate` সম্পূর্ণ সমার্থক নয়, `Incapacitate` তীব্রতর। অপশনের মধ্যে এটিই সবচেয়ে কাছের।
+
+---
+
+### ৮. Which word is the determiner in the sentence "Will it take much time?"
+
+- ক. Will
+- খ. Take
+- **গ. Much** ✅
+- ঘ. Time
+
+**ব্যাখ্যা:** **Determiner** noun-এর আগে বসে তার পরিমাণ/নির্দিষ্টতা বোঝায় (a, the, much, some, this)। এখানে `much` noun `time`-এর পরিমাণ নির্দেশ করছে।
+
+---
+
+### ৯. Which is the correct sentence?
+
+- **ক. He insisted on seeing her** ✅
+- খ. He insisted for seeing her
+- গ. He insisted in seeing her
+- ঘ. He insisted to be seeing her.
+
+**ব্যাখ্যা:** **insist on + V-ing/noun**। উদাহরণ: She insisted on going alone।
+
+---
+
+### ১০. If a part of a speech or writing breaks the theme, it is called......
+
+- ক. Pomposity
+- **খ. Digression** ✅
+- গ. Exaggeration
+- ঘ. Anti-climax
+
+**ব্যাখ্যা:** **Digression** = মূল প্রসঙ্গ থেকে সরে যাওয়া।
+
+**ভুল অপশন:** `Pomposity` = আড়ম্বরপূর্ণ ভাব; `Exaggeration` = অতিরঞ্জন; `Anti-climax` = চরম মুহূর্তে হঠাৎ সাধারণ কিছুতে নেমে আসা।
+
+---
+
+# সেকশন ৪: NSI — Junior Field Officer | ২৪.০৯.২০২১
+
+### ১. Choose the correct passive form of "What did you want"?
+
+- **ক. What was wanted by you?** ✅
+- খ. What were wanted at you?
+- গ. What was want by you?
+- ঘ. What was wanted you?
+
+**ব্যাখ্যা:** Wh-question Past Indefinite passive: **Wh-word + was/were + V₃ + by + subject?** `What` object, `you` agent।
+
+---
+
+### ২. Choose the correct passive form of 'Who is calling me'?
+
+- ক. By who am I called?
+- খ. By who am being called?
+- **গ. By whom am I being called?** ✅
+- ঘ. By whom am I called?
+
+**ব্যাখ্যা:** Present Continuous passive: **By whom + am/is/are + subject + being + V₃?** `me` → `I`, `Who` → `By whom` (agent-এ object case)।
+
+**ভুল অপশন:** ক ও খ-তে `who` (শুদ্ধ `whom`)। ঘ-তে `being` নেই (continuous রূপ হয়নি)।
+
+---
+
+### ৩. The bus service is not available today. The drivers are .... strike.
+
+- ক. into
+- খ. with
+- গ. in
+- **ঘ. on** ✅
+
+**ব্যাখ্যা:** **on strike** = ধর্মঘটে। উদাহরণ: The workers are on strike।
+
+---
+
+### ৪. They are going to meet the principal .... Sunday morning.
+
+- **ক. on** ✅
+- খ. at
+- গ. in
+- ঘ. within
+
+**ব্যাখ্যা:** নির্দিষ্ট দিন (Sunday) ও দিনের অংশ (Sunday morning)-এর আগে **on**। মাস/বছরে `in` (in June)। উদাহরণ: on Friday evening।
+
+---
+
+### ৫. I shouted ..... him from the other side of the street but he couldn't hear.
+
+- ক. toward
+- খ. at
+- **গ. to** ✅
+- ঘ. upon
+
+**ব্যাখ্যা:** **shout to someone** = শোনার জন্য উচ্চস্বরে ডাকা/বলা। **shout at someone** = রাগ করে চিৎকার করা। রাস্তার ওপাশ থেকে ডাকার অর্থ প্রথমটি।
+
+⚠️ **নোট:** PDF-এর কী `খ` (at)। কিন্তু প্রসঙ্গ অনুযায়ী `to`-ই বেশি শুদ্ধ। পরীক্ষায় বোর্ডের কী `at` হলে সেটি জানা থাকা ভালো।
+
+**ভুল অপশন:** `toward` ও `upon` এ ক্রিয়ার সাথে বসে না।
+
+---
+
+### ৬. They provided us .... food and drink.
+
+- ক. for
+- **খ. with** ✅
+- গ. about
+- ঘ. to
+
+**ব্যাখ্যা:** **provide someone with something** (বা provide something for/to someone)। এখানে `us` আগে থাকায় `with`। উদাহরণ: The hotel provided us with meals।
+
+---
+
+### ৭. He went to the school on ..... foot.
+
+- ক. a
+- খ. an
+- গ. the
+- **ঘ. no article** ✅
+
+**ব্যাখ্যা:** **on foot** = হেঁটে। স্থায়ী phrase, মাঝে article বসে না। তুলনা: by bus, by car, on foot।
+
+---
+
+### ৮. My sister really wants ..... dress for Christmas.
+
+- **ক. a** ✅
+- খ. an
+- গ. the
+- ঘ. no article
+
+**ব্যাখ্যা:** নির্দিষ্ট কোনো পোশাকের কথা আগে থেকে না থাকলে singular countable noun-এর আগে **a**।
+
+⚠️ **নোট:** PDF-এর কী `the`, যেমন পার্ট ১-এর সেকশন ২, প্রশ্ন ১-এ। প্রশ্নে নির্দিষ্ট পোশাকের কোনো প্রসঙ্গ নেই, তাই `a` বেশি স্বাভাবিক। PDF-এর ব্যাখ্যায় "নির্দিষ্ট dress কিনতে চেয়েছে" ধরে নেওয়া হয়েছে, যা প্রশ্নে নেই।
+
+---
+
+### ৯. Select the correct form of adverb: "The student has carefully submitted her examination paper"
+
+- ক. paper
+- খ. examination
+- **গ. carefully** ✅
+- ঘ. student
+
+**ব্যাখ্যা:** `carefully` (careful + -ly) ক্রিয়া `submitted`-কে modify করছে, তাই adverb। বাকি তিনটি noun (`examination` এখানে noun adjunct)।
+
+---
+
+### ১০. "I while away my pastime with novels" — here 'while' is a/an:
+
+- ক. adverb
+- **খ. verb** ✅
+- গ. conjunction
+- ঘ. adjective
+
+**ব্যাখ্যা:** **while away** (phrasal verb) = সময় কাটানো। `I` এর পরে `while` মূল verb হিসেবে বসেছে। উদাহরণ: He whiled away the afternoon reading।
+
+**নোট:** স্বাভাবিক ব্যবহার `while away the time`। প্রশ্নের `pastime` বাক্যটিকে একটু অস্বাভাবিক করেছে, উত্তরে প্রভাব নেই।
+
+---
+
+### ১১. Identify the correct antonym for the word 'PROFLIGATE':
+
+- ক. Aggravate
+- **খ. Frugal** ✅
+- গ. Criticize
+- ঘ. Copious
+
+**ব্যাখ্যা:** **Profligate** = অপব্যয়ী। বিপরীত: **frugal** = মিতব্যয়ী। (পার্ট ১, সেকশন ২, প্রশ্ন ৫-এর পুনরাবৃত্তি।)
+
+---
+
+### ১২. Identify the correct synonym for the word 'INNOCUOUS':
+
+- ক. Perky
+- খ. Bitter
+- গ. Dishearten
+- **ঘ. Harmless** ✅
+
+**ব্যাখ্যা:** **Innocuous** = ক্ষতিহীন, নির্দোষ। সমার্থক: **harmless**।
+
+**ভুল অপশন:** `Perky` = প্রাণবন্ত/ফুর্তিবাজ; `Bitter` = তিক্ত; `Dishearten` = নিরুৎসাহিত করা (verb)।
+
+---
+
+### ১৩. Choose the right Bengali translation of "Hardly I go out after dusk":
+
+- ক. আমি সন্ধ্যার পর মোটেই বাইরে যাই না
+- খ. আমি সন্ধ্যার পর প্রায়ই বাইরে যাই
+- গ. আমি সন্ধ্যার পরপরই বাইরে যাই
+- **ঘ. আমি সন্ধ্যার পর কদাচিৎ বাইরে যাই** ✅
+
+**ব্যাখ্যা:** **Hardly** (adverb) = কদাচিৎ, প্রায় কখনোই না। সন্ধ্যার পর = after dusk।
+
+**নোট:** PDF-এর বাংলা অপশন ভাঙা ছিল, অর্থ অনুযায়ী পুনর্গঠন করেছি। প্রশ্নের ইংরেজি বাক্যে `Hardly` আগে বসলে `Hardly do I go out` হওয়া উচিত, কিন্তু উত্তরে প্রভাব নেই।
+
+---
+
+### ১৪. The right Bengali translation of the sentence "It is fifteen minutes past four" is—
+
+- **ক. এখন চারটা বেজে পনেরো মিনিট** ✅
+- খ. এখন চারটা বাজতে পনেরো মিনিট
+- গ. এখন চারটা বাজতে পাঁচ মিনিট
+- ঘ. এখন চারটা বাজতে পনেরো মিনিট বাকি
+
+**ব্যাখ্যা:** **past four** = চারটার পরে। অর্থাৎ চারটা বেজে ১৫ মিনিট। `to four` হলে "চারটা বাজতে বাকি"।
+
+**নোট:** PDF-এর বাংলা অপশন আংশিক ভাঙা, অর্থ অনুযায়ী পুনর্গঠিত।
+
+---
+
+### ১৫. Find the correctly spelt word:
+
+- ক. Forcast
+- খ. Forecaste
+- গ. Forcaust
+- **ঘ. Forecast** ✅
+
+**ব্যাখ্যা:** শুদ্ধ বানান **forecast** (fore + cast) = পূর্বাভাস। উদাহরণ: weather forecast।
+
+---
+
+### ১৬. Which of the following word is correctly spelt?
+
+- ক. Palete
+- খ. Palet
+- **গ. Palate** ✅
+- ঘ. Pelate
+
+**ব্যাখ্যা:** **Palate** = তালু; রুচি/স্বাদবোধ। সতর্কতা: **palette** = রং মেশানোর পাটা; **pallet** = কাঠের তাক। তিনটির উচ্চারণ কাছাকাছি, বানান ও অর্থ আলাদা।
+
+---
+
+### ১৭. "Take one to task" means—
+
+- ক. resume
+- খ. imitate
+- গ. retrains
+- **ঘ. rebuke** ✅
+
+**ব্যাখ্যা:** **take someone to task** = তিরস্কার করা, কৈফিয়ত চাওয়া (rebuke, scold)। উদাহরণ: The teacher took him to task for being late।
+
+---
+
+### ১৮. Choose the correct form of tense: 'I shall visit the Ekushay book fair tomorrow'.
+
+- ক. simple past
+- খ. simple present
+- **গ. simple future** ✅
+- ঘ. future continuous
+
+**ব্যাখ্যা:** গঠন **Subject + shall/will + V₁** = Future Indefinite (Simple Future)। `tomorrow` ভবিষ্যৎ নির্দেশ করে।
+
+---
+
+### ১৯. Choose the correct form of tense: 'The man has a gruff voice'.
+
+- **ক. simple present** ✅
+- খ. present perfect
+- গ. past perfect
+- ঘ. present continuous
+
+**ব্যাখ্যা:** এখানে `has` মূল verb (অধিকার/বৈশিষ্ট্য বোঝায়), সহায়ক নয়। তাই **Present Indefinite**, Present Perfect নয়। Present Perfect হতে হলে `has + V₃` দরকার (has gone)।
+
+---
+
+### ২০. Choose the correct form of tense: 'I will have finished this work by the end of this month'.
+
+- **ক. future perfect** ✅
+- খ. present perfect
+- গ. simple past
+- ঘ. simple present
+
+**ব্যাখ্যা:** **will/shall + have + V₃** = Future Perfect। `by the end of this month` ভবিষ্যতের নির্দিষ্ট সময়ের আগেই কাজ শেষ বোঝায়।
+
+---
+
+### ২১. Choose the correct sentence.
+
+- **ক. Many people are dying of COVID-19.** ✅
+- খ. Many people are dying for COVID-19.
+- গ. Many people are dying by COVID-19.
+- ঘ. Many people are killed for COVID-19.
+
+**ব্যাখ্যা:** **die of** = রোগে বা অনাহারে/বার্ধক্যে মারা যাওয়া (die of cancer, die of hunger)। **die from** = দুর্ঘটনা/আঘাত বা পরোক্ষ কারণে। **die for** = কোনো উদ্দেশ্যে প্রাণ দেওয়া (die for one's country)।
+
+**ভুল অপশন:** খ-তে `for` (উদ্দেশ্য অর্থ), গ-তে `by` (কর্তা অর্থ), ঘ-তে `killed for` (রোগের কারণ বোঝাতে `of` লাগে)।
+
+---
+
+### ২২. Choose the correct sentence.
+
+- ক. One should do his duties and responsibilities.
+- খ. One should do their duties and responsibilities.
+- গ. One should do ones duties and responsibilities.
+- **ঘ. One should do one's duties and responsibilities.** ✅
+
+**ব্যাখ্যা:** `One` pronoun-এর possessive হলো **one's** (apostrophe সহ)। `One ... one's` ধারাবাহিকতা রক্ষা করে।
+
+**নোট:** আমেরিকান ইংরেজিতে `One ... his` চলে, কিন্তু প্রচলিত formal নিয়মে `one's`। `ones` শুধু বহুবচন (the green ones)।
+
+---
+
+### ২৩. Choose the correct sentence.
+
+- **ক. I was late because there was so much traffic.** ✅
+- খ. I was late because there was so many traffic.
+- গ. I was late because there was as much traffic.
+- ঘ. I was late because there is so much traffic.
+
+**ব্যাখ্যা:** **Traffic** uncountable noun, তাই `much` (many নয়)। Past Indefinite (`was late`) এর সাথে `was`। উদাহরণ: There is so much noise।
+
+**ভুল অপশন:** খ-তে `so many` (countable-এর জন্য), গ-তে `as much` অসম্পূর্ণ তুলনা, ঘ-তে `is` (tense মিলছে না)।
+
+---
+
+# সেকশন ৫: NSI — Watch Constable | ১৭.০৯.২০২১
+
+### ১. Abdullah has no appetite ..... food.
+
+- ক. at
+- খ. to
+- গ. upon
+- **ঘ. for** ✅
+
+**ব্যাখ্যা:** **appetite for** = কোনোকিছুর প্রতি ক্ষুধা/আগ্রহ। উদাহরণ: appetite for knowledge, appetite for food।
+
+---
+
+### ২. I condole ..... my friend ..... his sister's death.
+
+- ক. with, to
+- খ. on, with
+- **গ. with, on** ✅
+- ঘ. to, with
+
+**ব্যাখ্যা:** **condole with someone on something** = কারও কোনো ক্ষতিতে সমবেদনা জানানো। উদাহরণ: I condoled with him on his father's death।
+
+---
+
+### ৩. He hinted me ..... the matter.
+
+- **ক. at** ✅
+- খ. to
+- গ. by
+- ঘ. with
+
+**ব্যাখ্যা:** **hint at something** = ইঙ্গিত করা। উদাহরণ: He hinted at the possibility of resignation।
+
+⚠️ **নোট:** প্রশ্নের `hinted me ... the matter` ব্যাকরণগতভাবে অসম্পূর্ণ (শুদ্ধ: `hinted to me about the matter` বা `hinted at the matter`)। অপশনের মধ্যে `at`-ই সঠিক।
+
+---
+
+### ৪. Choose the correct passive form of: 'My son bought a new Motor Bike'.
+
+- ক. My son did buy a new motor bike.
+- খ. A new motor bike had been bought by my son
+- গ. A new motor bike been bought by my son
+- **ঘ. A new motor bike was bought by my son** ✅
+
+**ব্যাখ্যা:** Past Indefinite passive: **Object + was/were + V₃ + by + subject**। উদাহরণ: He wrote a letter → A letter was written by him।
+
+**ভুল অপশন:** ক active (emphatic), খ Past Perfect (tense বদলেছে), গ-তে auxiliary `was` নেই।
+
+---
+
+### ৫. How long is it since you ...... him last?
+
+- **ক. saw** ✅
+- খ. have seen
+- গ. had seen
+- ঘ. see
+
+**ব্যাখ্যা:** **It is/has been + time + since + Past Indefinite**। উদাহরণ: It is two years since I saw him।
+
+**ভুল অপশন:** `have seen`, `had seen`, `see` since-clause-এ বসে না।
+
+---
+
+### ৬. We are friends. We ...... each other for years.
+
+- ক. knew
+- খ. know
+- গ. have been knowing
+- **ঘ. have known** ✅
+
+**ব্যাখ্যা:** `know` stative verb (continuous হয় না)। অতীত থেকে চলমান বোঝাতে **Present Perfect (have known)**। `for years` এর সাথে Present Perfect।
+
+---
+
+### ৭. At 11 am tomorrow, they ...... in the factory.
+
+- ক. will work
+- **খ. will be working** ✅
+- গ. work
+- ঘ. will have worked
+
+**ব্যাখ্যা:** ভবিষ্যতের নির্দিষ্ট সময়ে কাজ চলমান থাকবে বোঝাতে **Future Continuous (will be + V-ing)**।
+
+---
+
+### ৮. We ...... dinner when the phone rang.
+
+- ক. had
+- খ. have had
+- গ. have
+- **ঘ. were having** ✅
+
+**ব্যাখ্যা:** দীর্ঘ চলমান কাজ (Past Continuous), মাঝে ছোট কাজ (Past Indefinite `rang`)। **We were having dinner when the phone rang**।
+
+---
+
+### ৯. Choose the correct sentence.
+
+- ক. Stop to write.
+- **খ. Who is that man waiting outside?** ✅
+- গ. They let us to go outside.
+- ঘ. He helped me writing the essay.
+
+**ব্যাখ্যা:** `waiting outside` participle phrase দিয়ে man-কে modify করা শুদ্ধ। **let + object + base verb** (let us go)। **help + object + (to) V₁** (helped me write)।
+
+⚠️ **নোট:** অপশন ক `Stop to write` ব্যাকরণগতভাবে শুদ্ধ হতে পারে (অর্থ: লিখতে থামো)। PDF-এর ব্যাখ্যা একে ভুল বলেছে। তবে খ নিঃসন্দেহে শুদ্ধ এবং গ ও ঘ নিশ্চিতভাবে ভুল, তাই উত্তর `খ`।
+
+---
+
+### ১০. Choose the correct sentence.
+
+- ক. She has got very long hairs.
+- খ. Give me some papers to write on
+- গ. There were too many noises.
+- **ঘ. The news has made us very happy.** ✅
+
+**ব্যাখ্যা:** `news` uncountable/singular noun, তাই `has made` শুদ্ধ। **hair** (চুল, সামগ্রিক অর্থে) uncountable, তাই `very long hair`।
+
+**ভুল অপশন:** ক-তে `hairs` ভুল। খ-তে `papers` কাগজ সংখ্যা গুনে নেওয়ার অর্থ আসে (`some paper` স্বাভাবিক)। গ-তে `too many noises` অপ্রচলিত, স্বাভাবিক `too much noise`।
+
+---
+
+### ১১. I have to go to ..... bank now.
+
+- **ক. the** ✅
+- খ. a
+- গ. an
+- ঘ. no article
+
+**ব্যাখ্যা:** বক্তা ও শ্রোতা উভয়ের জানা নির্দিষ্ট ব্যাংক/প্রতিষ্ঠান (সাধারণ জায়গা) বোঝাতে **the bank** (go to the bank, the post office, the market)।
+
+---
+
+### ১২. He had three eggs for ...... breakfast.
+
+- ক. the
+- খ. a
+- গ. an
+- **ঘ. no article** ✅
+
+**ব্যাখ্যা:** **breakfast, lunch, dinner, supper** সাধারণ অর্থে article ছাড়া বসে। বিশেষণ থাকলে article আসে (a heavy breakfast)। উদাহরণ: I have lunch at 1 pm।
+
+---
+
+### ১৩. Which of the following is a noun?
+
+- ক. add
+- খ. abhor
+- **গ. mention** ✅
+- ঘ. attend
+
+**ব্যাখ্যা:** **mention** noun (উল্লেখ) ও verb (উল্লেখ করা) উভয়ই। বাকিগুলো কেবল verb: add (যোগ করা), abhor (ঘৃণা করা), attend (উপস্থিত থাকা)। উদাহরণ (noun): She made no mention of the incident।
+
+---
+
+### ১৪. Which of the following is a verb?
+
+- ক. mansion
+- খ. bastion
+- **গ. man** ✅
+- ঘ. attention
+
+**ব্যাখ্যা:** **man** noun (পুরুষ/মানুষ) ও verb। Verb হিসেবে অর্থ: (কোনো জায়গায়) কর্মী মোতায়েন করে চালানো, যেমন: man the phones, man the boat।
+
+**নোট:** PDF-এর ব্যাখ্যায় verb অর্থ "দৃঢ় করা" লেখা ভুল। শুদ্ধ অর্থ উপরের মতো।
+
+**ভুল অপশন:** `mansion` (প্রাসাদ), `bastion` (দুর্গ/প্রতিরক্ষা-ঘাঁটি), `attention` (মনোযোগ), সবগুলো noun।
+
+---
+
+### ১৫. Which of the following is an antonym for the word 'COURAGEOUS'?
+
+- **ক. Cowardly** ✅
+- খ. Valiant
+- গ. Undaunted
+- ঘ. Indomitable
+
+**ব্যাখ্যা:** **Courageous** = সাহসী। বিপরীত: **cowardly** = ভীরু। বাকি তিনটি (valiant, undaunted, indomitable) সমার্থক।
+
+---
+
+### ১৬. Which of the following is a synonym for the word 'IRRITATE'?
+
+- **ক. Vex** ✅
+- খ. Ease
+- গ. Facilitate
+- ঘ. Reject
+
+**ব্যাখ্যা:** **Irritate** = বিরক্ত করা, চটানো। সমার্থক: **vex**। বিপরীত ভাব: ease, facilitate (সহজ করা)।
+
+---
+
+### ১৭. 'চিন্তাশীল ও সৎ মানুষ তৈরি করা যেকোনো শিক্ষাপ্রতিষ্ঠানের লক্ষ্য হওয়া উচিত' — সঠিক ইংরেজি অনুবাদ কোনটি?
+
+- ক. The goal of any educational institution should produce thinking and honest human beings.
+- খ. The aim of an educational institution should be to produce thinking and honest human beings.
+- গ. The objectives of an educational institution ought to produce thinking and honest human beings.
+- **ঘ. The aim of any educational institution should be to produce thinking and honest human beings.** ✅
+
+**ব্যাখ্যা:** "লক্ষ্য হওয়া উচিত" = `should be to produce`। **The aim/goal ... should be to + verb**। `যেকোনো` = `any`।
+
+⚠️ **নোট:** PDF-এর কী `ক`। কিন্তু `ক`-তে `goal ... should produce` ব্যাকরণগতভাবে অশুদ্ধ (লক্ষ্য নিজে কিছু উৎপাদন করে না, `be to` দরকার)। PDF-এর নিজের ব্যাখ্যাতেও ঘ-কে শুদ্ধ বলা হয়েছে। অপশন খ (`an`) ব্যাকরণগতভাবে শুদ্ধ হলেও `যেকোনো` অর্থে `any` বেশি সঠিক।
+
+**ভুল অপশন:** গ-তে `objectives ... ought to produce` একই ধরনের গঠনগত ভুল।
+
+**নোট:** বাংলা প্রশ্নটি PDF-এ ভাঙা ছিল, অর্থ অনুযায়ী পুনর্গঠিত।
+
+---
+
+### ১৮. Choose the correct spelling.
+
+- ক. Accomodatiom
+- খ. Acommodation
+- **গ. Accommodation** ✅
+- ঘ. Acomodation
+
+**ব্যাখ্যা:** শুদ্ধ বানান **Accommodation** = আবাসন (double c, double m)। মনে রাখার কৌশল: "Two c's, two m's"।
+
+---
+
+### ১৯. Choose the correct spelling.
+
+- **ক. Acquiescence** ✅
+- খ. Acquisence
+- গ. Acquiecence
+- ঘ. Aquiescence
+
+**ব্যাখ্যা:** শুদ্ধ বানান **Acquiescence** = নীরব সম্মতি/মেনে নেওয়া। Verb: acquiesce।
+
+---
+
+### ২০. He is the black sheep in the family. Here 'black sheep' means—
+
+- ক. a clever person
+- খ. an irritating person
+- গ. a noble person
+- **ঘ. an unworthy person** ✅
+
+**ব্যাখ্যা:** **black sheep** = পরিবারের কুলাঙ্গার, যে নিজের আচরণে পরিবারের লজ্জার কারণ।
+
+---
+
+# সেকশন ৬: NSI — Wireless Operator / Accounts cum Cashier | ১১.০৯.২০২১
+
+### ১. She was absent ..... meeting.
+
+- **ক. from** ✅
+- খ. of
+- গ. for
+- ঘ. by
+
+**ব্যাখ্যা:** **absent from** = অনুপস্থিত। উদাহরণ: He was absent from class।
+
+---
+
+### ২. He was accused ..... theft.
+
+- ক. from
+- **খ. of** ✅
+- গ. for
+- ঘ. by
+
+**ব্যাখ্যা:** **accuse someone of something** (passive: be accused of)। উদাহরণ: She was accused of lying।
+
+---
+
+### ৩. He left ..... home.
+
+- ক. from
+- খ. of
+- গ. by
+- **ঘ. for** ✅
+
+**ব্যাখ্যা:** **leave for + গন্তব্য** = কোথাও যাওয়ার উদ্দেশ্যে রওনা হওয়া। উদাহরণ: He left Dhaka for Khulna। `left for home` = বাড়ির উদ্দেশ্যে রওনা দিল।
+
+**নোট:** `He left home` (preposition ছাড়া) অর্থ বাড়ি ছেড়ে দিল। প্রশ্নে অপশনের মধ্যে `for` শুদ্ধ।
+
+---
+
+### ৪. He prefers milk ..... tea.
+
+- **ক. to** ✅
+- খ. of
+- গ. for
+- ঘ. by
+
+**ব্যাখ্যা:** **prefer A to B** (than নয়)। উদাহরণ: I prefer tea to coffee।
+
+---
+
+### ৫. You should abide ...... the rules.
+
+- ক. from
+- খ. of
+- গ. for
+- **ঘ. by** ✅
+
+**ব্যাখ্যা:** **abide by** = মেনে চলা (rules, law, decision)। উদাহরণ: abide by the law। (`abide in` = বসবাস করা)।
+
+---
+
+### ৬. Choose the correct sentence.
+
+- **ক. How old are you?** ✅
+- খ. How you are old?
+- গ. How old you are?
+- ঘ. How are you old?
+
+**ব্যাখ্যা:** Wh-question: **Wh-word (+ adjective) + auxiliary + subject**। `How old` একত্রে থাকে, এরপর `are you`।
+
+---
+
+### ৭. আমার একটি কুকুর ছিল — এর সঠিক ইংরেজি অনুবাদ:
+
+- ক. I has a dog.
+- খ. I was a dog.
+- **গ. I had a dog.** ✅
+- ঘ. I a dog.
+
+**ব্যাখ্যা:** মালিকানা অর্থে `have`; অতীতে `had`। উদাহরণ: He has a pen / He had a pen।
+
+**ভুল অপশন:** ক-তে `I has` ভুল (I-এর সাথে have), খ-তে `was` ("আমি কুকুর ছিলাম"), ঘ-তে verb নেই।
+
+---
+
+### ৮. Hazi Mohsin was ..... the poor.
+
+- ক. angry with
+- খ. annoyed with
+- গ. cruel with
+- **ঘ. kind to** ✅
+
+**ব্যাখ্যা:** **kind to someone** = কারও প্রতি সদয়। হাজী মুহাম্মদ মুহসিন ছিলেন দানবীর, তাই `kind to the poor`।
+
+**ঘটনাক্রম:** হাজী মুহাম্মদ মুহসিন (আনুমানিক ১৭৩২–২৯ নভেম্বর ১৮১২) হুগলির বিখ্যাত দানবীর। তিনি ১৮০৬ সালে নিজের সমস্ত সম্পত্তি ওয়াকফ করেন, যা থেকে গঠিত "মুহসিন ফান্ড" দিয়ে পরে হুগলি মাদ্রাসা (১৮১৭) ও হুগলি মহসিন কলেজ (১৮৩৬) স্থাপিত হয়। ১৭৭০-এর দুর্ভিক্ষে তিনি অনেক মানুষকে সাহায্য করেছিলেন।
+
+**ভুল অপশন:** `angry with`, `annoyed with` ব্যাকরণগতভাবে শুদ্ধ, কিন্তু অর্থ প্রসঙ্গের বিপরীত। `cruel with` শুদ্ধ নয় (শুদ্ধ `cruel to`), আর অর্থও বিপরীত।
+
+---
+
+### ৯. Raj and his family ..... here since March 2015.
+
+- ক. is living
+- **খ. have been living** ✅
+- গ. lives
+- ঘ. has lived
+
+**ব্যাখ্যা:** `since March 2015` অতীতের নির্দিষ্ট সময় থেকে বর্তমান পর্যন্ত চলমান, তাই **Present Perfect Continuous**। Subject `Raj and his family` বহুবচন, তাই `have been living`। উদাহরণ: They have been living here since 2010।
+
+**নোট:** PDF-এর ব্যাখ্যায় `has been living` লেখা ভুল, শুদ্ধ `have been living`।
+
+**ভুল অপশন:** `is living`, `lives` (since-এর সাথে বসে না), `has lived` (বহুবচন subject-এ `has` ভুল)।
+
+---
+
+### ১০. Our examination ...... on 13 October 2021.
+
+- ক. has begun
+- **খ. is beginning** ✅
+- গ. begins
+- ঘ. begun
+
+**ব্যাখ্যা:** ভবিষ্যতের নির্ধারিত ঘটনা: **Present Continuous (is beginning)** (ব্যবস্থা করা পরিকল্পনা) বা **Present Indefinite (begins)** (সূচি/সময়সূচি)।
+
+⚠️ **নোট:** `begins` সময়সূচি বোঝাতে খুবই প্রচলিত ও শুদ্ধ। PDF-এর কী `খ`। PDF-এর ব্যাখ্যাতেই দুটিই উল্লেখ আছে। পরীক্ষায় দুটি একসাথে এলে প্রশ্ন বাতিল বা দুটিই গ্রহণযোগ্য হতে পারে।
+
+**ভুল অপশন:** `has begun` (Present Perfect, ভবিষ্যৎ তারিখের সাথে নয়), `begun` (অসম্পূর্ণ রূপ, auxiliary ছাড়া)।
+
+---
+
+### ১১. The correct spelling is .....
+
+- ক. Humonirous
+- খ. Humorious
+- **গ. Humorous** ✅
+- ঘ. Hummorious
+
+**ব্যাখ্যা:** শুদ্ধ বানান **Humorous** (humor + -ous; `u` বাদ পড়ে `humorous`)। অর্থ: রসাত্মক, কৌতুকপূর্ণ।
+
+---
+
+### ১২. Find out the correct translation: 'সকাল থেকে গুঁড়ি গুঁড়ি বৃষ্টি হচ্ছে'—
+
+- ক. It is raining from morning.
+- খ. It has been raining from morning.
+- **গ. It has been drizzling since morning.** ✅
+- ঘ. It is drizzling since morning.
+
+**ব্যাখ্যা:** গুঁড়ি গুঁড়ি বৃষ্টি = **drizzle**। `সকাল থেকে` (নির্দিষ্ট সময়ের বিন্দু) = `since morning` এবং কাজ চলমান, তাই **Present Perfect Continuous**: has/have been + V-ing + since/for।
+
+**ভুল অপশন:** ক ও খ-তে `rain` (গুঁড়ি গুঁড়ি বোঝায় না) ও `from morning` ভুল। ঘ-তে `is drizzling since` (since-এর সাথে Present Continuous হয় না)।
+
+---
+
+### ১৩. "A speech full of too many words" is called—
+
+- ক. a big speech
+- খ. maiden speech
+- গ. an unimportant speech
+- **ঘ. a verbose speech** ✅
+
+**ব্যাখ্যা:** **verbose** = বাচাল, শব্দবহুল (প্রয়োজনের চেয়ে অনেক বেশি শব্দ ব্যবহার করে)। সমার্থক: wordy, prolix। **maiden speech** = কারও প্রথম বক্তৃতা (বিশেষত সংসদে)।
+
+---
+
+### ১৪. I am not bad ..... Tennis.
+
+- ক. to
+- খ. about
+- **গ. at** ✅
+- ঘ. with
+
+**ব্যাখ্যা:** দক্ষতা বা অদক্ষতা প্রকাশ করতে **good/bad at**। `not bad at tennis` = টেনিসে মন্দ নই (ভালোই)।
+
+---
+
+### ১৫. The team is ..... eleven players.
+
+- ক. made of
+- **খ. made up of** ✅
+- গ. made up
+- ঘ. made
+
+**ব্যাখ্যা:** **be made up of** = (একাধিক ব্যক্তি/উপাদান নিয়ে) গঠিত। **be made of** = একটি উপাদান দিয়ে তৈরি (made of wood)। উদাহরণ: The committee is made up of ten members।
+
+**নোট:** `composed of` সমার্থক। `made of` ও কখনো ব্যবহৃত হয়, কিন্তু এখানে একাধিক খেলোয়াড় বোঝাতে `made up of` বেশি স্বাভাবিক।
+
+---
+
+### ১৬. "Run into debt" is a/an—
+
+- ক. phrase
+- খ. verbal noun
+- **গ. idiom** ✅
+- ঘ. adverb clause
+
+**ব্যাখ্যা:** **run into debt** = ঋণগ্রস্ত হয়ে পড়া। এটি **idiom** (এমন গঠন যার অর্থ শব্দের আক্ষরিক অর্থ থেকে আলাদা)। উদাহরণ: He ran into debt after the business failed।
+
+---
+
+_সমাপ্ত।_
