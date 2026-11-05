@@ -1,4 +1,4 @@
-# English Question Bank (Bank Job) - (CTI)
+# English Question Bank (Bank Job) - CTI
 
 ## Combined 7 Banks — Officer (Cash) | 03.07.2026
 
