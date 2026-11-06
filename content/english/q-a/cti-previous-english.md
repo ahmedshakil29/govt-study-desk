@@ -3752,3 +3752,632 @@
 ---
 
 _সমাপ্ত।_
+
+# English Question Bank (Bank Job) — যাচাইকৃত সংস্করণ, পার্ট ৪
+
+**উৎস:** PDF `English_4.pdf` (Collected by Araf Hasan Jheel, SO, ICB)
+**মোট প্রশ্ন:** ১০৩টি (৯টি সেকশন), মূল ক্রম অক্ষুণ্ণ।
+
+| সেকশন | পরীক্ষা                                                            | তারিখ/সাল  | প্রশ্ন (এই PDF-এ) |
+| ----- | ------------------------------------------------------------------ | ---------- | ----------------- |
+| ১     | Janata Bank — Officer (Cash) (পার্ট ৩-এর ধারাবাহিকতা, প্রশ্ন ৪–২০) | ৩১.১০.২০২০ | ১৭                |
+| ২     | Janata Bank — Senior Officer (IT)                                  | ২৯.১০.২০২০ | ১০                |
+| ৩     | Sonali & BDBL — Senior Officer (IT)                                | ১৬.১০.২০২০ | ১০                |
+| ৪     | Sonali & Janata Bank — Officer (IT)                                | ০২.১০.২০২০ | ১০                |
+| ৫     | Combined 4 Banks — Assistant Programmer                            | ২৫.০৯.২০২০ | ১০                |
+| ৬     | Bangladesh Bank — Data Entry / Control Operator (IT)               | ০৭.০২.২০২০ | ৫                 |
+| ৭     | পায়রা বন্দর কর্তৃপক্ষ — নিয়োগ পরীক্ষা                            | ২০২০       | ১০                |
+| ৮     | Petrobangla — Accounts Assistant                                   | ২০১৯       | ২১                |
+| ৯     | Teletalk Bangladesh Ltd. — Executive (Technical)                   | ২০১৯       | ১০                |
+
+> **দ্রষ্টব্য:** সেকশন ১ আগের ফাইলের (`English_Question_Bank_3_Verified.md`) সেকশন ১০-এর বাকি অংশ। ওই ফাইলে ১–৩ ছিল, এখানে ৪–২০ যোগ হয়ে ২০টি প্রশ্নই এখন সম্পূর্ণ। (PDF শুরু হয়েছে প্রশ্ন ৩-এর ব্যাখ্যার শেষাংশ দিয়ে, ওটি আগের ফাইলে আছে।)
+> **দ্রষ্টব্য:** PDF-এর বাংলা অংশ ও কিছু অপশনের বাংলা অক্ষর ভাঙা ছিল। যেগুলো পুনর্গঠন করেছি, নোটে উল্লেখ আছে। সব ব্যাখ্যা নতুন করে লেখা।
+> **তথ্য যাচাই (web search):** Mark Twain-এর "Classic" উক্তি (সেকশন ৭, প্রশ্ন ৩)। বাকি সাহিত্য-তথ্য (Austen, Keats, Wordsworth, Hemingway, Conrad) সুপরিচিত, তাই আলাদা সার্চ করিনি।
+
+---
+
+## ⚠️ PDF-এর উত্তরে ভুল / বিতর্কিত বিষয়ের তালিকা
+
+**PDF-এর কী ভুল মনে হয়েছে (আমার যাচাইকৃত উত্তর দেওয়া হয়েছে):**
+
+| প্রশ্ন             | PDF-এর উত্তর                | আমার যাচাই                               | কারণ                                                                                                           |
+| ------------------ | --------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| সেকশন ১, প্রশ্ন ১৪ | c) vandalism                | **a) shenanigans** (বিতর্কিত)            | "the _usual_ ... that can happen in school" মানে স্কুলে ঘটে থাকা সাধারণ দুষ্টুমি। `vandalism` "usual" নয়।     |
+| সেকশন ২, প্রশ্ন ১  | a) an impressive / an alien | **d) a peaceful / a hostile** (অনিশ্চিত) | `otherwise` ও `battle field`-এর বৈপরীত্যে "শান্তিপূর্ণ" মানায়। ⚠️ নোট দেখুন।                                  |
+| সেকশন ২, প্রশ্ন ৩  | d) competitors / directed   | **c) duplication / effective**           | `eliminate duplication` ও `more effective cross training` স্বাভাবিক সংযোজন। PDF-এর ব্যাখ্যাতেই c-ও উল্লেখ আছে। |
+
+**একাধিক উত্তর গ্রহণযোগ্য বা প্রশ্নে দুর্বলতা:**
+
+| প্রশ্ন             | মন্তব্য                                                             |
+| ------------------ | ------------------------------------------------------------------- |
+| সেকশন ১, প্রশ্ন ৭  | `epigram`-এর কঠোর লাইন-সীমা নেই; সাধারণত ২–৪ লাইন                   |
+| সেকশন ৩, প্রশ্ন ৬  | `heuristic`-এর বিপরীত শব্দ হিসেবে `incurious` দুর্বল তবে অপশনে সেরা |
+| সেকশন ৫, প্রশ্ন ১  | `Autography` অপশনগুলোর কোনোটিই নিখুঁত নয়                           |
+| সেকশন ৬, প্রশ্ন ৫  | প্রশ্নের বাক্যটিতে `the` বাদ পড়েছে                                 |
+| সেকশন ৮, প্রশ্ন ১০ | a) she ran-ও গ্রহণযোগ্য                                             |
+| সেকশন ৯, প্রশ্ন ১০ | `Darts is/are` — আধুনিক ব্যবহারে উভয় চলে                           |
+
+**PDF-এর ব্যাখ্যায় ভুল:** সেকশন ১-এর ৭ (`Epigram` লাইন-সীমার দাবি), সেকশন ৭-এর ৩ (`Twain`-এর উক্তির উৎস অন্য বইয়ে), সেকশন ৫-এর ২ (`unique`-এর নিয়ম আংশিক) এই ফাইলে সংশোধন করেছি।
+
+---
+
+# সেকশন ১: Janata Bank — Officer (Cash) (প্রশ্ন ৪–২০) | ৩১.১০.২০২০
+
+### ৪. Antonym of the word 'resolute' is
+
+- ক. persevering
+- খ. steadfast
+- গ. unyielding
+- **ঘ. vacillating** ✅
+
+**ব্যাখ্যা:** **Resolute** = দৃঢ়সংকল্প, অটল। বিপরীত: **vacillating** = দোদুল্যমান, দ্বিধাগ্রস্ত।
+
+**ভুল অপশন:** `persevering` = অধ্যবসায়ী, `steadfast` = অবিচলিত, `unyielding` = অনমনীয়। তিনটিই সমার্থক ভাব।
+
+---
+
+### ৫. Tag question 'let's go out for a walk'?
+
+- **ক. shall we** ✅
+- খ. shant we
+- গ. let we
+- ঘ. let not we
+
+**ব্যাখ্যা:** `Let us / Let's` দিয়ে শুরু প্রস্তাবসূচক বাক্যের tag question সবসময় **shall we?** উদাহরণ: Let's start, shall we?
+
+---
+
+### ৬. He refuses to attend the meeting –, his illness?
+
+- ক. on part of
+- খ. on point of
+- **গ. on the ground of** ✅
+- ঘ. with a view to
+
+**ব্যাখ্যা:** **on the ground(s) of** = কোনো কারণে/অজুহাতে। উদাহরণ: He was absent on the ground of illness।
+
+**ভুল অপশন:** `on part of` (শুদ্ধ: on the part of = কারও পক্ষ থেকে), `on the point of` = কিছু করার ঠিক আগে, `with a view to` = উদ্দেশ্যে।
+
+---
+
+### ৭. What is the meaning of the phrase "carry the day"?
+
+- ক. busy all day
+- খ. free all day
+- **গ. win** ✅
+- ঘ. loss
+
+**ব্যাখ্যা:** **carry the day** = জয়ী হওয়া, বিজয় অর্জন করা। উদাহরণ: His argument carried the day।
+
+---
+
+### ৮. The word urbane is related to?
+
+- ক. city life
+- **খ. manners** ✅
+- গ. village life
+- ঘ. slumdwellers
+
+**ব্যাখ্যা:** **Urbane** = শিষ্ট, মার্জিত ও ভদ্র আচরণসম্পন্ন (courteous, refined)। শব্দটি `urban` (শহর) থেকে এসেছে, কিন্তু অর্থ শহুরে জীবন নয়, আচরণের মার্জিত ভাব। `urban` = শহুরে।
+
+---
+
+### ৯. Etymology is a branch of?
+
+- ক. economics
+- **খ. linguistics** ✅
+- গ. statistics
+- ঘ. history
+
+**ব্যাখ্যা:** **Etymology** = শব্দের উৎপত্তি ও ইতিহাস, ভাষাবিজ্ঞানের (linguistics) শাখা।
+
+---
+
+### ১০. Epigram is a short poem that does not exceed more than?
+
+- **ক. six lines** ✅
+- খ. eight lines
+- গ. twelve lines
+- ঘ. fourteen lines
+
+**ব্যাখ্যা:** **Epigram** = সংক্ষিপ্ত, তীক্ষ্ণ ও বুদ্ধিদীপ্ত কবিতা বা উক্তি। অপশনের মধ্যে সবচেয়ে ছোট সীমা `six lines`।
+
+⚠️ **নোট:** Epigram-এর কোনো কঠোর লাইন-সংখ্যা নেই। সাধারণত ২–৪ লাইনের, কখনো কিছুটা বড়। প্রশ্নের অপশনে `six lines` সবচেয়ে সংক্ষিপ্ত, তাই PDF-এর কী `ক`। `Sonnet` ১৪ লাইন (অপশন ঘ-এর ফাঁদ)।
+
+---
+
+### ১১. Who is the author of 'Pride and prejudice'?
+
+- **ক. Jane Austen** ✅
+- খ. Bernard Shaw
+- গ. John Milton
+- ঘ. George Orwell
+
+**ব্যাখ্যা:** _Pride and Prejudice_ (১৮১৩) ব্রিটিশ ঔপন্যাসিক **Jane Austen**-এর উপন্যাস। নায়িকা Elizabeth Bennet ও Mr. Darcy। তাঁর অন্যান্য উপন্যাস: _Emma_, _Sense and Sensibility_।
+
+**ভুল অপশন:** Bernard Shaw (নাট্যকার, _Pygmalion_), John Milton (_Paradise Lost_), George Orwell (_1984_, _Animal Farm_)।
+
+---
+
+### ১২. Who wrote 'Ode to Psyche'?
+
+- ক. Lord Byron
+- **খ. John Keats** ✅
+- গ. Shakespeare
+- ঘ. William Wordsworth
+
+**ব্যাখ্যা:** _Ode to Psyche_ (১৮১৯) রোমান্টিক কবি **John Keats**-এর রচনা। তাঁর বিখ্যাত অন্যান্য Ode: _Ode to a Nightingale_, _Ode on a Grecian Urn_, _To Autumn_।
+
+---
+
+### ১৩. The show this weekend promises to attract – than the last one?
+
+- ক. an even greater amount of people
+- খ. an even larger amount of people
+- **গ. an even greater number of people** ✅
+- ঘ. a number of people even larger
+
+**ব্যাখ্যা:** `people` গণনাযোগ্য বহুবচন, তাই **number** (amount নয়)। সূত্র: **number of + countable plural**; **amount of + uncountable**। উদাহরণ: a large number of students; a large amount of water।
+
+---
+
+### ১৪. Man is still a – in a labor market?
+
+- ক. glut
+- খ. possibility
+- **গ. commodity** ✅
+- ঘ. provision
+
+**ব্যাখ্যা:** শ্রমবাজারে শ্রমিকে পণ্যের মতো গণ্য করা হয়, তাই **commodity** (পণ্য)। উদাহরণ: Labour is treated as a commodity।
+
+**ভুল অপশন:** `glut` = অতিরিক্ত সরবরাহ (মানুষ একজন glut নয়), `possibility` = সম্ভাবনা, `provision` = সংস্থান।
+
+---
+
+### ১৫. – is it difficult – dispose – waste?
+
+- ক. where, to, for
+- খ. why, with, in
+- **গ. why, to, of** ✅
+- ঘ. when, for, such
+
+**ব্যাখ্যা:** **Why is it difficult to dispose of waste?** **dispose of** = নিষ্পত্তি করা, ফেলে দেওয়া/বর্জন করা (phrasal verb)। `difficult to + verb`।
+
+---
+
+### ১৬. Choose the correct sentence?
+
+- ক. There is the affinity to language
+- খ. I still adhere with my plan
+- গ. He is alarmed for any safety
+- **ঘ. The meeting was adjourned for a week** ✅
+
+**ব্যাখ্যা:** **adjourn for + সময়কাল** = (সভা) মুলতবি করা। উদাহরণ: The court adjourned for an hour।
+
+**ভুল অপশন:** ক-তে `affinity with/between/for` হয় (`to` নয়)। খ-তে `adhere to` (adhere with নয়)। গ-তে `alarmed at/by` (for নয়)।
+
+---
+
+### ১৭. The miscreants must be found and tried as this has gone beyond the usual – that can happen in school?
+
+- **ক. shenanigans** ✅
+- খ. wreckage
+- গ. vandalism
+- ঘ. sabotage
+
+**ব্যাখ্যা:** `the usual ... that can happen in school` অর্থাৎ স্কুলে ঘটে থাকা সাধারণ (ক্ষতিহীন) দুষ্টুমি। **shenanigans** = দুষ্টুমি, ছেলেমানুষি কাণ্ড। বাক্যের অর্থ: এ ঘটনা স্কুলের সাধারণ দুষ্টুমিকেও ছাড়িয়ে গেছে, তাই দুষ্কৃতিকারীদের খুঁজে বিচার করা উচিত।
+
+⚠️ **নোট:** PDF-এর কী `গ` (vandalism)। কিন্তু vandalism গুরুতর অপরাধ, "the usual ... that can happen in school" বলা যায় না। `shenanigans`-ই স্বাভাবিক। তাই আমি `ক` ধরেছি। পরীক্ষায় বোর্ডের কী ভিন্ন হতে পারে।
+
+**ভুল অপশন:** `wreckage` = ধ্বংসাবশেষ, `sabotage` = অন্তর্ঘাত (বড় মাত্রা)।
+
+---
+
+### ১৮. Translate into English: সে কি এ খবরটি পেয়ে থাকবে?
+
+- ক. would this news get by him?
+- **খ. will he have got this news?** ✅
+- গ. will he got the news?
+- ঘ. would this news got by him?
+
+**ব্যাখ্যা:** ভবিষ্যতে কোনো কাজ সম্পন্ন হয়ে থাকবে অথবা "পেয়ে থাকবে" ধরনের অনুমান: **Future Perfect (will have + V₃)**। `Will he have got this news?` = সে কি এই খবর পেয়ে থাকবে?
+
+**নোট:** PDF-এর বাংলা প্রশ্ন ভাঙা ছিল, অর্থ অনুযায়ী পুনর্গঠিত।
+
+**ভুল অপশন:** ক ও ঘ-তে গঠন অর্থহীন। গ-তে `will he got` ভুল (will-এর পর V₁ বা have + V₃)।
+
+---
+
+### ১৯. If the bus to the airport had not been so late, we - the plane.
+
+- ক. had caught
+- খ. would caught
+- গ. can catch
+- **ঘ. would have caught** ✅
+
+**ব্যাখ্যা:** **3rd Conditional:** If + Past Perfect, **would have + V₃**। অতীতে যা ঘটেনি তার অবাস্তব ফল। উদাহরণ: If I had studied, I would have passed।
+
+---
+
+### ২০. The comparative degree of the word 'prettiest'.
+
+- ক. Prettyer
+- খ. Pretter
+- **গ. Prettier** ✅
+- ঘ. Pretty
+
+**ব্যাখ্যা:** Pretty (Positive) → **Prettier** (Comparative) → Prettiest (Superlative)। `-y` শেষ শব্দে `y → i + er/est`।
+
+---
+
+# সেকশন ২: Janata Bank — Senior Officer (IT) | ২৯.১০.২০২০
+
+### ১. Located amidst the green hills of the country, What might have otherwise been - tourist spot in - part of the south assumed the overtones of the battle field.
+
+- ক. an impressive / an alien
+- খ. a blood-shattered / an estranged
+- গ. a combatant / a war torn
+- **ঘ. a peaceful / a hostile** ✅
+
+**ব্যাখ্যা:** `might have otherwise been` (অন্যথায় যা হতে পারত) এবং `assumed the overtones of the battle field` (যুদ্ধক্ষেত্রের রূপ নিল) বৈপরীত্য বোঝায়। তাই শান্তিপূর্ণ পর্যটন কেন্দ্র (**a peaceful**) এবং দক্ষিণের সংঘাতপ্রবণ অঞ্চল (**a hostile**)।
+
+⚠️ **নোট (অনিশ্চিত):** PDF-এর কী `ক` (an impressive / an alien)। প্রশ্নটি বাক্যের কিছু অংশ বাদ গেছে বলে মনে হয়। `a/an` মিলের দিক থেকে ক ও ঘ উভয়ই ব্যাকরণগতভাবে শুদ্ধ। তবে `an alien part of the south` অস্বাভাবিক, আর `hostile` প্রসঙ্গের সাথে সঙ্গত। তাই আমি `ঘ` ধরেছি, কিন্তু বোর্ডের কী `ক` হতে পারে।
+
+**ভুল অপশন:** `blood-shattered` (অস্বাভাবিক শব্দ), `combatant` (যোদ্ধা, স্থানের বিশেষণ নয়)।
+
+---
+
+### ২. "A list of books about repairing and selling cars are in the file on the table." Which correction should be made to this sentence?
+
+- ক. replace of with to
+- খ. insert them after repairing
+- **গ. change are to is** ✅
+- ঘ. insert a comma after file
+
+**ব্যাখ্যা:** মূল subject **A list** (একবচন), তাই verb **is**। `of books` শুধু modifier। উদাহরণ: A list of names is on the board।
+
+---
+
+### ৩. The merger will eliminate .... and provide more .... cross training to staff.
+
+- ক. paperwork .... or less
+- খ. loss .... aggressive
+- **গ. duplication .... effective** ✅
+- ঘ. competitors .... directed
+
+**ব্যাখ্যা:** পূর্ণ বাক্য: The merger will eliminate **duplication** and provide more **effective** cross training to staff। দুটি প্রতিষ্ঠান একত্র হলে কাজের পুনরাবৃত্তি (duplication) দূর হয়, এবং কর্মীদের আরও কার্যকর প্রশিক্ষণ দেওয়া যায়।
+
+⚠️ **নোট:** PDF-এর কী `ঘ`। কিন্তু PDF-এর ব্যাখ্যাতেই বলা আছে "অথবা duplication / effective"। `more directed cross training` অপ্রচলিত, তাই `গ` ধরেছি।
+
+**ভুল অপশন:** ক-তে `or less` অর্থহীন, খ-তে `loss ... aggressive` অসঙ্গত।
+
+---
+
+### ৪. 'To smell a rat' means–
+
+- ক. to misunderstand
+- খ. to see hidden meaning
+- **গ. to suspect a trick of deceit** ✅
+- ঘ. to delete bad smell
+
+**ব্যাখ্যা:** **smell a rat** = কিছু গড়বড় আছে বলে সন্দেহ করা, ষড়যন্ত্র বা প্রতারণার আভাস পাওয়া। উদাহরণ: When he refused to answer, I smelled a rat।
+
+---
+
+### ৫. Let's discuss – the ways of improving the skills of English.
+
+- ক. on
+- খ. of
+- গ. about
+- **ঘ. no preposition** ✅
+
+**ব্যাখ্যা:** **discuss** transitive verb, সরাসরি object নেয়। preposition বসে না: discuss the matter (talk about/ have a discussion on)। উদাহরণ: We discussed the plan।
+
+---
+
+### ৬. If – my key, I will be in trouble.
+
+- ক. I would lose
+- খ. I lost
+- **গ. I lose** ✅
+- ঘ. I had lost
+
+**ব্যাখ্যা:** **1st Conditional** (বাস্তব সম্ভাবনা): **If + Present Indefinite, will + V₁**। উদাহরণ: If it rains, I will stay home।
+
+---
+
+### ৭. I don't why Nancy didn't go to the meeting. She said she – definitely going.
+
+- ক. would
+- খ. is
+- **গ. was** ✅
+- ঘ. be
+
+**ব্যাখ্যা:** `said` (অতীত), তাই reported speech-এ Present Continuous → **Past Continuous (was going)**। `she was definitely going` = সে বলেছিল সে অবশ্যই যাচ্ছে।
+
+**নোট:** PDF-এর প্রশ্নে `know` বাদ পড়েছে (I don't know why)।
+
+---
+
+### ৮. Select the most nearly opposite in meaning to the word 'Arrhythmic'
+
+- ক. subordinate
+- খ. terminal
+- গ. timely
+- **ঘ. exhibiting regularity** ✅
+
+**ব্যাখ্যা:** **Arrhythmic** = ছন্দহীন, অনিয়মিত (a- না + rhythm)। বিপরীত: নিয়মিত ছন্দযুক্ত, **exhibiting regularity**।
+
+---
+
+### ৯. People – how light behaves thousands of years ago.
+
+- ক. must began to observe
+- খ. begin to observe
+- **গ. must have begun observing** ✅
+- ঘ. must began to observing
+
+**ব্যাখ্যা:** অতীত সম্পর্কে নিশ্চিত অনুমান: **must have + V₃**। `begin – began – begun`। `begin` এর পরে `observing` বা `to observe` দুটোই চলে। অর্থ: হাজার বছর আগেই মানুষ নিশ্চয়ই আলোর আচরণ লক্ষ করতে শুরু করেছিল।
+
+**ভুল অপশন:** ক ও ঘ-তে `must began` ভুল (must + V₁ বা must have + V₃), খ-তে Present Tense `thousands of years ago`-এর সাথে বেমানান।
+
+---
+
+### ১০. Customers are entitled to receive additional credit services — maintain their account in good standing.
+
+- ক. despite
+- **খ. as long as they** ✅
+- গ. they can
+- ঘ. because of
+
+**ব্যাখ্যা:** **as long as + subject + verb** = যতক্ষণ/যদি শর্তে। অর্থ: গ্রাহকরা অতিরিক্ত ঋণসেবা পাওয়ার যোগ্য, যতক্ষণ তারা তাদের হিসাব ভালো অবস্থায় রাখে।
+
+**ভুল অপশন:** `despite` ও `because of` এর পরে noun phrase বসে (verb নয়) এবং অর্থও মেলে না। `they can` অসম্পূর্ণ।
+
+---
+
+# সেকশন ৩: Sonali & BDBL — Senior Officer (IT) | ১৬.১০.২০২০ (Full Marks: ৮০)
+
+### ১. What is the meaning of the idiom 'tickled pink'?
+
+- ক. making distinct
+- **খ. making delighted** ✅
+- গ. making gloomy
+- ঘ. being reddish
+
+**ব্যাখ্যা:** **tickled pink** = অত্যন্ত খুশি/আনন্দিত। উদাহরণ: She was tickled pink by the gift।
+
+**ভুল অপশন:** `distinct` = আলাদা/স্পষ্ট, `gloomy` = বিষণ্ণ, `reddish` = লালচে (আক্ষরিক অর্থ)।
+
+---
+
+### ২. What is the feminine gender of the word 'comedian'?
+
+- **ক. comedienne** ✅
+- খ. female-comedian
+- গ. comedic
+- ঘ. comediennes
+
+**ব্যাখ্যা:** বিদেশি (ফরাসি-উৎস) শব্দে `-enne/-ine/-a/-trix` যোগে স্ত্রীলিঙ্গ: comedian → **comedienne**, hero → heroine, sultan → sultana, executor → executrix, czar → czarina।
+
+**ভুল অপশন:** `comedic` adjective (হাস্যরসাত্মক), `comediennes` বহুবচন।
+
+---
+
+### ৩. 'A legal authorization of debtors to postpone payment' is known as
+
+- **ক. Moratorium** ✅
+- খ. Deferment
+- গ. Preemption
+- ঘ. Bad debt
+
+**ব্যাখ্যা:** **Moratorium** = আইনত স্থগিতাদেশ (ঋণ পরিশোধ বা কোনো কার্যক্রম নির্দিষ্ট সময়ের জন্য স্থগিত রাখার অনুমোদন)।
+
+**ভুল অপশন:** `Deferment` = পিছিয়ে দেওয়া (সাধারণ), `Preemption` = অন্যের আগে কিছু কেনার অধিকার, `Bad debt` = অনাদায়ী ঋণ।
+
+---
+
+### ৪. 'A speech or writing in praise of person' is known as
+
+- ক. autobiography
+- খ. erudite
+- গ. admiration
+- **ঘ. eulogy** ✅
+
+**ব্যাখ্যা:** **Eulogy** = প্রশংসাসূচক বক্তৃতা বা রচনা (বিশেষত মৃতের স্মরণে)।
+
+**ভুল অপশন:** `autobiography` = আত্মজীবনী, `erudite` = পাণ্ডিত্যপূর্ণ (adjective), `admiration` = প্রশংসা/শ্রদ্ধা (ভাব, রচনা নয়)।
+
+---
+
+### ৫. The synonym of the word 'Hamlet' is
+
+- ক. drama
+- খ. metal instrument
+- **গ. small village** ✅
+- ঘ. tragedy
+
+**ব্যাখ্যা:** **hamlet** (common noun) = ছোট গ্রাম, গ্রামের চেয়েও ছোট জনবসতি। _Hamlet_ (বড় হাতের H) শেক্সপিয়রের ট্র্যাজেডির নাম, কিন্তু এখানে অর্থ জানতে চাওয়া হয়েছে।
+
+---
+
+### ৬. The antonym of the word 'heuristic' is
+
+- **ক. incurious** ✅
+- খ. systematic
+- গ. investigative
+- ঘ. explorative
+
+**ব্যাখ্যা:** **Heuristic** = নিজে খুঁজে বা পরীক্ষা করে শেখা/আবিষ্কারের পদ্ধতি, অনুসন্ধানী। বিপরীত: **incurious** = কৌতূহলহীন, অনুসন্ধানে অনাগ্রহী।
+
+⚠️ **নোট:** অপশনের মধ্যে `incurious`-ই একমাত্র বিপরীত ভাব দেয়। `investigative` ও `explorative` সমার্থক ভাব। `systematic` ভিন্ন অর্থ।
+
+---
+
+### ৭. Which one of the following words is spelt correct?
+
+- ক. entrepreneeur
+- খ. enrepreniur
+- **গ. entrepreneur** ✅
+- ঘ. enterpreneur
+
+**ব্যাখ্যা:** শুদ্ধ বানান **entrepreneur** (ফরাসি-উৎস) = উদ্যোক্তা, শিল্পপতি। মনে রাখার কৌশল: **entre**-pre-**neur** (`enter` নয়)।
+
+---
+
+### ৮. 'The world is too much with us; late and soon'. Whose quotation is it?
+
+- ক. John Keats
+- খ. Shakespeare
+- গ. P.B. Shelly
+- **ঘ. Wordsworth** ✅
+
+**ব্যাখ্যা:** লাইনটি **William Wordsworth**-এর সনেট _The World Is Too Much with Us_ (১৮০৭ সালে প্রকাশিত) থেকে। বিষয়: বস্তুবাদী জীবন আমাদের প্রকৃতি থেকে দূরে সরিয়ে দিচ্ছে।
+
+Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is father of the man", "Nature never did betray the heart that loved her"।
+
+**নোট:** PDF-এ `Shelly` বানান ভুল, শুদ্ধ `Shelley`।
+
+---
+
+### ৯. A type of memory device retaining data in the absent of power supply is called–
+
+- ক. cache memory
+- **খ. flash memory** ✅
+- গ. short memory
+- ঘ. flash light
+
+**ব্যাখ্যা:** বিদ্যুৎ বন্ধ হলেও ডেটা ধরে রাখে এমন মেমোরি **non-volatile memory**। উদাহরণ: **flash memory** (USB drive, SSD), ROM। **Cache memory** দ্রুত কিন্তু volatile (বিদ্যুৎ গেলে মুছে যায়)।
+
+---
+
+### ১০. Who is the author of the novel 'A farewell to arms'?
+
+- ক. Ralph filson
+- **খ. Ernest Hemingway** ✅
+- গ. Joseph conrad
+- ঘ. Peter Millar
+
+**ব্যাখ্যা:** _A Farewell to Arms_ (১৯২৯) মার্কিন ঔপন্যাসিক **Ernest Hemingway**-এর উপন্যাস, প্রথম বিশ্বযুদ্ধের পটভূমিতে প্রেমের কাহিনি। তাঁর আরও: _The Old Man and the Sea_, _For Whom the Bell Tolls_।
+
+---
+
+# সেকশন ৪: Sonali & Janata Bank — Officer (IT) | ০২.১০.২০২০ (Full Marks: ৮০)
+
+### ১. What is the meaning of the idiom 'in doldrums'?
+
+- ক. bright
+- খ. distinct
+- গ. delighted
+- **ঘ. gloomy** ✅
+
+**ব্যাখ্যা:** **in the doldrums** = বিষণ্ণ/মনমরা অবস্থায়, কার্যকলাপহীন স্থবিরতায়। উদাহরণ: The economy is in the doldrums।
+
+---
+
+### ২. She exhibited remarkable sangfroid during the crisis. The underlined word means—
+
+- ক. temper
+- খ. imitation
+- **গ. composure** ✅
+- ঘ. anger
+
+**ব্যাখ্যা:** **sangfroid** (ফরাসি: "ঠান্ডা রক্ত") = বিপদে অবিচল মানসিক স্থিরতা। সমার্থক: composure, calmness।
+
+---
+
+### ৩. Which word does not match with other words?
+
+- ক. pharynx
+- খ. bronchiole
+- **গ. auricle** ✅
+- ঘ. alveoli
+
+**ব্যাখ্যা:** Pharynx (গলনালি), bronchiole (ক্ষুদ্র শ্বাসনালি) ও alveoli (বায়ুকোষ) শ্বসনতন্ত্রের অংশ। **Auricle** বহিঃকর্ণ বা হৃৎপিণ্ডের অলিন্দ, তাই আলাদা।
+
+---
+
+### ৪. Although he never learns to read, his exceptional memory and inquiring mind eventually made him a very – man.
+
+- ক. dedicated
+- **খ. erudite** ✅
+- গ. pragmatic
+- ঘ. benevolent
+
+**ব্যাখ্যা:** `Although ... never learns to read` (বৈপরীত্য) এবং `exceptional memory and inquiring mind` (জ্ঞানপিপাসু মন) থেকে বোঝা যায় সে পরিণত হয়েছে **erudite** (বিদ্বান/পণ্ডিত) ব্যক্তিতে।
+
+**ভুল অপশন:** `dedicated` = নিবেদিত, `pragmatic` = বাস্তববাদী, `benevolent` = পরোপকারী।
+
+---
+
+### ৫. Find the correctly spelt word–
+
+- ক. Sacrlegeous
+- খ. Sacrilitious
+- **গ. sacrilegious** ✅
+- ঘ. sacreligious
+
+**ব্যাখ্যা:** শুদ্ধ বানান **sacrilegious** (পবিত্র বস্তুর প্রতি অবমাননাকর)। মূল noun: sacrilege। মনে রাখার কৌশল: sacri**lege** (`religious` নয়)।
+
+---
+
+### ৬. A person habitually silent or talking little is called.
+
+- **ক. taciturn** ✅
+- খ. servile
+- গ. unequivocal
+- ঘ. synoptic
+
+**ব্যাখ্যা:** **Taciturn** = স্বল্পভাষী, চুপচাপ স্বভাবের।
+
+**ভুল অপশন:** `servile` = দাসসুলভ, `unequivocal` = দ্ব্যর্থহীন, `synoptic` = সংক্ষিপ্ত সারসংক্ষেপমূলক।
+
+---
+
+### ৭. Synonym of Exonerate is :
+
+- ক. consume
+- **খ. absolve** ✅
+- গ. mitigate
+- ঘ. engage
+
+**ব্যাখ্যা:** **Exonerate** = দোষমুক্ত করা। সমার্থক: **absolve**, acquit। উদাহরণ: The report exonerated him।
+
+---
+
+### ৮. Antonym of 'vilify' is.
+
+- **ক. commend** ✅
+- খ. absolve
+- গ. admonish
+- ঘ. worship
+
+**ব্যাখ্যা:** **Vilify** = কলঙ্ক রটানো, নিন্দা করা। বিপরীত: **commend** = প্রশংসা করা।
+
+**ভুল অপশন:** `absolve` = দোষমুক্ত করা (প্রসঙ্গ ভিন্ন), `admonish` = সতর্ক করা, `worship` = উপাসনা।
+
+---
+
+### ৯. Which one of the following words is an odd to the others?
+
+- ক. joey
+- খ. filly
+- **গ. vixen** ✅
+- ঘ. calf
+
+**ব্যাখ্যা:** **Joey** (ক্যাঙ্গারুর ছানা), **filly** (ঘোড়ার মেয়ে শাবক), **calf** (বাছুর) শাবক বোঝায়। **Vixen** = প্রাপ্তবয়স্ক স্ত্রী শিয়াল (fox), শাবক নয়।
+
+---
+
+### ১০. Who is the author of the novel "Heart of darkness"?
+
+- ক. ralph ellison
+- খ. earnest hemingway
+- **গ. joseph conrad** ✅
+- ঘ. peter carey
+
+**ব্যাখ্যা:** _Heart of Darkness_ পোল্যান্ড-বংশোদ্ভূত ব্রিটিশ ঔপন্যাসিক **Joseph Conrad**-এর উপন্যাস। প্রথম প্রকাশ ১৮৯৯ সালে পত্রিকায় ধারাবাহিক আকারে (বই আকারে ১৯০২)। কঙ্গো নদীর পটভূমি।
+
+**ভুল অপশন:** Ralph Ellison (_Invisible Man_), Hemingway (_A Farewell to Arms_), Peter Carey (অস্ট্রেলীয় লেখক)।
+
+---
