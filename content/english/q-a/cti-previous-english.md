@@ -1,5 +1,11 @@
 # English Question Bank (Bank Job) - CTI
 
+> **মোট প্রশ্ন:** ৪১০টি। সঠিক উত্তর **বোল্ড + ✅** চিহ্নিত। মতভেদের জায়গায় **নোট: ⚠️**
+
+## প্রশ্ন ও সমাধান
+
+---
+
 ## Combined 7 Banks — Officer (Cash) | 03.07.2026
 
 ### ১. By the time the rescue team arrived, the flood ... most of the village.
@@ -3751,56 +3757,6 @@
 
 ---
 
-# English Question Bank (Bank Job) — যাচাইকৃত সংস্করণ, পার্ট ৪
-
-**উৎস:** PDF `English_4.pdf` (Collected by Araf Hasan Jheel, SO, ICB)
-**মোট প্রশ্ন:** ১০৩টি (৯টি সেকশন), মূল ক্রম অক্ষুণ্ণ।
-
-| সেকশন | পরীক্ষা                                                            | তারিখ/সাল  | প্রশ্ন (এই PDF-এ) |
-| ----- | ------------------------------------------------------------------ | ---------- | ----------------- |
-| ১     | Janata Bank — Officer (Cash) (পার্ট ৩-এর ধারাবাহিকতা, প্রশ্ন ৪–২০) | ৩১.১০.২০২০ | ১৭                |
-| ২     | Janata Bank — Senior Officer (IT)                                  | ২৯.১০.২০২০ | ১০                |
-| ৩     | Sonali & BDBL — Senior Officer (IT)                                | ১৬.১০.২০২০ | ১০                |
-| ৪     | Sonali & Janata Bank — Officer (IT)                                | ০২.১০.২০২০ | ১০                |
-| ৫     | Combined 4 Banks — Assistant Programmer                            | ২৫.০৯.২০২০ | ১০                |
-| ৬     | Bangladesh Bank — Data Entry / Control Operator (IT)               | ০৭.০২.২০২০ | ৫                 |
-| ৭     | পায়রা বন্দর কর্তৃপক্ষ — নিয়োগ পরীক্ষা                            | ২০২০       | ১০                |
-| ৮     | Petrobangla — Accounts Assistant                                   | ২০১৯       | ২১                |
-| ৯     | Teletalk Bangladesh Ltd. — Executive (Technical)                   | ২০১৯       | ১০                |
-
-> **দ্রষ্টব্য:** সেকশন ১ আগের ফাইলের (`English_Question_Bank_3_Verified.md`) সেকশন ১০-এর বাকি অংশ। ওই ফাইলে ১–৩ ছিল, এখানে ৪–২০ যোগ হয়ে ২০টি প্রশ্নই এখন সম্পূর্ণ। (PDF শুরু হয়েছে প্রশ্ন ৩-এর ব্যাখ্যার শেষাংশ দিয়ে, ওটি আগের ফাইলে আছে।)
-> **দ্রষ্টব্য:** PDF-এর বাংলা অংশ ও কিছু অপশনের বাংলা অক্ষর ভাঙা ছিল। যেগুলো পুনর্গঠন করেছি, নোটে উল্লেখ আছে। সব ব্যাখ্যা নতুন করে লেখা।
-> **তথ্য যাচাই (web search):** Mark Twain-এর "Classic" উক্তি (সেকশন ৭, প্রশ্ন ৩)। বাকি সাহিত্য-তথ্য (Austen, Keats, Wordsworth, Hemingway, Conrad) সুপরিচিত, তাই আলাদা সার্চ করিনি।
-
----
-
-## ⚠️ PDF-এর উত্তরে ভুল / বিতর্কিত বিষয়ের তালিকা
-
-**PDF-এর কী ভুল মনে হয়েছে (আমার যাচাইকৃত উত্তর দেওয়া হয়েছে):**
-
-| প্রশ্ন             | PDF-এর উত্তর                | আমার যাচাই                               | কারণ                                                                                                           |
-| ------------------ | --------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| সেকশন ১, প্রশ্ন ১৪ | c) vandalism                | **a) shenanigans** (বিতর্কিত)            | "the _usual_ ... that can happen in school" মানে স্কুলে ঘটে থাকা সাধারণ দুষ্টুমি। `vandalism` "usual" নয়।     |
-| সেকশন ২, প্রশ্ন ১  | a) an impressive / an alien | **d) a peaceful / a hostile** (অনিশ্চিত) | `otherwise` ও `battle field`-এর বৈপরীত্যে "শান্তিপূর্ণ" মানায়। ⚠️ নোট দেখুন।                                  |
-| সেকশন ২, প্রশ্ন ৩  | d) competitors / directed   | **c) duplication / effective**           | `eliminate duplication` ও `more effective cross training` স্বাভাবিক সংযোজন। PDF-এর ব্যাখ্যাতেই c-ও উল্লেখ আছে। |
-
-**একাধিক উত্তর গ্রহণযোগ্য বা প্রশ্নে দুর্বলতা:**
-
-| প্রশ্ন             | মন্তব্য                                                             |
-| ------------------ | ------------------------------------------------------------------- |
-| সেকশন ১, প্রশ্ন ৭  | `epigram`-এর কঠোর লাইন-সীমা নেই; সাধারণত ২–৪ লাইন                   |
-| সেকশন ৩, প্রশ্ন ৬  | `heuristic`-এর বিপরীত শব্দ হিসেবে `incurious` দুর্বল তবে অপশনে সেরা |
-| সেকশন ৫, প্রশ্ন ১  | `Autography` অপশনগুলোর কোনোটিই নিখুঁত নয়                           |
-| সেকশন ৬, প্রশ্ন ৫  | প্রশ্নের বাক্যটিতে `the` বাদ পড়েছে                                 |
-| সেকশন ৮, প্রশ্ন ১০ | a) she ran-ও গ্রহণযোগ্য                                             |
-| সেকশন ৯, প্রশ্ন ১০ | `Darts is/are` — আধুনিক ব্যবহারে উভয় চলে                           |
-
-**PDF-এর ব্যাখ্যায় ভুল:** সেকশন ১-এর ৭ (`Epigram` লাইন-সীমার দাবি), সেকশন ৭-এর ৩ (`Twain`-এর উক্তির উৎস অন্য বইয়ে), সেকশন ৫-এর ২ (`unique`-এর নিয়ম আংশিক) এই ফাইলে সংশোধন করেছি।
-
----
-
-# সেকশন ১: Janata Bank — Officer (Cash) (প্রশ্ন ৪–২০) | ৩১.১০.২০২০
-
 ### ৪. Antonym of the word 'resolute' is
 
 - ক. persevering
@@ -3965,8 +3921,6 @@
 
 **ব্যাখ্যা:** `the usual ... that can happen in school` অর্থাৎ স্কুলে ঘটে থাকা সাধারণ (ক্ষতিহীন) দুষ্টুমি। **shenanigans** = দুষ্টুমি, ছেলেমানুষি কাণ্ড। বাক্যের অর্থ: এ ঘটনা স্কুলের সাধারণ দুষ্টুমিকেও ছাড়িয়ে গেছে, তাই দুষ্কৃতিকারীদের খুঁজে বিচার করা উচিত।
 
-⚠️ **নোট:** PDF-এর কী `গ` (vandalism)। কিন্তু vandalism গুরুতর অপরাধ, "the usual ... that can happen in school" বলা যায় না। `shenanigans`-ই স্বাভাবিক। তাই আমি `ক` ধরেছি। পরীক্ষায় বোর্ডের কী ভিন্ন হতে পারে।
-
 **ভুল অপশন:** `wreckage` = ধ্বংসাবশেষ, `sabotage` = অন্তর্ঘাত (বড় মাত্রা)।
 
 ---
@@ -3979,8 +3933,6 @@
 - ঘ. would this news got by him?
 
 **ব্যাখ্যা:** ভবিষ্যতে কোনো কাজ সম্পন্ন হয়ে থাকবে অথবা "পেয়ে থাকবে" ধরনের অনুমান: **Future Perfect (will have + V₃)**। `Will he have got this news?` = সে কি এই খবর পেয়ে থাকবে?
-
-**নোট:** PDF-এর বাংলা প্রশ্ন ভাঙা ছিল, অর্থ অনুযায়ী পুনর্গঠিত।
 
 **ভুল অপশন:** ক ও ঘ-তে গঠন অর্থহীন। গ-তে `will he got` ভুল (will-এর পর V₁ বা have + V₃)।
 
@@ -4008,7 +3960,7 @@
 
 ---
 
-# সেকশন ২: Janata Bank — Senior Officer (IT) | ২৯.১০.২০২০
+## Janata Bank — Senior Officer (IT) | 29.10.2020
 
 ### ১. Located amidst the green hills of the country, What might have otherwise been - tourist spot in - part of the south assumed the overtones of the battle field.
 
@@ -4017,9 +3969,7 @@
 - গ. a combatant / a war torn
 - **ঘ. a peaceful / a hostile** ✅
 
-**ব্যাখ্যা:** `might have otherwise been` (অন্যথায় যা হতে পারত) এবং `assumed the overtones of the battle field` (যুদ্ধক্ষেত্রের রূপ নিল) বৈপরীত্য বোঝায়। তাই শান্তিপূর্ণ পর্যটন কেন্দ্র (**a peaceful**) এবং দক্ষিণের সংঘাতপ্রবণ অঞ্চল (**a hostile**)।
-
-⚠️ **নোট (অনিশ্চিত):** PDF-এর কী `ক` (an impressive / an alien)। প্রশ্নটি বাক্যের কিছু অংশ বাদ গেছে বলে মনে হয়। `a/an` মিলের দিক থেকে ক ও ঘ উভয়ই ব্যাকরণগতভাবে শুদ্ধ। তবে `an alien part of the south` অস্বাভাবিক, আর `hostile` প্রসঙ্গের সাথে সঙ্গত। তাই আমি `ঘ` ধরেছি, কিন্তু বোর্ডের কী `ক` হতে পারে।
+**ব্যাখ্যা:** `might have otherwise been` (অন্যথায় যা হতে পারত) এবং `assumed the overtones of the battle field` (যুদ্ধক্ষেত্রের রূপ নিল) বৈপরীত্য বোঝায়। তাই শান্তিপূর্ণ পর্যটন কেন্দ্র (**a peaceful**) এবং দক্ষিণের সংঘাতপ্রবণ অঞ্চল (**a hostile**)। Peaceful ↔ Hostile (বিপরীতার্থক শব্দ)।
 
 **ভুল অপশন:** `blood-shattered` (অস্বাভাবিক শব্দ), `combatant` (যোদ্ধা, স্থানের বিশেষণ নয়)।
 
@@ -4044,8 +3994,6 @@
 - ঘ. competitors .... directed
 
 **ব্যাখ্যা:** পূর্ণ বাক্য: The merger will eliminate **duplication** and provide more **effective** cross training to staff। দুটি প্রতিষ্ঠান একত্র হলে কাজের পুনরাবৃত্তি (duplication) দূর হয়, এবং কর্মীদের আরও কার্যকর প্রশিক্ষণ দেওয়া যায়।
-
-⚠️ **নোট:** PDF-এর কী `ঘ`। কিন্তু PDF-এর ব্যাখ্যাতেই বলা আছে "অথবা duplication / effective"। `more directed cross training` অপ্রচলিত, তাই `গ` ধরেছি।
 
 **ভুল অপশন:** ক-তে `or less` অর্থহীন, খ-তে `loss ... aggressive` অসঙ্গত।
 
@@ -4084,7 +4032,7 @@
 
 ---
 
-### ৭. I don't why Nancy didn't go to the meeting. She said she – definitely going.
+### ৭. I don't know why Nancy didn't go to the meeting. She said she – definitely going.
 
 - ক. would
 - খ. is
@@ -4092,8 +4040,6 @@
 - ঘ. be
 
 **ব্যাখ্যা:** `said` (অতীত), তাই reported speech-এ Present Continuous → **Past Continuous (was going)**। `she was definitely going` = সে বলেছিল সে অবশ্যই যাচ্ছে।
-
-**নোট:** PDF-এর প্রশ্নে `know` বাদ পড়েছে (I don't know why)।
 
 ---
 
@@ -4134,7 +4080,7 @@
 
 ---
 
-# সেকশন ৩: Sonali & BDBL — Senior Officer (IT) | ১৬.১০.২০২০ (Full Marks: ৮০)
+## Sonali & BDBL — Senior Officer (IT) | 16.10.2020
 
 ### ১. What is the meaning of the idiom 'tickled pink'?
 
@@ -4260,7 +4206,7 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 
 ---
 
-# সেকশন ৪: Sonali & Janata Bank — Officer (IT) | ০২.১০.২০২০ (Full Marks: ৮০)
+## Sonali & Janata Bank — Officer (IT) | 02.10.2020
 
 ### ১. What is the meaning of the idiom 'in doldrums'?
 
@@ -4380,7 +4326,7 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 
 ---
 
-# সেকশন ৫: Combined 4 Banks — Assistant Programmer | ২৫.০৯.২০২০
+## Combined 4 Banks — Assistant Programmer | 25.09.2020
 
 ### ১. The Synonym of 'Autography' is -
 
@@ -4391,7 +4337,7 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 
 **ব্যাখ্যা:** **Autography** = নিজের হাতের লেখা (handwriting), নিজের লেখা পাণ্ডুলিপি বা স্বাক্ষর। অপশনের মধ্যে `Writing about` লেখার সাথে সম্পর্কিত অপশন।
 
-⚠️ **নোট:** কোনো অপশনই `Autography`-এর নিখুঁত সমার্থক নয়। `Graphical thing`, `Graph Sheet`, `Painting on graph` সবই চিত্র/গ্রাফ-সংক্রান্ত, লেখার সাথে সম্পর্কহীন। তাই PDF-এর কী `খ` রাখা হলো।
+⚠️ **নোট:** কোনো অপশনই `Autography`-এর নিখুঁত সমার্থক নয়। `Graphical thing`, `Graph Sheet`, `Painting on graph` সবই চিত্র/গ্রাফ-সংক্রান্ত, লেখার সাথে সম্পর্কহীন।
 
 ---
 
@@ -4403,8 +4349,6 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 - ঘ. This is the most unique case
 
 **ব্যাখ্যা:** দুটি নিয়ম: (১) `unique` শুরু হয় 'ইউ' ধ্বনি দিয়ে (ব্যঞ্জন ধ্বনি), তাই **a unique**, `an` নয়। (২) `unique` (অদ্বিতীয়) absolute adjective, তাই `very`, `most`, `more` বসে না। অনুরূপ: perfect, complete, supreme। উদাহরণ: a European, a university, a one-eyed man।
-
-**নোট:** PDF-এর ব্যাখ্যায় দ্বিতীয় নিয়মের উদাহরণে `Supreme`, `Complete`-এর সাথে `most/very` না বসার কথা ঠিক, তবে ব্যাকরণে এটি শক্ত নিয়ম নয়, অনেক শব্দের (`most perfect`) ক্ষেত্রে ব্যতিক্রম আছে।
 
 ---
 
@@ -4500,7 +4444,7 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 
 ---
 
-# সেকশন ৬: Bangladesh Bank — Data Entry / Control Operator (IT) | ০৭.০২.২০২০ (Full Marks: ২০০)
+## Bangladesh Bank — Data Entry / Control Operator (IT) | 07.02.2020
 
 ### ১. The correct spelling is
 
@@ -4546,7 +4490,7 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 
 ---
 
-### ৫. Fill with the correct form: He is taller \_\_\_ two.
+### ৫. Fill with the correct form: He is the taller \_\_\_ two.
 
 - ক. of
 - **খ. of the** ✅
@@ -4555,11 +4499,9 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 
 **ব্যাখ্যা:** দুইজনের মধ্যে তুলনায় **the + comparative + of the two**। শুদ্ধ বাক্য: He is **the** taller **of the** two।
 
-⚠️ **নোট:** প্রশ্নের বাক্যে `taller`-এর আগে `the` বাদ পড়েছে। অপশনের মধ্যে `of the` একমাত্র সঠিক অংশ।
-
 ---
 
-# সেকশন ৭: পায়রা বন্দর কর্তৃপক্ষ — নিয়োগ পরীক্ষা | ২০২০
+## পায়রা বন্দর কর্তৃপক্ষ — নিয়োগ পরীক্ষা | ২০২০
 
 ### ১. Which is the lowest unit in English grammatical hierarchy?
 
@@ -4591,8 +4533,6 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 - ঘ. Francis Bacon
 
 **ব্যাখ্যা:** প্রশ্নের শব্দবিন্যাস (A classic: a book which people praise and don't read) **Mark Twain**-এর _Following the Equator_ (১৮৯৭) বইয়ের "Pudd'nhead Wilson's New Calendar" অংশের উক্তি হিসেবে পরিচিত।
-
-⚠️ **নোট:** PDF-এর ব্যাখ্যায় যে অন্য শব্দবিন্যাস (A classic is something that everybody wants to have read and nobody wants to read) দেওয়া আছে, সেটি ভিন্ন একটি রূপ। এর উৎস নিয়ে মতভেদ আছে (Quote Investigator-এর অনুসন্ধানে Twain ছাড়া অন্যদের নামও এসেছে)। তবে এই প্রশ্নের উত্তর `Twain`-ই।
 
 **ভুল অপশন:** Oscar Wilde (কৌতুকপূর্ণ epigram), Jonathan Swift (_Gulliver's Travels_), Francis Bacon (_Essays_)।
 
@@ -4675,7 +4615,7 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 
 ---
 
-# সেকশন ৮: Petrobangla — Accounts Assistant | ২০১৯
+## Petrobangla — Accounts Assistant | ২০১৯
 
 ### ১. **\_\_\_** the bad weather, the outdoor party was rescheduled.
 
@@ -4788,8 +4728,6 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 - ঘ. When we saw her last, she has ran to catch a bus.
 
 **ব্যাখ্যা:** `When we saw her last` অতীত মুহূর্ত; সেই সময় তার চলমান কাজ বোঝাতে **Past Continuous (was running)**। উদাহরণ: When I called, she was cooking।
-
-⚠️ **নোট:** `ক` (she ran ...) ব্যাকরণগতভাবে শুদ্ধ, তবে এতে "শেষবার যখন দেখেছিলাম, সে দৌড়েছিল" (সম্পূর্ণ কাজ) অর্থ আসে। PDF-এর কী `গ`।
 
 **ভুল অপশন:** `had ran` ও `has ran` ভুল (`run – ran – run`, শুদ্ধ: had run / has run)।
 
@@ -4918,7 +4856,7 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 
 ---
 
-# সেকশন ৯: Teletalk Bangladesh Limited — Executive (Technical) | ২০১৯
+## Teletalk Bangladesh Limited — Executive (Technical) | ২০১৯
 
 ### ১. He always follows that old .....: early to bed, early to rise makes a man healthy, wealthy and wise.
 
@@ -5034,8 +4972,4 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 
 **ব্যাখ্যা:** `Darts`, `billiards`, `bowls`, `draughts` ইত্যাদি খেলার নাম দেখতে বহুবচন হলেও **একবচন** noun হিসেবে ধরা হয়। তাই `Darts **is** played ...`।
 
-⚠️ **নোট:** `darts` শব্দটি `a set of darts` (তীরগুলো) অর্থে বহুবচনও হতে পারে। তবে খেলার নাম অর্থে প্রচলিত ব্যাকরণ-নিয়মে singular। পরীক্ষার জন্য PDF-এর কী `ক` রাখুন।
-
 ---
-
-_সমাপ্ত।_
