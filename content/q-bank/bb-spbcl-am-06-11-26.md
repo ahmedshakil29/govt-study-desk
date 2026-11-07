@@ -1,6 +1,6 @@
 # bb-spbcl-AM-06-11-26
 
-# The Security Printing Corporation (Bangladesh) Ltd. (SPCBL)
+# দি সিকিউরিটি প্রিন্টিং করপোরেশন (বাংলাদেশ) লিঃ। The Security Printing Corporation (Bangladesh) Ltd. (SPCBL)
 
 **পদ:** সহকারী ব্যবস্থাপক (সাধারণ)
 **তারিখ:** ০৬.১১.২৬ | **সময়:** ১ ঘণ্টা | **পূর্ণমান:** ১০০ | **নেগেটিভ মার্কিং:** ০.২৫ ।
