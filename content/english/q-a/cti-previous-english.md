@@ -3751,8 +3751,6 @@
 
 ---
 
-_সমাপ্ত।_
-
 # English Question Bank (Bank Job) — যাচাইকৃত সংস্করণ, পার্ট ৪
 
 **উৎস:** PDF `English_4.pdf` (Collected by Araf Hasan Jheel, SO, ICB)
@@ -4381,3 +4379,663 @@ Wordsworth-এর আরও বিখ্যাত উক্তি: "The child is
 **ভুল অপশন:** Ralph Ellison (_Invisible Man_), Hemingway (_A Farewell to Arms_), Peter Carey (অস্ট্রেলীয় লেখক)।
 
 ---
+
+# সেকশন ৫: Combined 4 Banks — Assistant Programmer | ২৫.০৯.২০২০
+
+### ১. The Synonym of 'Autography' is -
+
+- ক. Graphical thing
+- **খ. Writing about** ✅
+- গ. Painting on graph
+- ঘ. Graph Sheet
+
+**ব্যাখ্যা:** **Autography** = নিজের হাতের লেখা (handwriting), নিজের লেখা পাণ্ডুলিপি বা স্বাক্ষর। অপশনের মধ্যে `Writing about` লেখার সাথে সম্পর্কিত অপশন।
+
+⚠️ **নোট:** কোনো অপশনই `Autography`-এর নিখুঁত সমার্থক নয়। `Graphical thing`, `Graph Sheet`, `Painting on graph` সবই চিত্র/গ্রাফ-সংক্রান্ত, লেখার সাথে সম্পর্কহীন। তাই PDF-এর কী `খ` রাখা হলো।
+
+---
+
+### ২. Choose the correct sentence -
+
+- ক. This is an unique case
+- খ. This is a very unique case
+- **গ. This is a unique case** ✅
+- ঘ. This is the most unique case
+
+**ব্যাখ্যা:** দুটি নিয়ম: (১) `unique` শুরু হয় 'ইউ' ধ্বনি দিয়ে (ব্যঞ্জন ধ্বনি), তাই **a unique**, `an` নয়। (২) `unique` (অদ্বিতীয়) absolute adjective, তাই `very`, `most`, `more` বসে না। অনুরূপ: perfect, complete, supreme। উদাহরণ: a European, a university, a one-eyed man।
+
+**নোট:** PDF-এর ব্যাখ্যায় দ্বিতীয় নিয়মের উদাহরণে `Supreme`, `Complete`-এর সাথে `most/very` না বসার কথা ঠিক, তবে ব্যাকরণে এটি শক্ত নিয়ম নয়, অনেক শব্দের (`most perfect`) ক্ষেত্রে ব্যতিক্রম আছে।
+
+---
+
+### ৩. Knowledge can be compared \_\_\_ light.
+
+- ক. with
+- **খ. to** ✅
+- গ. of
+- ঘ. by
+
+**ব্যাখ্যা:** ভিন্ন জাতীয় দুই বস্তুর সাদৃশ্য দেখাতে (লোকে বলে "উপমা") **compare to**। একই জাতীয় দুই বস্তুর মধ্যে সাদৃশ্য-বৈসাদৃশ্য যাচাই করতে **compare with**। উদাহরণ: compare life to a journey; compare this phone with that phone।
+
+---
+
+### ৪. Identify the correct spelling
+
+- ক. Volaptous
+- খ. Volaptuos
+- গ. Voleptious
+- **ঘ. Voluptuous** ✅
+
+**ব্যাখ্যা:** শুদ্ধ বানান **Voluptuous** = ইন্দ্রিয়সুখকর; (বিশেষত নারী সম্পর্কে) ভরাট ও আকর্ষণীয় দেহের। মূল noun: voluptuousness।
+
+---
+
+### ৫. 'Toot one's own horn' means
+
+- **ক. boast** ✅
+- খ. talks a lot
+- গ. possessive
+- ঘ. self destruction
+
+**ব্যাখ্যা:** **toot one's own horn** = নিজের ঢাক নিজে পেটানো, আত্মপ্রশংসা করা (= blow one's own trumpet)।
+
+**ভুল অপশন:** `talks a lot` = অনেক বকবক করা, `possessive` = অধিকারপ্রবণ, `self destruction` = আত্মবিনাশ।
+
+---
+
+### ৬. A person with the same name as another
+
+- ক. anonymous
+- খ. pseudonym
+- গ. nickname
+- **ঘ. namesake** ✅
+
+**ব্যাখ্যা:** **Namesake** = একই নামের অন্য ব্যক্তি (বা যার নামে নাম রাখা হয়েছে)। **ভুল অপশন:** `anonymous` = নামহীন/অজ্ঞাতনামা, `pseudonym` = ছদ্মনাম, `nickname` = ডাকনাম।
+
+---
+
+### ৭. Father said, "The earth moves round the sun". Make it indirect speech
+
+- ক. Father said that the earth had moved round the sun.
+- খ. Father said that the earth has moved round the sun.
+- গ. Father said that the earth moved round the sun.
+- **ঘ. Father said that the earth moves round the sun.** ✅
+
+**ব্যাখ্যা:** চিরসত্য, বৈজ্ঞানিক সত্য ও অভ্যাসগত কাজের বর্ণনায় reporting verb অতীত হলেও reported speech-এর **tense বদলায় না**। উদাহরণ: He said, "The sun rises in the east" → He said that the sun rises in the east।
+
+---
+
+### ৮. Cutting back on benefits has been used as a \_\_\_ of increasing profit margin.
+
+- **ক. means** ✅
+- খ. policy
+- গ. method
+- ঘ. program
+
+**ব্যাখ্যা:** **a means of + V-ing/noun** = উপায়, পন্থা। `means` একবচন-বহুবচন একই রূপ, এখানে একবচন (`a means`)। উদাহরণ: Education is a means of progress।
+
+**ভুল অপশন:** `policy of`, `method of`, `programme of` ব্যাকরণগতভাবে সম্ভব, কিন্তু "profit margin বাড়ানোর উপায়" অর্থে `means` সবচেয়ে প্রচলিত collocation।
+
+---
+
+### ৯. \_\_\_ better, the team would have been able to defeat the opponent.
+
+- **ক. Had it prepared** ✅
+- খ. Would it prepare
+- গ. It appears
+- ঘ. If it appears
+
+**ব্যাখ্যা:** `If`-কে বাদ দিয়ে **inversion**: **Had + subject + V₃ ..., would have + V₃**। `Had it prepared better` = If it had prepared better। উদাহরণ: Had I known, I would have come।
+
+---
+
+### ১০. When \_\_\_ to her?
+
+- ক. did you talked
+- খ. you talked
+- গ. talked you
+- **ঘ. did you talk** ✅
+
+**ব্যাখ্যা:** Wh-question-এ সাধারণ verb থাকলে **Wh-word + did/do/does + subject + V₁**। `did` আসার পর মূল verb আবার Past হয় না (`talk`, `talked` নয়)। উদাহরণ: Where did you go?
+
+---
+
+# সেকশন ৬: Bangladesh Bank — Data Entry / Control Operator (IT) | ০৭.০২.২০২০ (Full Marks: ২০০)
+
+### ১. The correct spelling is
+
+- ক. Examplary
+- **খ. Exemplary** ✅
+- গ. Exemplery
+- ঘ. Examplery
+
+**ব্যাখ্যা:** শুদ্ধ বানান **Exemplary** = আদর্শ-স্থানীয়, দৃষ্টান্তমূলক। মূল শব্দ `example` নয়, `exemplar`।
+
+---
+
+### ২. The lecture will be held right \_\_\_ the tutorial.
+
+- ক. at
+- **খ. before** ✅
+- গ. over
+- ঘ. beyond
+
+**ব্যাখ্যা:** **right before + noun** = ঠিক আগে। `right` এখানে adverb (ঠিক/সরাসরি)। অর্থ: লেকচার টিউটোরিয়ালের ঠিক আগে হবে।
+
+---
+
+### ৩. What is the singular form of the word 'alumni'?
+
+- **ক. alumnus** ✅
+- খ. alummni
+- গ. aluminum
+- ঘ. alumnae
+
+**ব্যাখ্যা:** ল্যাটিন-উৎস শব্দ: **alumnus** (পুরুষ, একবচন) → **alumni** (বহুবচন); **alumna** (স্ত্রী, একবচন) → **alumnae** (স্ত্রী, বহুবচন)। অর্থ: প্রাক্তন ছাত্র।
+
+---
+
+### ৪. Find the opposite meaning of the word 'TRANSPARENT'.
+
+- ক. Manifest
+- **খ. Opaque** ✅
+- গ. Apparent
+- ঘ. Explicit
+
+**ব্যাখ্যা:** **Transparent** = স্বচ্ছ, যার ভেতর দিয়ে আলো যায়। বিপরীত: **opaque** = অস্বচ্ছ, আলো নিরোধক। বাকি তিনটি (manifest, apparent, explicit) "স্পষ্ট" অর্থের কাছাকাছি।
+
+---
+
+### ৫. Fill with the correct form: He is taller \_\_\_ two.
+
+- ক. of
+- **খ. of the** ✅
+- গ. among
+- ঘ. on
+
+**ব্যাখ্যা:** দুইজনের মধ্যে তুলনায় **the + comparative + of the two**। শুদ্ধ বাক্য: He is **the** taller **of the** two।
+
+⚠️ **নোট:** প্রশ্নের বাক্যে `taller`-এর আগে `the` বাদ পড়েছে। অপশনের মধ্যে `of the` একমাত্র সঠিক অংশ।
+
+---
+
+# সেকশন ৭: পায়রা বন্দর কর্তৃপক্ষ — নিয়োগ পরীক্ষা | ২০২০
+
+### ১. Which is the lowest unit in English grammatical hierarchy?
+
+- **ক. Morphemes** ✅
+- খ. Clause
+- গ. Words
+- ঘ. Sentence
+
+**ব্যাখ্যা:** ব্যাকরণগত ক্রম (ক্ষুদ্র থেকে বৃহৎ): **Morpheme → Word → Phrase → Clause → Sentence**। **Morpheme** = অর্থবহ সবচেয়ে ছোট একক। উদাহরণ: `unhappiness` = un + happi + ness (তিনটি morpheme)।
+
+---
+
+### ২. The meaning of the word "Schadenfreude" is
+
+- ক. Sudden attack
+- **খ. Malicious enjoyment** ✅
+- গ. Bad object
+- ঘ. Malicious program
+
+**ব্যাখ্যা:** জার্মান শব্দ: **Schaden** (ক্ষতি) + **Freude** (আনন্দ)। অর্থ: অন্যের দুর্ভাগ্যে আনন্দ পাওয়া।
+
+---
+
+### ৩. 'Classic is a book which people praise and don't read' is quoted by:
+
+- **ক. Mark Twain** ✅
+- খ. Oscar Wilde
+- গ. Jonathan Swift
+- ঘ. Francis Bacon
+
+**ব্যাখ্যা:** প্রশ্নের শব্দবিন্যাস (A classic: a book which people praise and don't read) **Mark Twain**-এর _Following the Equator_ (১৮৯৭) বইয়ের "Pudd'nhead Wilson's New Calendar" অংশের উক্তি হিসেবে পরিচিত।
+
+⚠️ **নোট:** PDF-এর ব্যাখ্যায় যে অন্য শব্দবিন্যাস (A classic is something that everybody wants to have read and nobody wants to read) দেওয়া আছে, সেটি ভিন্ন একটি রূপ। এর উৎস নিয়ে মতভেদ আছে (Quote Investigator-এর অনুসন্ধানে Twain ছাড়া অন্যদের নামও এসেছে)। তবে এই প্রশ্নের উত্তর `Twain`-ই।
+
+**ভুল অপশন:** Oscar Wilde (কৌতুকপূর্ণ epigram), Jonathan Swift (_Gulliver's Travels_), Francis Bacon (_Essays_)।
+
+---
+
+### ৪. There is no use \_\_\_ buying the book.
+
+- **ক. in** ✅
+- খ. for
+- গ. to
+- ঘ. of
+
+**ব্যাখ্যা:** **There is no use in + V-ing** বা **It is no use + V-ing** (preposition ছাড়া)। উদাহরণ: There is no use in crying over spilt milk। `of no use` আলাদা গঠন (The book is of no use)।
+
+---
+
+### ৫. Words sharing the same phonological 'shape' but are morphologically unrelated is termed as
+
+- ক. Antonym
+- খ. Synonym
+- **গ. Homonym** ✅
+- ঘ. Homomorphism
+
+**ব্যাখ্যা:** **Homonym** = একই বানান বা উচ্চারণ, কিন্তু ভিন্ন অর্থ ও ব্যুৎপত্তি। উদাহরণ: `bank` (নদীর পাড়) ও `bank` (ব্যাংক)। **Homophone** = একই উচ্চারণ, ভিন্ন বানান (right/write)।
+
+---
+
+### ৬. The concert is being played in the open air on Sunday. The underlined words mean
+
+- ক. everywhere
+- খ. somewhere
+- গ. there
+- **ঘ. outside** ✅
+
+**ব্যাখ্যা:** **in the open air** = খোলা আকাশের নিচে, ঘরের বাইরে (outdoors)। সমার্থক: outside, outdoors।
+
+---
+
+### ৭. Their job as advisers was to pour oil on troubled waters. The underlined words mean
+
+- ক. make things damper
+- খ. mix things better
+- **গ. calm things down** ✅
+- ঘ. pick things up
+
+**ব্যাখ্যা:** **pour oil on troubled waters** = উত্তেজনা বা বিবাদ থামিয়ে পরিস্থিতি শান্ত করা। (পুরনো বিশ্বাস: উত্তাল ঢেউয়ে তেল ঢাললে জল শান্ত হয়।)
+
+---
+
+### ৮. During the war, many families tried to \_\_\_ as much food and supplies as they could.
+
+- ক. horde
+- খ. home
+- **গ. hoard** ✅
+- ঘ. hail
+
+**ব্যাখ্যা:** **hoard** (verb) = ভবিষ্যতের জন্য মজুদ করে রাখা। **horde** (noun) = বিশাল দল/জনতা। উচ্চারণ একই, বানান ও অর্থ আলাদা (Homophone)।
+
+---
+
+### ৯. Find the synonym of the word 'cadaver'
+
+- ক. ascend
+- খ. develop
+- **গ. corpse** ✅
+- ঘ. drop
+
+**ব্যাখ্যা:** **Cadaver** = মৃতদেহ (বিশেষত চিকিৎসা শিক্ষায় ব্যবহৃত)। সমার্থক: corpse।
+
+---
+
+### ১০. All I can say at the moment is, Long \_\_\_ the company.
+
+- **ক. live** ✅
+- খ. lives
+- গ. lived
+- ঘ. living
+
+**ব্যাখ্যা:** শুভকামনা বা প্রার্থনা বোঝাতে **Long live + noun** (Optative subjunctive)। `live` এখানে base form। উদাহরণ: Long live the King!
+
+---
+
+# সেকশন ৮: Petrobangla — Accounts Assistant | ২০১৯
+
+### ১. **\_\_\_** the bad weather, the outdoor party was rescheduled.
+
+- **ক. Because of** ✅
+- খ. In order to
+- গ. Despite
+- ঘ. But
+
+**ব্যাখ্যা:** **because of + noun phrase** = কারণে। খারাপ আবহাওয়ার কারণে পার্টি পুনর্নির্ধারণ করা হয়েছিল।
+
+**ভুল অপশন:** `Despite` বৈপরীত্য বোঝায় (খারাপ আবহাওয়া সত্ত্বেও)। `In order to` উদ্দেশ্য বোঝায়। `But` সংযোজক, বাক্যের শুরুতে বসে না।
+
+---
+
+### ২. In time of financial crisis, such lavish expenditure should be \_\_\_.
+
+- **ক. curtailed** ✅
+- খ. justified
+- গ. encouraged
+- ঘ. corrected
+
+**ব্যাখ্যা:** **curtail** = কাটছাঁট করা, কমিয়ে আনা। আর্থিক সংকটের সময় বিলাসবহুল ব্যয় কমানো উচিত।
+
+---
+
+### ৩. Prime Minister has arrived \_\_\_ London.
+
+- ক. at
+- খ. to
+- **গ. in** ✅
+- ঘ. from
+
+**ব্যাখ্যা:** **arrive in + শহর/দেশ**, **arrive at + ছোট স্থান** (station, airport, hotel)। উদাহরণ: arrived in Dhaka; arrived at the airport।
+
+---
+
+### ৪. He is good \_\_\_ Chemistry.
+
+- ক. on
+- **খ. at** ✅
+- গ. in
+- ঘ. to
+
+**ব্যাখ্যা:** দক্ষতা বোঝাতে **good at**। উদাহরণ: good at mathematics।
+
+---
+
+### ৫. Death is preferable \_\_\_ dishonor.
+
+- ক. from
+- খ. of
+- গ. in
+- **ঘ. to** ✅
+
+**ব্যাখ্যা:** **prefer, preferable, superior, inferior, senior, junior** এর পর তুলনা করতে **to** বসে (than নয়)।
+
+---
+
+### ৬. Choose the correct sentence:
+
+- ক. I have a decent house to live
+- **খ. I have a decent house to live in** ✅
+- গ. I have a decent houses to live in
+- ঘ. I have decent houses to live
+
+**ব্যাখ্যা:** `live in a house` এই preposition-সম্পর্ক বজায় রাখতে infinitive-এর শেষে **in** বসে: a house **to live in**। উদাহরণ: a chair to sit on; a pen to write with।
+
+**ভুল অপশন:** গ-তে `a ... houses` (সংখ্যা মিলছে না), ক ও ঘ-তে `in` বাদ।
+
+---
+
+### ৭. Choose the correct sentence:
+
+- ক. The quality of the Apples were not good.
+- **খ. The quality of the Apples was not good.** ✅
+- গ. The quality of the Apples does not good.
+- ঘ. The Quality of the Apples have not good.
+
+**ব্যাখ্যা:** মূল subject **The quality** (একবচন), তাই `was`। `of the apples` শুধু modifier।
+
+---
+
+### ৮. Choose the correct sentence:
+
+- ক. Neither the Chairman nor the members was Present.
+- **খ. Neither the Chairman nor the members were present.** ✅
+- গ. Neither the Chairman nor the members has present.
+- ঘ. Neither the Chairman nor the members is present.
+
+**ব্যাখ্যা:** **Neither ... nor** দিয়ে দুটি subject যুক্ত হলে verb **নিকটবর্তী subject** অনুযায়ী হয়। `the members` (বহুবচন), তাই `were`। উদাহরণ: Neither he nor his friends were there।
+
+---
+
+### ৯. Choose the correct sentence:
+
+- ক. Mr. Rahman teaches very well, isn't he?
+- **খ. Mr. Rahman teaches very well, doesn't he?** ✅
+- গ. Mr. Rahman teachers very well, didn't he?
+- ঘ. Mr. Rahman teaches very well, weren't he?
+
+**ব্যাখ্যা:** Question tag: positive বাক্যে negative tag। Present Indefinite (`teaches`, 3rd person singular) এর tag: **doesn't he?**
+
+---
+
+### ১০. Choose the correct sentence:
+
+- ক. When we saw her last, she ran to catch a bus.
+- খ. When we saw her last, she had ran to catch a bus.
+- **গ. When we saw her last, she was running to catch a bus.** ✅
+- ঘ. When we saw her last, she has ran to catch a bus.
+
+**ব্যাখ্যা:** `When we saw her last` অতীত মুহূর্ত; সেই সময় তার চলমান কাজ বোঝাতে **Past Continuous (was running)**। উদাহরণ: When I called, she was cooking।
+
+⚠️ **নোট:** `ক` (she ran ...) ব্যাকরণগতভাবে শুদ্ধ, তবে এতে "শেষবার যখন দেখেছিলাম, সে দৌড়েছিল" (সম্পূর্ণ কাজ) অর্থ আসে। PDF-এর কী `গ`।
+
+**ভুল অপশন:** `had ran` ও `has ran` ভুল (`run – ran – run`, শুদ্ধ: had run / has run)।
+
+---
+
+### ১১. What is the synonym for word "Abandon"?
+
+- ক. Try
+- খ. Join
+- গ. Keep with
+- **ঘ. Forsake** ✅
+
+**ব্যাখ্যা:** **Abandon** = পরিত্যাগ করা। সমার্থক: **forsake**, desert, leave।
+
+---
+
+### ১২. The antonym for 'Coercive' is :
+
+- ক. Progressive
+- খ. Promoting
+- গ. Opinionated
+- **ঘ. Gentle** ✅
+
+**ব্যাখ্যা:** **Coercive** = বলপ্রয়োগমূলক, জবরদস্তিমূলক। বিপরীত: **gentle** = কোমল, নরম।
+
+---
+
+### ১৩. The antonym for 'Prodigal' is
+
+- ক. Lavish
+- খ. Polite
+- **গ. Economical** ✅
+- ঘ. Excited
+
+**ব্যাখ্যা:** **Prodigal** = অপব্যয়ী। বিপরীত: **economical/frugal** = মিতব্যয়ী। `Lavish` সমার্থক ভাব দেয়।
+
+---
+
+### ১৪. Select the correct spelling of the words
+
+- ক. Affedevit
+- খ. Afidevit
+- গ. Affidevit
+- **ঘ. Affidavit** ✅
+
+**ব্যাখ্যা:** শুদ্ধ বানান **Affidavit** (af-fi-da-vit) = হলফনামা, শপথপত্র।
+
+---
+
+### ১৫. Select the correct spelling of the words
+
+- ক. Sychology
+- **খ. Psychology** ✅
+- গ. Burearacy
+- ঘ. bueraucracy
+
+**ব্যাখ্যা:** শুদ্ধ বানান **Psychology** (`p` নীরব, উচ্চারণ /saɪˈkɒlədʒi/) = মনোবিজ্ঞান। গ ও ঘ-তে `Bureaucracy`-র ভুল বানান আছে (শুদ্ধ: B-u-r-e-a-u-c-r-a-c-y)।
+
+---
+
+### ১৬. Passive voice of "The baby has lost the doll"?
+
+- ক. The doll was lost by the baby
+- খ. The doll had been lost by the baby
+- **গ. The doll has been lost by the baby** ✅
+- ঘ. The doll will have been lost by the baby
+
+**ব্যাখ্যা:** Present Perfect passive: **Object + has/have been + V₃ + by + subject**।
+
+**ভুল অপশন:** ক Past Indefinite, খ Past Perfect, ঘ Future Perfect (tense বদলেছে)।
+
+---
+
+### ১৭. What kind of noun is 'Dhaka'?
+
+- **ক. Proper** ✅
+- খ. Common
+- গ. Collective
+- ঘ. Material
+
+**ব্যাখ্যা:** নির্দিষ্ট স্থানের নাম হওয়ায় `Dhaka` **Proper Noun** (নামবাচক বিশেষ্য)। Common noun সাধারণ জাতিবাচক (city), Collective noun দলবাচক (team), Material noun উপাদানবাচক (gold)।
+
+---
+
+### ১৮. The word 'Plunge' is a/an
+
+- ক. Pronoun
+- খ. Adjective
+- **গ. Verb** ✅
+- ঘ. Adverb
+
+**ব্যাখ্যা:** **plunge** মূলত verb = ঝাঁপ দেওয়া, ডুবিয়ে দেওয়া। Noun হিসেবেও চলে (a plunge in prices)। অপশনে verb-ই আছে।
+
+---
+
+### ১৯. The past participle of 'Spit' is
+
+- ক. Spite
+- খ. Spite tens
+- **গ. Spit** ✅
+- ঘ. Spate
+
+**ব্যাখ্যা:** **spit – spat/spit – spat/spit**। অপশনের মধ্যে `Spit` আছে, যা Past Participle-এর গ্রহণযোগ্য রূপ (আমেরিকান ইংরেজিতে `spit`, ব্রিটিশে `spat`)।
+
+---
+
+### ২০. The plural form of 'Goose' is
+
+- ক. Gooses
+- **খ. Geese** ✅
+- গ. Gears
+- ঘ. Greece
+
+**ব্যাখ্যা:** Irregular plural: goose → **geese**, tooth → teeth, foot → feet, mouse → mice।
+
+---
+
+### ২১. Which of the following is a masculine gender of "Deer"?
+
+- ক. mare
+- খ. duck
+- গ. doe
+- **ঘ. buck** ✅
+
+**ব্যাখ্যা:** হরিণ (deer)-এর পুংলিঙ্গ **buck** (বা stag/hart), স্ত্রীলিঙ্গ **doe** (বা hind)। `mare` = ঘোটকী; `duck` = হাঁস (পুংলিঙ্গ drake)।
+
+---
+
+# সেকশন ৯: Teletalk Bangladesh Limited — Executive (Technical) | ২০১৯
+
+### ১. He always follows that old .....: early to bed, early to rise makes a man healthy, wealthy and wise.
+
+- ক. phrase
+- খ. ballad
+- **গ. adage** ✅
+- ঘ. analogy
+
+**ব্যাখ্যা:** **adage** = প্রবাদ, চিরাচরিত নীতিবাক্য (proverb, maxim)।
+
+**ভুল অপশন:** `phrase` = শব্দগুচ্ছ, `ballad` = গাথা-কবিতা, `analogy` = সাদৃশ্য।
+
+---
+
+### ২. I find these mathematical puzzles too ..... and prefer the more straightforward type.
+
+- ক. abject
+- খ. abortive
+- গ. abounding
+- **ঘ. abstruse** ✅
+
+**ব্যাখ্যা:** **abstruse** = দুর্বোধ্য, জটিল (difficult to understand)। `straightforward` (সহজবোধ্য)-এর বিপরীত ভাব।
+
+**ভুল অপশন:** `abject` = শোচনীয়, `abortive` = বিফল, `abounding` = প্রাচুর্যপূর্ণ।
+
+---
+
+### ৩. It's no good ..... your head in the sand, you'll have to face the truth in the end.
+
+- ক. filling
+- **খ. burying** ✅
+- গ. putting
+- ঘ. digging
+
+**ব্যাখ্যা:** **bury one's head in the sand** = বাস্তব বিপদ বা সত্য এড়িয়ে যাওয়ার ভান করা (উটপাখির মতো)। `It's no good + V-ing`।
+
+---
+
+### ৪. How many times have you ..... your house broken into?
+
+- **ক. had** ✅
+- খ. been
+- গ. be
+- ঘ. have
+
+**ব্যাখ্যা:** **have + object + V₃** = (অনভিপ্রেত) কিছু ঘটা বা ঘটানো। Present Perfect প্রশ্নে `have you had your house broken into?` = কতবার তোমার বাড়িতে চুরি হয়েছে?
+
+---
+
+### ৫. What is the feminine gender of 'earl'?
+
+- ক. lady
+- খ. queen
+- **গ. countess** ✅
+- ঘ. heroine
+
+**ব্যাখ্যা:** ব্রিটিশ অভিজাত উপাধি **Earl**-এর স্ত্রীলিঙ্গ **Countess**।
+
+---
+
+### ৬. European cuisine always ..... a sense of nostalgia and romance, like running into an old flame.
+
+- ক. evolves
+- খ. evinces
+- **গ. evokes** ✅
+- ঘ. evicts
+
+**ব্যাখ্যা:** **evoke** = (স্মৃতি বা অনুভূতি) জাগিয়ে তোলা। নস্টালজিয়া ও রোমান্টিক অনুভূতি জাগায়।
+
+**ভুল অপশন:** `evolves` = বিবর্তিত হয়, `evinces` = প্রদর্শন করে (প্রকাশ্যভাবে দেখায়), `evicts` = উচ্ছেদ করে।
+
+---
+
+### ৭. During the war, many families tried to ..... as much food and supplies as they could.
+
+- ক. horde
+- খ. hone
+- **গ. hoard** ✅
+- ঘ. hail
+
+**ব্যাখ্যা:** **hoard** (verb) = মজুদ করা। (পায়রা বন্দর, সেকশন ৭-এর ৮ নম্বরের প্রায় একই প্রশ্ন।) `hone` = শান দেওয়া/দক্ষতা বাড়ানো।
+
+---
+
+### ৮. She was hardly-hit by the recent recession. Which word(s) make this sentence incorrect?
+
+- ক. was
+- **খ. hardly-hit** ✅
+- গ. recent
+- ঘ. recession
+
+**ব্যাখ্যা:** **hardly** = প্রায় না/কদাচিৎ (নেতিবাচক অর্থ)। "মারাত্মকভাবে আক্রান্ত" বোঝাতে **hard-hit** বা `hit hard` (hard এখানে adverb/adjective)। শুদ্ধ: She was **hard-hit** by the recent recession।
+
+---
+
+### ৯. Teaching someone to drive is one of the ..... experiences you can have.
+
+- ক. cruelest
+- খ. heaviest
+- **গ. scariest** ✅
+- ঘ. latest
+
+**ব্যাখ্যা:** গাড়ি চালানো শেখানো একটি ভীতিকর অভিজ্ঞতা, তাই **scariest**। `one of the + superlative + plural noun` কাঠামো। উদাহরণ: one of the best films।
+
+---
+
+### ১০. 'Darts are played by men as well as women'. Find the word mistakenly used in this sentence.
+
+- **ক. are** ✅
+- খ. played by
+- গ. men
+- ঘ. as well as
+
+**ব্যাখ্যা:** `Darts`, `billiards`, `bowls`, `draughts` ইত্যাদি খেলার নাম দেখতে বহুবচন হলেও **একবচন** noun হিসেবে ধরা হয়। তাই `Darts **is** played ...`।
+
+⚠️ **নোট:** `darts` শব্দটি `a set of darts` (তীরগুলো) অর্থে বহুবচনও হতে পারে। তবে খেলার নাম অর্থে প্রচলিত ব্যাকরণ-নিয়মে singular। পরীক্ষার জন্য PDF-এর কী `ক` রাখুন।
+
+---
+
+_সমাপ্ত।_
