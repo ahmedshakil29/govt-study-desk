@@ -1,6 +1,10 @@
-# Digital Electronics ও Cache — প্রশ্ন ও সমাধান
+# Digital Electronics
 
 **সূত্র:** Bit to Exabyte — Super IT 180++ Questions Book (পৃষ্ঠার প্রশ্নসমূহ)
+
+## প্রশ্ন ও সমাধান
+
+---
 
 ## Digital Electronics
 
