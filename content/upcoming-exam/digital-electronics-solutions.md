@@ -480,15 +480,16 @@ F = A'B'C + A'BC + AB'
 **সমাধান:**
 
 - Y = AB + (A' + B)C
-- = AB + A'C + BC
-- এখানে X = A, Y = B, Z = C; BC হলো AB ও A'C-এর consensus পদ, তাই বাদ যাবে।
+- = AB + A'C + BC [Distributive Law / বণ্টন সূত্র]
+- = AB + A'C [Consensus Theorem: PQ + P'R + QR = PQ + P'R]
+- এখানে P = A, Q = B, R = C; BC হলো AB ও A'C-এর consensus পদ, তাই বাদ যাবে।
 - ∴ **Y = AB + A'C**
 
 **যাচাই:** BC = BC(A + A') = ABC + A'BC। ABC পদটি AB দ্বারা এবং A'BC পদটি A'C দ্বারা absorbed।
 
 ---
 
-### ২১. নিম্নলিখিত Boolean Function টি সংক্ষিপ্ত আকারে লিখুন: F(A,B,C,D) = A'B'C' + B'CD' + A'B'CD' + ABC' [BPSC S, AE 2021]
+### ২১. নিম্নলিখিত Boolean Function টি সংক্ষিপ্ত আকারে লিখুন: F(A,B,C,D) = A'B'C' + B'CD' + A'B'CD' + AB'C' [BPSC S, AE 2021]
 
 **ব্যাখ্যা:** চার ভেরিয়েবলের function সরল করতে K-map সবচেয়ে নির্ভরযোগ্য। আগে minterm বের করে গ্রুপ করা হবে।
 
@@ -499,47 +500,61 @@ F = A'B'C + A'BC + AB'
 - A'B'C' (D যেকোনো) = 0000, 0001 → m0, m1
 - B'CD' (A যেকোনো) = 0010, 1010 → m2, m10
 - A'B'CD' = 0010 → m2 (উপরের পদে আগেই আছে)
-- ABC' (D যেকোনো) = 1100, 1101 → m12, m13
-- F = Σm(0, 1, 2, 10, 12, 13)
+- AB'C' (D যেকোনো) = 1000, 1001 → m8, m9
+- F = Σm(0, 1, 2, 8, 9, 10)
 
 **ধাপ ২: K-map**
 
-| AB \ CD | 00          | 01          | 11  | 10          |
-| ------- | ----------- | ----------- | --- | ----------- |
-| 00      | **1** (m0)  | **1** (m1)  | 0   | **1** (m2)  |
-| 01      | 0           | 0           | 0   | 0           |
-| 11      | **1** (m12) | **1** (m13) | 0   | 0           |
-| 10      | 0           | 0           | 0   | **1** (m10) |
+| AB \ CD | 00         | 01         | 11  | 10          |
+| ------- | ---------- | ---------- | --- | ----------- |
+| 00      | **1** (m0) | **1** (m1) | 0   | **1** (m2)  |
+| 01      | 0          | 0          | 0   | 0           |
+| 11      | 0          | 0          | 0   | 0           |
+| 10      | **1** (m8) | **1** (m9) | 0   | **1** (m10) |
 
 **ধাপ ৩: গ্রুপ**
 
-- m0, m1 → A'B'C'
-- m2, m10 → B'CD' (কোণার-সংলগ্ন নয়, কিন্তু B'=1, C=1, D'=1, A যেকোনো, তাই বৈধ গ্রুপ)
-- m12, m13 → ABC'
-- সব minterm এই তিন গ্রুপে ঢাকা পড়ে (m0 ও m2 অন্য গ্রুপের অন্তর্ভুক্ত)।
+- **Quad ১:** m0, m1, m8, m9 → B'C' (এখানে B=0, C=0 স্থির; A ও D পরিবর্তনশীল)
+- **Quad ২:** m0, m2, m8, m10 → B'D' (চার কোণার মতো wrap-around গ্রুপ; B=0, D=0 স্থির; A ও C পরিবর্তনশীল)
+- সব minterm (0, 1, 2, 8, 9, 10) এই দুই গ্রুপে ঢাকা পড়ে।
 
-∴ **F = A'B'C' + B'CD' + ABC'**
+∴ **F = B'C' + B'D' = B'(C' + D')**
 
-**বিশ্লেষণ:** মূল রাশির ৩য় পদ A'B'CD' বাড়তি (redundant), কারণ B'CD' তাকে absorb করে (X + XY = X)।
-
-⚠️ **নোট:** শেষ পদটির overbar ছবিতে অস্পষ্ট; আমি ABC' ধরেছি। অন্য পাঠ হলে গ্রুপ বদলাবে।
+**বিশ্লেষণ:** মূল রাশির ৩য় পদ A'B'CD' বাড়তি (redundant), কারণ B'CD' তাকে absorb করে (X + XY = X)। এছাড়া A'B'C' + AB'C' = B'C' (A + A' = 1), আর B'CD' এর minterm m2, m10 সরাসরি B'D' গ্রুপে অন্তর্ভুক্ত।
 
 ---
 
-### ২২. AB'C'D + A'BD' + ABCD convert it into minimum lateral (minimal SOP). [SGFL AGE 2021]
+### ২২. AB'C'D + A'B'D' + AB'CD convert it into minimum literal (minimal SOP). [SGFL AGE 2021]
 
-**ব্যাখ্যা:** "Minimum lateral" বলতে সম্ভবত minimum SOP (সবচেয়ে কম পদ/literal) বোঝানো হয়েছে। দেখতে হবে কোনো দুটি পদ এক ভেরিয়েবলে ভিন্ন কি না (adjacent), হলে মেলানো যায়।
+**ব্যাখ্যা:** "Minimum literal" বলতে minimal SOP (সবচেয়ে কম পদ ও literal) বোঝানো হয়েছে। আগে minterm বের করে K-map-এ গ্রুপ করা হবে।
 
 **সমাধান:**
 
-- AB'C'D = 1001 (m9)
-- A'BD' = A'BC'D' + A'BCD' = 0100, 0110 (m4, m6) → এই দুটি আগেই মিলিত (B বাদে C নেই)
-- ABCD = 1111 (m15)
-- m9 ও m15 পরস্পর দুই ভেরিয়েবলে ভিন্ন (B, C), m9/m15 ও m4/m6-এর সাথেও মেলে না।
-- কোনো দুটি পদই adjacent নয়, তাই আর সরল হয় না।
-- ∴ **AB'C'D + A'BD' + ABCD** (ইতিমধ্যেই minimal)
+**ধাপ ১: Minterm (ABCD)**
 
-⚠️ **নোট:** overbar-এর অবস্থান অস্পষ্ট। আমি উপরের পাঠ ধরেছি। যদি প্রথম পদ ABC'D হতো, তাহলে ABC'D + ABCD = ABD এবং ফল ABD + A'BD' = B(AD + A'D') = **B(A ⊙ D)** (XNOR) হতো। মূল বইয়ের চিহ্ন দেখে নিশ্চিত করো।
+- AB'C'D = 1001 → m9
+- A'B'D' (C যেকোনো) = 0000, 0010 → m0, m2
+- AB'CD = 1011 → m11
+- F = Σm(0, 2, 9, 11)
+
+**ধাপ ২: K-map**
+
+| AB \ CD | 00         | 01         | 11          | 10         |
+| ------- | ---------- | ---------- | ----------- | ---------- |
+| 00      | **1** (m0) | 0          | 0           | **1** (m2) |
+| 01      | 0          | 0          | 0           | 0          |
+| 11      | 0          | 0          | 0           | 0          |
+| 10      | 0          | **1** (m9) | **1** (m11) | 0          |
+
+**ধাপ ৩: গ্রুপ**
+
+- **Pair ১:** m9, m11 → AB'D (A=1, B=0, D=1 স্থির; C পরিবর্তনশীল)
+- **Pair ২:** m0, m2 → A'B'D' (A=0, B=0, D=0 স্থির; C পরিবর্তনশীল)
+- m0 ও m2 এবং m9 ও m11 ছাড়া আর কোনো minterm adjacent নয়, তাই বড় গ্রুপ সম্ভব নয়।
+
+∴ **F = AB'D + A'B'D' = B'(AD + A'D')**
+
+**বিশ্লেষণ:** মূল রাশির AB'C'D ও AB'CD পদ দুটি C-তে ভিন্ন, তাই C বাদ দিয়ে AB'D পাওয়া যায় (C + C' = 1)। A'B'D' আগে থেকেই C ছাড়া, তাই অপরিবর্তিত থাকে। ফলে মোট literal ১২ থেকে কমে ৬টি হলো। আরও লক্ষ্য করুন, AD + A'D' = (A ⊕ D)', তাই **F = B'(A ⊕ D)'** আকারেও লেখা যায়।
 
 ---
 
@@ -549,27 +564,46 @@ F = A'B'C + A'BC + AB'
 
 **সমাধান:**
 
-- x + y + xy = (x + xy) + y = x + y
-- (x + y)(x + z) = x·x + xz + xy + yz = x + xz + xy + yz
-- = x(1 + z + y) + yz = x + yz
-- ∴ **x + yz**
+- (x + y + xy)(x + z)
+- = (x + xy + y)(x + z) [পদগুলো সাজানো হলো]
+- = (x + y)(x + z) [Absorption Law: x + xy = x]
+- = x + yz [Distributive Law: (x + y)(x + z) = x + yz]
+- ∴ **Result = x + yz** (Ans.)
 
 (সরাসরি distributive সূত্র: (x + y)(x + z) = x + yz)
 
+**যাচাই (বিকল্প পদ্ধতি):**
+
+- (x + y)(x + z) = xx + xz + xy + yz
+- = x + xz + xy + yz [Idempotent Law: xx = x]
+- = x(1 + z + y) + yz
+- = x·1 + yz [Null Law: 1 + z + y = 1]
+- = x + yz
+
 ---
 
-### ২৫. Simplify the Boolean expression as possible: ABC'D' + ABCD + ABD' [APSCL AE(ICT) 2021]
+### ২৫. Simplify the Boolean expression as possible: AB'C'D + ABCD + AB'D' [APSCL AE(ICT) 2021]
 
-**ব্যাখ্যা:** Absorption ও X + X'Y = X + Y সূত্র।
+**ব্যাখ্যা:** প্রথম ও তৃতীয় পদে AB' common নিয়ে Redundancy Law (X + X'Y = X + Y) প্রয়োগ করতে হবে।
 
 **সমাধান:**
 
-- ABC'D' + ABD' = ABD'(C' + 1) = ABD' (absorption)
-- এখন: ABD' + ABCD = AB(D' + CD)
-- D' + CD = D' + C (X + X'Y = X + Y, যেখানে X = D')
-- = AB(C + D') = **ABC + ABD'**
+- AB'C'D + ABCD + AB'D'
+- = AB'D' + AB'C'D + ABCD [পদগুলো সাজানো হলো]
+- = AB'(D' + C'D) + ABCD [AB' common নিয়ে]
+- = AB'(D' + C') + ABCD [Redundancy Law: X + X'Y = X + Y, এখানে X = D', Y = C'; D' + D·C' = D' + C']
+- = AB'C' + AB'D' + ABCD [Distributive Law / বণ্টন সূত্র]
+- ∴ **Result = AB'C' + AB'D' + ABCD** (Ans.)
 
-⚠️ **নোট:** overbar-এর পাঠ অস্পষ্ট; উপরের পাঠ ধরা হয়েছে।
+**বিকল্প রূপ:** A[B'(C' + D') + BCD] = A[B'(CD)' + B·CD] = A(B ⊙ CD), অর্থাৎ A AND (B XNOR CD)।
+
+**যাচাই:**
+
+- A = 1, B = 0, C = 1, D = 0 ধরলে: মূল রাশি = 0 + 0 + 1 = 1, সরলীকৃত রাশি = 0 + 1 + 0 = 1 ✔
+- A = 1, B = 0, C = 1, D = 1 ধরলে: মূল রাশি = 0 + 0 + 0 = 0, সরলীকৃত রাশি = 0 + 0 + 0 = 0 ✔
+- A = 1, B = 1, C = 1, D = 1 ধরলে: মূল রাশি = 0 + 1 + 0 = 1, সরলীকৃত রাশি = 0 + 0 + 1 = 1 ✔
+
+---
 
 ---
 
@@ -586,17 +620,27 @@ F = A'B'C + A'BC + AB'
 
 ---
 
-### ২৭. Simplify the following function: ABCD + A'BD + ABC'D [DPDC 2020]
+### ২৭. Simplify the following function: ABCD + A'BD + AB'C'D [DPDC 2020]
 
-**ব্যাখ্যা:** ABCD ও ABC'D শুধু C-তে ভিন্ন, তাই C বাদ।
+**ব্যাখ্যা:**
 
 **সমাধান:**
 
-- ABCD + ABC'D = ABD(C + C') = ABD
-- ABD + A'BD = BD(A + A') = BD
-- ∴ **BD**
+- ABCD + A'BD + AB'C'D
+- = D(ABC + A'B + AB'C') [D common নিয়ে]
+- = D[B(AC + A') + AB'C'] [B common নিয়ে]
+- = D[B(A' + C) + AB'C'] [Redundancy Law: A' + AC = A' + C]
+- = D(A'B + BC + AB'C') [Distributive Law / বণ্টন সূত্র]
+- = A'BD + BCD + AB'C'D
+- ∴ **Result = A'BD + BCD + AB'C'D** (Ans.)
 
-⚠️ **নোট:** তৃতীয় পদের overbar ছবিতে অস্পষ্ট; ABC'D ধরেছি। যদি পদটি AB'C'D হয়, তাহলে ABCD + A'BD = BCD + A'BD হয় এবং AB'C'D আলাদাই থাকে: **BCD + A'BD + AB'C'D**।
+**যাচাই (Minterm দিয়ে):**
+
+- মূল রাশি = ABCD + A'BD + AB'C'D
+- A'BD = A'BC'D + A'BCD = m5 + m7, ABCD = m15, AB'C'D = m9
+- মূল রাশি = Σm(5, 7, 9, 15)
+- সরলীকৃত রাশি: A'BD = m5 + m7, BCD = m7 + m15, AB'C'D = m9
+- সরলীকৃত রাশি = Σm(5, 7, 9, 15) ✔ (দুটি সমান)
 
 ---
 
