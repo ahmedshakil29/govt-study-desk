@@ -26,7 +26,7 @@
 
 **সময় ও নম্বরের হিসাব:** ২–৩ নম্বরের প্রশ্নে ৪–৫ পয়েন্ট, ৫ নম্বরে ছক অনুযায়ী পূর্ণ উত্তর। Calculation-এর প্রশ্নে ধাপ লিখুন, কারণ ধাপের জন্যও নম্বর থাকে। Diagram হাতে আঁকলে বক্সগুলো পরিষ্কার ও label সহ আঁকুন।
 
-# ০১. Deadlock, চারটি Necessary Condition, Prevention vs Avoidance
+## ০১. Deadlock, চারটি Necessary Condition, Prevention vs Avoidance
 
 ## ১. বুঝে নিন:
 
