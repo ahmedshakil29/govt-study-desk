@@ -28,7 +28,9 @@
 
 # ০১. Deadlock, চারটি Necessary Condition, Prevention vs Avoidance
 
-## ১. বুঝে নিন
+## ১. বুঝে নিন:
+
+### A. Deadlock কী?
 
 **Deadlock** হলো **Operating System**-এর এমন একটি অবস্থা, যেখানে দুই বা ততোধিক Process একে অপরের Resource-এর জন্য অপেক্ষা করতে থাকে এবং কোনো Process-ই তার কাজ সম্পন্ন করতে পারে না।
 
@@ -47,25 +49,85 @@
 
   **এটাই Deadlock।**
 
-**চারটি Necessary Condition (Coffman Conditions)** — Deadlock হতে হলে চারটিই **একসাথে** থাকতে হবে:
+### B. **চারটি Necessary Condition (Coffman Conditions)**
 
-| #   | Condition            | অর্থ                                                                           |
-| --- | -------------------- | ------------------------------------------------------------------------------ |
-| ১   | **Mutual Exclusion** | একটি resource একসময় কেবল একটি process ব্যবহার করতে পারে                       |
-| ২   | **Hold and Wait**    | Process কিছু resource ধরে রেখে আরও resource-এর জন্য অপেক্ষা করে                |
-| ৩   | **No Preemption**    | ধরে রাখা resource জোর করে কেড়ে নেওয়া যায় না, process নিজে ছাড়লে তবেই ছাড়ে |
-| ৪   | **Circular Wait**    | P1 → P2 → … → Pn → P1 এভাবে চক্রাকারে অপেক্ষা                                  |
+**Deadlock** সংঘটিত হওয়ার জন্য নিচের চারটি শর্ত **একই সঙ্গে** পূরণ হতে হবে।:
 
-**Prevention:** চারটির অন্তত একটি condition ভেঙে দেওয়া, যাতে Deadlock কখনো না হয়।
+- ১. Mutual Exclusion
+  একটি Resource একই সময়ে কেবল একটি Process ব্যবহার করতে পারবে।
 
-| ভাঙার condition  | কৌশল                                                                     |
-| ---------------- | ------------------------------------------------------------------------ |
-| Mutual Exclusion | Resource sharable করা (যেমন read-only file, spooling)                    |
-| Hold and Wait    | শুরুতেই সব resource একসাথে চাওয়া, অথবা নতুন চাওয়ার আগে সব ছেড়ে দেওয়া |
-| No Preemption    | Resource না পেলে আগেরগুলো ছেড়ে দেওয়া, OS জোর করে নিতে পারা             |
-| Circular Wait    | Resource-এর ক্রম নির্ধারণ করা, process শুধু ক্রম অনুযায়ী চাইবে          |
+উদাহরণ: একটি Printer একই সময়ে একটি Process ব্যবহার করছে। অন্য Process-কে অপেক্ষা করতে হবে।
 
-**Avoidance:** OS আগে থেকে জানে প্রতিটি process সর্বোচ্চ কত resource চাইবে। প্রতিটি request আসার সময় দেখে system **Safe State**-এ থাকবে কি না। থাকলে দেয়, না থাকলে অপেক্ষা করায়। উদাহরণ: **Banker's Algorithm** (প্রশ্ন ০২)।
+- ২. Hold and Wait
+  একটি Process তার কাছে থাকা Resource ধরে রেখে (Hold) অন্য Resource-এর জন্য অপেক্ষা করে (Wait)।
+
+উদাহরণ: P1-এর কাছে R1 আছে, কিন্তু সে R2-এর জন্য অপেক্ষা করছে।
+
+- ৩. No Preemption
+  কোনো Process-এর কাছ থেকে জোরপূর্বক Resource কেড়ে নেওয়া যাবে না। Process নিজে কাজ শেষ করে Resource ছেড়ে দেবে।
+
+উদাহরণ: P1-এর কাছ থেকে R1 জোর করে নিয়ে অন্য Process-কে দেওয়া যাবে না।
+
+- ৪. Circular Wait
+  দুই বা ততোধিক Process একটি বৃত্তাকার অপেক্ষার (Circular Chain) মধ্যে আটকে থাকে।
+
+উদাহরণ:
+
+- P1 → R2-এর জন্য অপেক্ষা করছে।
+- P2 → R3-এর জন্য অপেক্ষা করছে।
+- P3 → R1-এর জন্য অপেক্ষা করছে।
+  এভাবে একটি Circular Chain তৈরি হয়।
+
+**চারটি Condition মনে রাখার কৌশল:**
+
+| #   | Condition            | মূল কথা                                       |
+| --- | -------------------- | --------------------------------------------- |
+| ১   | **Mutual Exclusion** | একসঙ্গে একজন                                  |
+| ২   | **Hold and Wait**    | ধরে রেখে অপেক্ষা                              |
+| ৩   | **No Preemption**    | জোর করে কেড়ে নেওয়া যাবে না                    |
+| ৪   | **Circular Wait**    | P1 → P2 → … → Pn → P1 এভাবে বৃত্তাকার অপেক্ষা |
+
+**মনে রাখবে:** চারটি Condition-এর যেকোনো একটি ভেঙে দিতে পারলে Deadlock প্রতিরোধ করা সম্ভব।
+
+### C. Deadlock Prevention vs Avoidance
+
+**Deadlock** মোকাবিলার দুটি গুরুত্বপূর্ণ পদ্ধতি হলো **Prevention** এবং **Avoidance**।
+
+#### (i). Deadlock Prevention:
+
+**Deadlock Prevention** হলো এমন একটি কৌশল, যেখানে Deadlock হওয়ার জন্য প্রয়োজনীয় চারটি Condition-এর অন্তত একটি শর্ত আগে থেকেই ভেঙে দেওয়া হয়। চারটির অন্তত একটি condition ভেঙে দেওয়া, যাতে Deadlock কখনো না হয়।
+
+| ভাঙার condition  | কৌশল                                                                                                                                            |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mutual Exclusion | Resource sharable করা (যেমন read-only file, spooling)                                                                                           |
+| Hold and Wait    | শুরুতেই সব resource একসাথে চাওয়া/বরাদ্দ দেওয়া, অথবা নতুন চাওয়ার আগে সব ছেড়ে দেওয়া অথবা Resource না থাকলে নতুন Resource ধরে রাখা নিষিদ্ধ করা |
+| No Preemption    | Resource না পেলে আগেরগুলো ছেড়ে দেওয়া, OS জোর করে নিতে পারা। প্রয়োজন হলে Resource ফিরিয়ে নেওয়ার ব্যবস্থা করা।                                  |
+| Circular Wait    | Resource-এর নির্দিষ্ট ক্রম (Ordering) নির্ধারণ করা, process শুধু ক্রম অনুযায়ী চাইবে                                                            |
+
+#### (ii). **Deadlock Avoidance:**
+
+**Deadlock Avoidance:** হলো এমন একটি কৌশল, যেখানে OS কোনো Process-কে Resource দেওয়ার আগে পরীক্ষা করে যে Resource বরাদ্দ দিলে System **Safe State-**এ থাকবে কি না।। যদি Safe State থাকে, তাহলে Resource দেওয়া হবে। অন্যথায় অপেক্ষা করানো হবে। উদাহরণ: **Banker's Algorithm** (প্রশ্ন ০২ --> Banker's Algorithm ব্যবহার করে Deadlock Avoidance করা হয়।)।
+
+#### (iii). **Prevention vs Avoidance: পার্থক্য**
+
+| বিষয়                | Prevention                              | Avoidance                                        |
+| ------------------- | --------------------------------------- | ------------------------------------------------ |
+| মূলনীতি             | Deadlock-এর শর্ত ভেঙে দেওয়া             | Deadlock এড়ানোর জন্য Safe State বজায় রাখা        |
+| কাজের সময়           | আগে থেকেই ব্যবস্থা নেয়                  | ধResource দেওয়ার আগে পরীক্ষা করে                 |
+| Resource Allocation | তুলনামূলকভাবে কঠোর                      | প্রয়োজন অনুযায়ী                                  |
+| System Information  | সর্বোচ্চ Resource চাহিদা জানা আবশ্যক নয় | Process-এর সর্বোচ্চ Resource চাহিদা জানা প্রয়োজন |
+| প্রধান পদ্ধতি       | চারটি Condition-এর একটি ভেঙে দেওয়া      | Safe State পরীক্ষা                               |
+| Algorithm           | Resource Ordering                       | Banker's Algorithm                               |
+
+#### (iii). **Safe State vs Unsafe State: পার্থক্য**
+
+| Safe State                       | Unsafe State              |
+| -------------------------------- | ------------------------- |
+| অন্তত একটি Safe Sequence আছে     | কোনো Safe Sequence নেই    |
+| Deadlock এড়ানোর নিশ্চয়তা থাকে    | Deadlock হওয়ার ঝুঁকি থাকে |
+| নিরাপদ Resource Allocation সম্ভব | নিরাপত্তা নিশ্চিত নয়      |
+
+**গুরুত্বপূর্ণ:** Unsafe State মানেই Deadlock নয়। Unsafe State থেকে Deadlock হতে পারে।
 
 ## ২. পরীক্ষায় যেভাবে লিখবেন
 
