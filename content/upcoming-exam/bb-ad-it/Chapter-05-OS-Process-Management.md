@@ -106,7 +106,7 @@
 
 #### (ii). **Deadlock Avoidance:**
 
-**Deadlock Avoidance:** হলো এমন একটি কৌশল, যেখানে OS কোনো Process-কে Resource দেওয়ার আগে পরীক্ষা করে যে Resource বরাদ্দ দিলে System **Safe State-**এ থাকবে কি না।। যদি Safe State থাকে, তাহলে Resource দেওয়া হবে। অন্যথায় অপেক্ষা করানো হবে। উদাহরণ: **Banker's Algorithm** (প্রশ্ন ০২ --> Banker's Algorithm ব্যবহার করে Deadlock Avoidance করা হয়।)।
+**Deadlock Avoidance:** হলো এমন একটি কৌশল, যেখানে OS কোনো Process-কে Resource দেওয়ার আগে পরীক্ষা করে যে Resource বরাদ্দ দিলে System **Safe State-**এ থাকবে কি না। যদি Safe State থাকে, তাহলে Resource দেওয়া হবে। অন্যথায় অপেক্ষা করানো হবে। উদাহরণ: **Banker's Algorithm** (প্রশ্ন ০২: Banker's Algorithm ব্যবহার করে Deadlock Avoidance করা হয়।)।
 
 #### (iii). **Prevention vs Avoidance: পার্থক্য**
 
