@@ -1,24 +1,21 @@
 # Chapter 05 — Operating Systems & Process Management
 
-*Super IT 180++ Questions Book (পৃষ্ঠা ৩০৩–৩৪৫) — শেখা + পরীক্ষায় লেখার গাইড*
-
 ---
-
 
 **লক্ষ্য পদ:** Bangladesh Govt Grade 9 — Bank, Bangladesh Bank (BB), AME, ANE, AD ধরনের IT/CSE পদ
 
-**ভাষা:** বাংলা ব্যাখ্যা, English term অক্ষত। প্রশ্ন বইয়ের ক্রমে সাজানো।
+**ভাষা:** বাংলা ব্যাখ্যা, English term অক্ষত।
 
 # কীভাবে পড়বেন ও লিখবেন
 
 প্রতিটি প্রশ্নে চারটি অংশ আছে:
 
-| অংশ | কী পাবেন |
-|---|---|
-| **১. বুঝে নিন** | ধারণার সহজ ব্যাখ্যা |
+| অংশ                            | কী পাবেন                                      |
+| ------------------------------ | --------------------------------------------- |
+| **১. বুঝে নিন**                | ধারণার সহজ ব্যাখ্যা                           |
 | **২. পরীক্ষায় যেভাবে লিখবেন** | MCQ / Short note / Written — তিন স্তরের উত্তর |
-| **৩. Diagram, table, হিসাব** | যেখানে দরকার |
-| **৪. মনে রাখার কৌশল** | Mnemonic বা ছোট tip |
+| **৩. Diagram, table, হিসাব**   | যেখানে দরকার                                  |
+| **৪. মনে রাখার কৌশল**          | Mnemonic বা ছোট tip                           |
 
 **Written উত্তরের সাধারণ ছক (সব প্রশ্নে খাটবে):**
 
@@ -39,21 +36,21 @@
 
 **চারটি Necessary Condition (Coffman Conditions)** — Deadlock হতে হলে চারটিই **একসাথে** থাকতে হবে:
 
-| # | Condition | অর্থ |
-|---|---|---|
-| ১ | **Mutual Exclusion** | একটি resource একসময় কেবল একটি process ব্যবহার করতে পারে |
-| ২ | **Hold and Wait** | Process কিছু resource ধরে রেখে আরও resource-এর জন্য অপেক্ষা করে |
-| ৩ | **No Preemption** | ধরে রাখা resource জোর করে কেড়ে নেওয়া যায় না, process নিজে ছাড়লে তবেই ছাড়ে |
-| ৪ | **Circular Wait** | P1 → P2 → … → Pn → P1 এভাবে চক্রাকারে অপেক্ষা |
+| #   | Condition            | অর্থ                                                                           |
+| --- | -------------------- | ------------------------------------------------------------------------------ |
+| ১   | **Mutual Exclusion** | একটি resource একসময় কেবল একটি process ব্যবহার করতে পারে                       |
+| ২   | **Hold and Wait**    | Process কিছু resource ধরে রেখে আরও resource-এর জন্য অপেক্ষা করে                |
+| ৩   | **No Preemption**    | ধরে রাখা resource জোর করে কেড়ে নেওয়া যায় না, process নিজে ছাড়লে তবেই ছাড়ে |
+| ৪   | **Circular Wait**    | P1 → P2 → … → Pn → P1 এভাবে চক্রাকারে অপেক্ষা                                  |
 
 **Prevention:** চারটির অন্তত একটি condition ভেঙে দেওয়া, যাতে Deadlock কখনো না হয়।
 
-| ভাঙার condition | কৌশল |
-|---|---|
-| Mutual Exclusion | Resource sharable করা (যেমন read-only file, spooling) |
-| Hold and Wait | শুরুতেই সব resource একসাথে চাওয়া, অথবা নতুন চাওয়ার আগে সব ছেড়ে দেওয়া |
-| No Preemption | Resource না পেলে আগেরগুলো ছেড়ে দেওয়া, OS জোর করে নিতে পারা |
-| Circular Wait | Resource-এর ক্রম নির্ধারণ করা, process শুধু ক্রম অনুযায়ী চাইবে |
+| ভাঙার condition  | কৌশল                                                                     |
+| ---------------- | ------------------------------------------------------------------------ |
+| Mutual Exclusion | Resource sharable করা (যেমন read-only file, spooling)                    |
+| Hold and Wait    | শুরুতেই সব resource একসাথে চাওয়া, অথবা নতুন চাওয়ার আগে সব ছেড়ে দেওয়া |
+| No Preemption    | Resource না পেলে আগেরগুলো ছেড়ে দেওয়া, OS জোর করে নিতে পারা             |
+| Circular Wait    | Resource-এর ক্রম নির্ধারণ করা, process শুধু ক্রম অনুযায়ী চাইবে          |
 
 **Avoidance:** OS আগে থেকে জানে প্রতিটি process সর্বোচ্চ কত resource চাইবে। প্রতিটি request আসার সময় দেখে system **Safe State**-এ থাকবে কি না। থাকলে দেয়, না থাকলে অপেক্ষা করায়। উদাহরণ: **Banker's Algorithm** (প্রশ্ন ০২)।
 
@@ -74,14 +71,14 @@
 
 ## ৩. Prevention vs Avoidance
 
-| বিষয় | Deadlock Prevention | Deadlock Avoidance |
-|---|---|---|
-| মূল ধারণা | ৪টি condition-এর অন্তত ১টি গঠনগতভাবে ভেঙে দেওয়া | প্রতি request-এ Safe State যাচাই করে resource দেওয়া |
-| আগাম তথ্য | লাগে না | প্রতিটি process-এর সর্বোচ্চ চাহিদা (Max need) জানতে হয় |
-| Resource utilization | কম | তুলনামূলক ভালো |
-| Overhead | নকশায় বাধা, runtime overhead কম | প্রতি request-এ হিসাব, তাই বেশি |
-| Process-এর স্বাধীনতা | সীমিত | বেশি |
-| উদাহরণ | Resource ordering, সব resource একসাথে চাওয়া | Banker's Algorithm |
+| বিষয়                | Deadlock Prevention                              | Deadlock Avoidance                                      |
+| -------------------- | ------------------------------------------------ | ------------------------------------------------------- |
+| মূল ধারণা            | ৪টি condition-এর অন্তত ১টি গঠনগতভাবে ভেঙে দেওয়া | প্রতি request-এ Safe State যাচাই করে resource দেওয়া    |
+| আগাম তথ্য            | লাগে না                                          | প্রতিটি process-এর সর্বোচ্চ চাহিদা (Max need) জানতে হয় |
+| Resource utilization | কম                                               | তুলনামূলক ভালো                                          |
+| Overhead             | নকশায় বাধা, runtime overhead কম                 | প্রতি request-এ হিসাব, তাই বেশি                         |
+| Process-এর স্বাধীনতা | সীমিত                                            | বেশি                                                    |
+| উদাহরণ               | Resource ordering, সব resource একসাথে চাওয়া     | Banker's Algorithm                                      |
 
 > অন্য দুটি পদ্ধতি: **Detection and Recovery** (Deadlock হতে দিয়ে খুঁজে বের করে সারানো) এবং **Ignorance / Ostrich Algorithm** (উপেক্ষা করা, Windows/Linux সাধারণ ক্ষেত্রে এটাই করে)।
 
@@ -101,12 +98,12 @@
 
 **ব্যবহৃত data structure** (n টি process, m ধরনের resource):
 
-| নাম | অর্থ |
-|---|---|
-| **Available** | বর্তমানে ফাঁকা resource-এর সংখ্যা |
-| **Max** | প্রতিটি process সর্বোচ্চ যত চাইতে পারে |
-| **Allocation** | এখন যার কাছে যত আছে |
-| **Need** | আরও যত লাগবে: **Need = Max − Allocation** |
+| নাম            | অর্থ                                      |
+| -------------- | ----------------------------------------- |
+| **Available**  | বর্তমানে ফাঁকা resource-এর সংখ্যা         |
+| **Max**        | প্রতিটি process সর্বোচ্চ যত চাইতে পারে    |
+| **Allocation** | এখন যার কাছে যত আছে                       |
+| **Need**       | আরও যত লাগবে: **Need = Max − Allocation** |
 
 **Safety Algorithm (ধাপ):**
 
@@ -120,26 +117,26 @@
 ৫টি process (P0–P4), তিন ধরনের resource A, B, C (মোট A = 10, B = 5, C = 7)। **Available = (3, 3, 2)**
 
 | Process | Allocation (A B C) | Max (A B C) | Need = Max − Allocation |
-|---|---|---|---|
-| P0 | 0 1 0 | 7 5 3 | 7 4 3 |
-| P1 | 2 0 0 | 3 2 2 | 1 2 2 |
-| P2 | 3 0 2 | 9 0 2 | 6 0 0 |
-| P3 | 2 1 1 | 2 2 2 | 0 1 1 |
-| P4 | 0 0 2 | 4 3 3 | 4 3 1 |
+| ------- | ------------------ | ----------- | ----------------------- |
+| P0      | 0 1 0              | 7 5 3       | 7 4 3                   |
+| P1      | 2 0 0              | 3 2 2       | 1 2 2                   |
+| P2      | 3 0 2              | 9 0 2       | 6 0 0                   |
+| P3      | 2 1 1              | 2 2 2       | 0 1 1                   |
+| P4      | 0 0 2              | 4 3 3       | 4 3 1                   |
 
 (যাচাই: Allocation-এর যোগফল A = 7, B = 2, C = 5; সাথে Available যোগ করলে 10, 5, 7 হয়, তাই data সঙ্গতিপূর্ণ।)
 
 **ধাপে ধাপে Safety Check** (P0 থেকে ক্রমানুসারে খোঁজা হয়েছে):
 
-| ধাপ | Work (শুরুতে) | কোন process? | কেন? | Work (পরে) |
-|---|---|---|---|---|
-| ১ | 3 3 2 | P0? না | Need 7 4 3 > Work | |
-| | | **P1** | Need 1 2 2 ≤ 3 3 2 ✔ | 3 3 2 + 2 0 0 = **5 3 2** |
-| ২ | 5 3 2 | P2? না | Need 6 0 0 > 5 | |
-| | | **P3** | Need 0 1 1 ≤ 5 3 2 ✔ | 5 3 2 + 2 1 1 = **7 4 3** |
-| ৩ | 7 4 3 | **P0** | Need 7 4 3 ≤ 7 4 3 ✔ | 7 4 3 + 0 1 0 = **7 5 3** |
-| ৪ | 7 5 3 | **P2** | Need 6 0 0 ≤ 7 5 3 ✔ | 7 5 3 + 3 0 2 = **10 5 5** |
-| ৫ | 10 5 5 | **P4** | Need 4 3 1 ≤ 10 5 5 ✔ | 10 5 5 + 0 0 2 = **10 5 7** |
+| ধাপ | Work (শুরুতে) | কোন process? | কেন?                  | Work (পরে)                  |
+| --- | ------------- | ------------ | --------------------- | --------------------------- |
+| ১   | 3 3 2         | P0? না       | Need 7 4 3 > Work     |                             |
+|     |               | **P1**       | Need 1 2 2 ≤ 3 3 2 ✔  | 3 3 2 + 2 0 0 = **5 3 2**   |
+| ২   | 5 3 2         | P2? না       | Need 6 0 0 > 5        |                             |
+|     |               | **P3**       | Need 0 1 1 ≤ 5 3 2 ✔  | 5 3 2 + 2 1 1 = **7 4 3**   |
+| ৩   | 7 4 3         | **P0**       | Need 7 4 3 ≤ 7 4 3 ✔  | 7 4 3 + 0 1 0 = **7 5 3**   |
+| ৪   | 7 5 3         | **P2**       | Need 6 0 0 ≤ 7 5 3 ✔  | 7 5 3 + 3 0 2 = **10 5 5**  |
+| ৫   | 10 5 5        | **P4**       | Need 4 3 1 ≤ 10 5 5 ✔ | 10 5 5 + 0 0 2 = **10 5 7** |
 
 **ফল:** সব process শেষ হয়েছে, তাই system **Safe**। **Safe Sequence = ⟨P1, P3, P0, P2, P4⟩**। শেষে Work = (10, 5, 7), যা মোট resource-এর সমান। এটি সঠিক হওয়ার একটি ভালো যাচাই।
 
@@ -176,14 +173,14 @@
 
 একই program থেকে একাধিক process চলতে পারে (যেমন Chrome-এর অনেক tab/window)।
 
-| বিষয় | Program | Process |
-|---|---|---|
-| প্রকৃতি | Passive (নিষ্ক্রিয়) | Active (সক্রিয়) |
-| অবস্থান | Secondary storage (disk) | Main memory (RAM) |
-| জীবনকাল | দীর্ঘ, মুছে না ফেলা পর্যন্ত | সীমিত, শুরু থেকে শেষ পর্যন্ত |
-| Resource | কিছু লাগে না | CPU, memory, I/O লাগে |
-| Program Counter / PCB | নেই | আছে |
-| উদাহরণ | `notepad.exe` ফাইল | চালু থাকা Notepad |
+| বিষয়                 | Program                     | Process                      |
+| --------------------- | --------------------------- | ---------------------------- |
+| প্রকৃতি               | Passive (নিষ্ক্রিয়)        | Active (সক্রিয়)             |
+| অবস্থান               | Secondary storage (disk)    | Main memory (RAM)            |
+| জীবনকাল               | দীর্ঘ, মুছে না ফেলা পর্যন্ত | সীমিত, শুরু থেকে শেষ পর্যন্ত |
+| Resource              | কিছু লাগে না                | CPU, memory, I/O লাগে        |
+| Program Counter / PCB | নেই                         | আছে                          |
+| উদাহরণ                | `notepad.exe` ফাইল          | চালু থাকা Notepad            |
 
 **Process-এর memory layout:** Text (code), Data (global variable), Heap (dynamic memory), Stack (function call, local variable)।
 
@@ -201,14 +198,14 @@
                        + I/O or event completion ---- [WAITING]
 ```
 
-| Transition | কখন হয় |
-|---|---|
-| New → Ready | Process তৈরি হয়ে OS তাকে গ্রহণ করল (**admitted**) |
-| Ready → Running | Scheduler CPU দিল (**dispatch**) |
-| Running → Ready | Time quantum শেষ বা higher priority process এলে (**interrupt**) |
-| Running → Waiting | I/O বা কোনো event-এর জন্য অপেক্ষা |
-| Waiting → Ready | I/O বা event সম্পন্ন হলো |
-| Running → Terminated | Process শেষ হলো (**exit**) |
+| Transition           | কখন হয়                                                         |
+| -------------------- | --------------------------------------------------------------- |
+| New → Ready          | Process তৈরি হয়ে OS তাকে গ্রহণ করল (**admitted**)              |
+| Ready → Running      | Scheduler CPU দিল (**dispatch**)                                |
+| Running → Ready      | Time quantum শেষ বা higher priority process এলে (**interrupt**) |
+| Running → Waiting    | I/O বা কোনো event-এর জন্য অপেক্ষা                               |
+| Waiting → Ready      | I/O বা event সম্পন্ন হলো                                        |
+| Running → Terminated | Process শেষ হলো (**exit**)                                      |
 
 ## ৩. পরীক্ষায় যেভাবে লিখবেন
 
@@ -242,15 +239,15 @@
 
 ## ২. Page Fault Sequence (ধাপে ধাপে)
 
-| ধাপ | ঘটনা |
-|---|---|
-| ১ | CPU একটি logical address তৈরি করে; MMU **page table** দেখে |
-| ২ | Page-এর **valid bit = 0** (invalid) পেলে OS-এ **page fault trap** যায় |
-| ৩ | OS যাচাই করে reference বৈধ কি না। অবৈধ (illegal) হলে process terminate; বৈধ কিন্তু RAM-এ নেই হলে এগোয় |
-| ৪ | একটি **free frame** খোঁজে। না পেলে **page replacement** (FIFO/LRU/Optimal) দিয়ে একটি victim page সরায় |
-| ৫ | Disk থেকে প্রয়োজনীয় page ওই frame-এ **load** করা হয় (এই সময় CPU অন্য process পায়) |
-| ৬ | **Page table update**: frame number বসে, valid bit = 1 |
-| ৭ | বাধাপ্রাপ্ত instruction **আবার শুরু** (restart) হয় |
+| ধাপ | ঘটনা                                                                                                    |
+| --- | ------------------------------------------------------------------------------------------------------- |
+| ১   | CPU একটি logical address তৈরি করে; MMU **page table** দেখে                                              |
+| ২   | Page-এর **valid bit = 0** (invalid) পেলে OS-এ **page fault trap** যায়                                  |
+| ৩   | OS যাচাই করে reference বৈধ কি না। অবৈধ (illegal) হলে process terminate; বৈধ কিন্তু RAM-এ নেই হলে এগোয়  |
+| ৪   | একটি **free frame** খোঁজে। না পেলে **page replacement** (FIFO/LRU/Optimal) দিয়ে একটি victim page সরায় |
+| ৫   | Disk থেকে প্রয়োজনীয় page ওই frame-এ **load** করা হয় (এই সময় CPU অন্য process পায়)                  |
+| ৬   | **Page table update**: frame number বসে, valid bit = 1                                                  |
+| ৭   | বাধাপ্রাপ্ত instruction **আবার শুরু** (restart) হয়                                                     |
 
 **Effective Access Time (EAT)**, অতিরিক্ত জানার জন্য:
 
@@ -283,13 +280,13 @@ Page fault-এর হার সামান্য হলেও গতি বহ�
 
 ## ২. হিসাব
 
-| ধাপ | হিসাব | ফল |
-|---|---|---|
-| Swap space কত? | 24 − 8 | **16 GB** |
-| Demand কি সীমার মধ্যে? | 14 GB ≤ 24 GB | **হ্যাঁ, চলবে** |
-| সর্বোচ্চ কতটা RAM-এ থাকতে পারে? | min(14, 8) | **8 GB** |
-| বাকিটা কোথায়? | 14 − 8 | **6 GB, Swap-এ (disk)** |
-| Virtual memory-র ফাঁকা অংশ | 24 − 14 | **10 GB** |
+| ধাপ                             | হিসাব         | ফল                      |
+| ------------------------------- | ------------- | ----------------------- |
+| Swap space কত?                  | 24 − 8        | **16 GB**               |
+| Demand কি সীমার মধ্যে?          | 14 GB ≤ 24 GB | **হ্যাঁ, চলবে**         |
+| সর্বোচ্চ কতটা RAM-এ থাকতে পারে? | min(14, 8)    | **8 GB**                |
+| বাকিটা কোথায়?                  | 14 − 8        | **6 GB, Swap-এ (disk)** |
+| Virtual memory-র ফাঁকা অংশ      | 24 − 14       | **10 GB**               |
 
 **উত্তর:** Demand 14 GB হলেও virtual memory 24 GB, তাই সব process চলবে। কোনো মুহূর্তে সর্বোচ্চ 8 GB RAM-এ থাকবে, বাকি 6 GB disk-এ। দরকার হলে **Page Fault**-এর মাধ্যমে pages RAM ও disk-এর মধ্যে অদলবদল (swap in/out) হবে।
 
@@ -332,22 +329,22 @@ Page fault-এর হার সামান্য হলেও গতি বহ�
 - **Non-preemptive:** CPU একবার পেলে process নিজে শেষ না হওয়া বা block না হওয়া পর্যন্ত চলে। নতুন higher-priority process এলে শুধু ready queue-র সামনে বসে অপেক্ষা করে।
 - **Preemptive:** নতুন process-এর priority চলমান process-এর চেয়ে বেশি হলে OS চলমান process-এর কাছ থেকে CPU কেড়ে নেয়।
 
-| বিষয় | Non-preemptive | Preemptive |
-|---|---|---|
-| CPU কেড়ে নেওয়া যায়? | না | হ্যাঁ |
-| সিদ্ধান্ত নেওয়ার সময় | শুধু process শেষ বা block হলে | নতুন process আসা বা time শেষ হলে |
-| High-priority process-এর response | ধীর (অপেক্ষা করতে হয়) | দ্রুত |
-| Context switch ও overhead | কম | বেশি |
-| Starvation | সম্ভব | সম্ভব |
-| সমাধান | **Aging** (অপেক্ষার সাথে priority বাড়ানো) | **Aging** |
+| বিষয়                             | Non-preemptive                             | Preemptive                       |
+| --------------------------------- | ------------------------------------------ | -------------------------------- |
+| CPU কেড়ে নেওয়া যায়?            | না                                         | হ্যাঁ                            |
+| সিদ্ধান্ত নেওয়ার সময়            | শুধু process শেষ বা block হলে              | নতুন process আসা বা time শেষ হলে |
+| High-priority process-এর response | ধীর (অপেক্ষা করতে হয়)                     | দ্রুত                            |
+| Context switch ও overhead         | কম                                         | বেশি                             |
+| Starvation                        | সম্ভব                                      | সম্ভব                            |
+| সমাধান                            | **Aging** (অপেক্ষার সাথে priority বাড়ানো) | **Aging**                        |
 
 ## ২. ছোট উদাহরণ
 
 | Process | Arrival | Burst | Priority |
-|---|---|---|---|
-| P1 | 0 | 8 | 3 |
-| P2 | 1 | 4 | 1 |
-| P3 | 2 | 2 | 2 |
+| ------- | ------- | ----- | -------- |
+| P1      | 0       | 8     | 3        |
+| P2      | 1       | 4     | 1        |
+| P3      | 2       | 2     | 2        |
 
 **Non-preemptive:**
 
@@ -359,11 +356,11 @@ Page fault-এর হার সামান্য হলেও গতি বহ�
 P1 শুরু করেছে, তাই 8 পর্যন্ত চলবে। তারপর P2 (priority 1), শেষে P3।
 
 | Process | Completion | Turnaround = CT − AT | Waiting = TAT − BT |
-|---|---|---|---|
-| P1 | 8 | 8 | 0 |
-| P2 | 12 | 11 | 7 |
-| P3 | 14 | 12 | 10 |
-| **গড়** | | **10.33** | **5.67** |
+| ------- | ---------- | -------------------- | ------------------ |
+| P1      | 8          | 8                    | 0                  |
+| P2      | 12         | 11                   | 7                  |
+| P3      | 14         | 12                   | 10                 |
+| **গড়** |            | **10.33**            | **5.67**           |
 
 **Preemptive:**
 
@@ -374,12 +371,12 @@ P1 শুরু করেছে, তাই 8 পর্যন্ত চলবে�
 
 Time 1-এ P2 (priority 1) এসে P1-কে থামিয়ে দিল। P2 শেষ হলে (5) ready-তে P1 ও P3; P3-এর priority বেশি তাই সে আগে। শেষে P1 বাকি 7 unit শেষ করে।
 
-| Process | Completion | Turnaround | Waiting |
-|---|---|---|---|
-| P1 | 14 | 14 | 6 |
-| P2 | 5 | 4 | 0 |
-| P3 | 7 | 5 | 3 |
-| **গড়** | | **7.67** | **3.00** |
+| Process | Completion | Turnaround | Waiting  |
+| ------- | ---------- | ---------- | -------- |
+| P1      | 14         | 14         | 6        |
+| P2      | 5          | 4          | 0        |
+| P3      | 7          | 5          | 3        |
+| **গড়** |            | **7.67**   | **3.00** |
 
 ## ৩. পরীক্ষায় যেভাবে লিখবেন
 
@@ -397,53 +394,53 @@ Time 1-এ P2 (priority 1) এসে P1-কে থামিয়ে দিল�
 
 **Thread** হলো process-এর ভেতরের সবচেয়ে ছোট execution unit (lightweight process)।
 
-| বিষয় | Process | Thread |
-|---|---|---|
-| সংজ্ঞা | চলমান program | Process-এর ভেতরের execution unit |
-| Memory | আলাদা address space | একই process-এর code, data, heap শেয়ার করে (stack আলাদা) |
-| তৈরি / switch-এর খরচ | বেশি (heavyweight) | কম (lightweight) |
-| যোগাযোগ | IPC লাগে (pipe, message) | সরাসরি shared memory দিয়ে সহজে |
-| একটি ব্যর্থ হলে | অন্য process-এ প্রভাব নেই | পুরো process-এ প্রভাব পড়তে পারে |
+| বিষয়                | Process                   | Thread                                                   |
+| -------------------- | ------------------------- | -------------------------------------------------------- |
+| সংজ্ঞা               | চলমান program             | Process-এর ভেতরের execution unit                         |
+| Memory               | আলাদা address space       | একই process-এর code, data, heap শেয়ার করে (stack আলাদা) |
+| তৈরি / switch-এর খরচ | বেশি (heavyweight)        | কম (lightweight)                                         |
+| যোগাযোগ              | IPC লাগে (pipe, message)  | সরাসরি shared memory দিয়ে সহজে                          |
+| একটি ব্যর্থ হলে      | অন্য process-এ প্রভাব নেই | পুরো process-এ প্রভাব পড়তে পারে                         |
 
 ## (খ) Paging vs Segmentation
 
-| বিষয় | Paging | Segmentation |
-|---|---|---|
-| ভাগ | **সমান মাপের** page (fixed size) | **অসমান মাপের** segment (logical অংশ: code, stack, data) |
-| ভাগ করে | OS / hardware | Programmer / compiler (logical view) |
-| Fragmentation | **Internal** fragmentation | **External** fragmentation |
-| Table | Page Table | Segment Table (base, limit) |
-| Address | page number + offset | segment number + offset |
-| User view | user-এর কাছে অদৃশ্য | user-এর logical view-এর সাথে মেলে |
+| বিষয়         | Paging                           | Segmentation                                             |
+| ------------- | -------------------------------- | -------------------------------------------------------- |
+| ভাগ           | **সমান মাপের** page (fixed size) | **অসমান মাপের** segment (logical অংশ: code, stack, data) |
+| ভাগ করে       | OS / hardware                    | Programmer / compiler (logical view)                     |
+| Fragmentation | **Internal** fragmentation       | **External** fragmentation                               |
+| Table         | Page Table                       | Segment Table (base, limit)                              |
+| Address       | page number + offset             | segment number + offset                                  |
+| User view     | user-এর কাছে অদৃশ্য              | user-এর logical view-এর সাথে মেলে                        |
 
 ## (গ) Virtual vs Physical Memory
 
-| বিষয় | Virtual Memory | Physical Memory |
-|---|---|---|
-| ধারণা | Logical, OS-এর তৈরি বড় memory | আসল RAM hardware |
-| আকার | RAM-এর চেয়ে বড় হতে পারে | RAM-এর মাপে সীমিত |
-| অবস্থান | RAM + disk (Swap) | শুধু RAM |
-| Address | Logical / virtual address | Physical address |
-| Translation | MMU ও page table দিয়ে physical-এ অনুবাদ | সরাসরি |
-| গতি | কম (disk লাগলে) | দ্রুত |
+| বিষয়       | Virtual Memory                           | Physical Memory   |
+| ----------- | ---------------------------------------- | ----------------- |
+| ধারণা       | Logical, OS-এর তৈরি বড় memory           | আসল RAM hardware  |
+| আকার        | RAM-এর চেয়ে বড় হতে পারে                | RAM-এর মাপে সীমিত |
+| অবস্থান     | RAM + disk (Swap)                        | শুধু RAM          |
+| Address     | Logical / virtual address                | Physical address  |
+| Translation | MMU ও page table দিয়ে physical-এ অনুবাদ | সরাসরি            |
+| গতি         | কম (disk লাগলে)                          | দ্রুত             |
 
 ## (ঘ) Deadlock vs Starvation
 
-| বিষয় | Deadlock | Starvation |
-|---|---|---|
-| অবস্থা | একদল process পরস্পরের জন্য চিরকাল অপেক্ষা করে | কোনো process অনির্দিষ্টকাল resource/CPU পায় না |
-| কারণ | ৪টি condition একসাথে (M-H-N-C) | Low priority-কে বারবার এড়িয়ে যাওয়া |
-| অন্য process | সংশ্লিষ্ট সব process আটকে যায় | অন্যরা স্বাভাবিক চলে |
-| সমাধান | Prevention, Avoidance, Detection | **Aging** |
+| বিষয়        | Deadlock                                      | Starvation                                      |
+| ------------ | --------------------------------------------- | ----------------------------------------------- |
+| অবস্থা       | একদল process পরস্পরের জন্য চিরকাল অপেক্ষা করে | কোনো process অনির্দিষ্টকাল resource/CPU পায় না |
+| কারণ         | ৪টি condition একসাথে (M-H-N-C)                | Low priority-কে বারবার এড়িয়ে যাওয়া           |
+| অন্য process | সংশ্লিষ্ট সব process আটকে যায়                | অন্যরা স্বাভাবিক চলে                            |
+| সমাধান       | Prevention, Avoidance, Detection              | **Aging**                                       |
 
 ## (ঙ) Multiprogramming vs Multitasking
 
-| বিষয় | Multiprogramming | Multitasking |
-|---|---|---|
-| লক্ষ্য | CPU যেন কখনো idle না থাকে | ব্যবহারকারীর কাছে সবকিছু একসাথে চলার অনুভূতি |
-| Switch কখন | কোনো job I/O-তে গেলে | Time slice (time sharing) শেষ হলে |
-| Response time | বেশি | কম |
-| মূল ধারণা | একাধিক job memory-তে | CPU time ভাগ করা (**time sharing**) |
+| বিষয়         | Multiprogramming          | Multitasking                                 |
+| ------------- | ------------------------- | -------------------------------------------- |
+| লক্ষ্য        | CPU যেন কখনো idle না থাকে | ব্যবহারকারীর কাছে সবকিছু একসাথে চলার অনুভূতি |
+| Switch কখন    | কোনো job I/O-তে গেলে      | Time slice (time sharing) শেষ হলে            |
+| Response time | বেশি                      | কম                                           |
+| মূল ধারণা     | একাধিক job memory-তে      | CPU time ভাগ করা (**time sharing**)          |
 
 ## (চ) Context Switching
 
@@ -481,20 +478,20 @@ CPU এক process থেকে আরেক process-এ গেলে পুর�
 - **Waiting Time (WT) = TAT − Burst Time (BT)**
 - গড় = সব process-এর যোগফল ÷ process সংখ্যা
 
-| Algorithm | নিয়ম | Preemptive? |
-|---|---|---|
-| **FCFS** | যে আগে এসেছে সে আগে CPU পায় | না |
-| **SJF** | সবচেয়ে ছোট Burst Time আগে | Non-preemptive ধরা হলো (preemptive রূপ = SRTF) |
-| **Priority** | সবচেয়ে বেশি priority আগে (ছোট সংখ্যা = বেশি priority) | এখানে **Preemptive** |
+| Algorithm    | নিয়ম                                                  | Preemptive?                                    |
+| ------------ | ------------------------------------------------------ | ---------------------------------------------- |
+| **FCFS**     | যে আগে এসেছে সে আগে CPU পায়                           | না                                             |
+| **SJF**      | সবচেয়ে ছোট Burst Time আগে                             | Non-preemptive ধরা হলো (preemptive রূপ = SRTF) |
+| **Priority** | সবচেয়ে বেশি priority আগে (ছোট সংখ্যা = বেশি priority) | এখানে **Preemptive**                           |
 
 ## ২. উদাহরণ ও সমাধান
 
 | Process | Arrival (AT) | Burst (BT) | Priority |
-|---|---|---|---|
-| P1 | 0 | 5 | 2 |
-| P2 | 1 | 3 | 1 |
-| P3 | 2 | 8 | 4 |
-| P4 | 3 | 6 | 3 |
+| ------- | ------------ | ---------- | -------- |
+| P1      | 0            | 5          | 2        |
+| P2      | 1            | 3          | 1        |
+| P3      | 2            | 8          | 4        |
+| P4      | 3            | 6          | 3        |
 
 ### (ক) FCFS
 
@@ -505,13 +502,13 @@ CPU এক process থেকে আরেক process-এ গেলে পুর�
 
 Arrival-এর ক্রম P1, P2, P3, P4।
 
-| Process | CT | TAT | WT |
-|---|---|---|---|
-| P1 | 5 | 5 | 0 |
-| P2 | 8 | 7 | 4 |
-| P3 | 16 | 14 | 6 |
-| P4 | 22 | 19 | 13 |
-| **গড়** | | **11.25** | **5.75** |
+| Process | CT  | TAT       | WT       |
+| ------- | --- | --------- | -------- |
+| P1      | 5   | 5         | 0        |
+| P2      | 8   | 7         | 4        |
+| P3      | 16  | 14        | 6        |
+| P4      | 22  | 19        | 13       |
+| **গড়** |     | **11.25** | **5.75** |
 
 ### (খ) SJF (Non-preemptive)
 
@@ -522,13 +519,13 @@ Arrival-এর ক্রম P1, P2, P3, P4।
 
 Time 0-তে শুধু P1 আছে, তাই সে শুরু করে (5 পর্যন্ত)। 5-এ ready: P2 (3), P3 (8), P4 (6)। ছোট burst আগে: P2, তারপর P4, শেষে P3।
 
-| Process | CT | TAT | WT |
-|---|---|---|---|
-| P1 | 5 | 5 | 0 |
-| P2 | 8 | 7 | 4 |
-| P3 | 22 | 20 | 12 |
-| P4 | 14 | 11 | 5 |
-| **গড়** | | **10.75** | **5.25** |
+| Process | CT  | TAT       | WT       |
+| ------- | --- | --------- | -------- |
+| P1      | 5   | 5         | 0        |
+| P2      | 8   | 7         | 4        |
+| P3      | 22  | 20        | 12       |
+| P4      | 14  | 11        | 5        |
+| **গড়** |     | **10.75** | **5.25** |
 
 ### (গ) Preemptive Priority
 
@@ -542,21 +539,21 @@ Time 0-তে শুধু P1 আছে, তাই সে শুরু করে
 - Time 4: ready-তে P1 (বাকি 4, priority 2), P3 (4), P4 (3)। P1-এর priority বেশি, তাই P1 আবার 4–8 চলে।
 - Time 8: P4 (priority 3) 8–14, শেষে P3 14–22।
 
-| Process | CT | TAT | WT |
-|---|---|---|---|
-| P1 | 8 | 8 | 3 |
-| P2 | 4 | 3 | 0 |
-| P3 | 22 | 20 | 12 |
-| P4 | 14 | 11 | 5 |
-| **গড়** | | **10.50** | **5.00** |
+| Process | CT  | TAT       | WT       |
+| ------- | --- | --------- | -------- |
+| P1      | 8   | 8         | 3        |
+| P2      | 4   | 3         | 0        |
+| P3      | 22  | 20        | 12       |
+| P4      | 14  | 11        | 5        |
+| **গড়** |     | **10.50** | **5.00** |
 
 ### তুলনা
 
-| Algorithm | গড় TAT | গড় WT |
-|---|---|---|
-| FCFS | 11.25 | 5.75 |
-| SJF | 10.75 | 5.25 |
-| Preemptive Priority | 10.50 | 5.00 |
+| Algorithm           | গড় TAT | গড় WT |
+| ------------------- | ------- | ------ |
+| FCFS                | 11.25   | 5.75   |
+| SJF                 | 10.75   | 5.25   |
+| Preemptive Priority | 10.50   | 5.00   |
 
 SJF সাধারণত সর্বনিম্ন গড় waiting time দেয়, তবে এই data-তে priority-র ক্রম SJF-এর কাছাকাছি হওয়ায় ফল সামান্য ভালো এসেছে। দীর্ঘ job-এর **starvation** SJF ও Priority দুটিতেই হতে পারে।
 
@@ -589,13 +586,13 @@ SJF সাধারণত সর্বনিম্ন গড় waiting time দ
 
 ## ২. হিসাব
 
-| ধাপ | হিসাব | ফল |
-|---|---|---|
-| Page number bit | 512 = 2^9 | **9 bit** |
-| Offset bit | 2 KB = 2^11 byte | **11 bit** |
-| **Logical address bit** | 9 + 11 | **20 bit** |
-| Frame number bit | 128 = 2^7 | **7 bit** |
-| **Physical address bit** | 7 + 11 | **18 bit** |
+| ধাপ                      | হিসাব            | ফল         |
+| ------------------------ | ---------------- | ---------- |
+| Page number bit          | 512 = 2^9        | **9 bit**  |
+| Offset bit               | 2 KB = 2^11 byte | **11 bit** |
+| **Logical address bit**  | 9 + 11           | **20 bit** |
+| Frame number bit         | 128 = 2^7        | **7 bit**  |
+| **Physical address bit** | 7 + 11           | **18 bit** |
 
 **যাচাই:**
 
@@ -631,50 +628,50 @@ Physical (18 bit):  | Frame No (7 bit) | Offset (11 bit) |
 -rwxr-xr--  1  user  group  1024  Nov 17  file.txt
 ```
 
-| অংশ | অর্থ |
-|---|---|
-| প্রথম অক্ষর | ধরন: `-` = file, `d` = directory, `l` = link |
-| পরের ৩টি (rwx) | **User (u)** — মালিক |
-| মাঝের ৩টি (r-x) | **Group (g)** |
-| শেষ ৩টি (r--) | **Others (o)** — বাকি সবাই |
+| অংশ             | অর্থ                                         |
+| --------------- | -------------------------------------------- |
+| প্রথম অক্ষর     | ধরন: `-` = file, `d` = directory, `l` = link |
+| পরের ৩টি (rwx)  | **User (u)** — মালিক                         |
+| মাঝের ৩টি (r-x) | **Group (g)**                                |
+| শেষ ৩টি (r--)   | **Others (o)** — বাকি সবাই                   |
 
 **Permission-এর মান:** **r = 4, w = 2, x = 1**, `-` = 0।
 
-| সংখ্যা | সংমিশ্রণ | অর্থ |
-|---|---|---|
-| 7 | rwx (4+2+1) | পড়া, লেখা, চালানো |
-| 6 | rw- (4+2) | পড়া, লেখা |
-| 5 | r-x (4+1) | পড়া, চালানো |
-| 4 | r-- | শুধু পড়া |
-| 0 | --- | কিছুই না |
+| সংখ্যা | সংমিশ্রণ    | অর্থ               |
+| ------ | ----------- | ------------------ |
+| 7      | rwx (4+2+1) | পড়া, লেখা, চালানো |
+| 6      | rw- (4+2)   | পড়া, লেখা         |
+| 5      | r-x (4+1)   | পড়া, চালানো       |
+| 4      | r--         | শুধু পড়া          |
+| 0      | ---         | কিছুই না           |
 
 **File ও Directory-তে অর্থ:**
 
-| Permission | File | Directory |
-|---|---|---|
-| r | পড়া | ভেতরের তালিকা দেখা (`ls`) |
-| w | বদলানো | ফাইল তৈরি/মোছা |
-| x | চালানো (execute) | ভেতরে ঢোকা (`cd`) |
+| Permission | File             | Directory                 |
+| ---------- | ---------------- | ------------------------- |
+| r          | পড়া             | ভেতরের তালিকা দেখা (`ls`) |
+| w          | বদলানো           | ফাইল তৈরি/মোছা            |
+| x          | চালানো (execute) | ভেতরে ঢোকা (`cd`)         |
 
 **chmod:** permission বদলানোর command।
 
 **(ক) Numeric মোড**
 
-| Command | ফল | ব্যবহার |
-|---|---|---|
+| Command          | ফল        | ব্যবহার                                               |
+| ---------------- | --------- | ----------------------------------------------------- |
 | `chmod 755 file` | rwxr-xr-x | script/program (মালিক সব পারে, অন্যরা পড়তে ও চালাতে) |
-| `chmod 644 file` | rw-r--r-- | সাধারণ file |
-| `chmod 600 file` | rw------- | ব্যক্তিগত file (শুধু মালিক) |
-| `chmod 777 file` | rwxrwxrwx | সবার সব অনুমতি (ঝুঁকিপূর্ণ, এড়িয়ে চলুন) |
+| `chmod 644 file` | rw-r--r-- | সাধারণ file                                           |
+| `chmod 600 file` | rw------- | ব্যক্তিগত file (শুধু মালিক)                           |
+| `chmod 777 file` | rwxrwxrwx | সবার সব অনুমতি (ঝুঁকিপূর্ণ, এড়িয়ে চলুন)             |
 
 **(খ) Symbolic মোড** (u, g, o, a = সবাই; `+` যোগ, `-` বাদ, `=` নির্দিষ্ট করা)
 
-| Command | অর্থ |
-|---|---|
-| `chmod u+x file` | মালিককে execute দেওয়া |
-| `chmod go-w file` | group ও others থেকে write সরানো |
-| `chmod a+r file` | সবাইকে read দেওয়া |
-| `chmod u=rwx,go=rx file` | = 755 |
+| Command                  | অর্থ                            |
+| ------------------------ | ------------------------------- |
+| `chmod u+x file`         | মালিককে execute দেওয়া          |
+| `chmod go-w file`        | group ও others থেকে write সরানো |
+| `chmod a+r file`         | সবাইকে read দেওয়া              |
+| `chmod u=rwx,go=rx file` | = 755                           |
 
 **সম্পর্কিত:** `chown user:group file` (মালিক বদলানো), `umask 022` (নতুন file-এ ডিফল্ট: file 666 − 022 = **644**, directory 777 − 022 = **755**)।
 
@@ -698,12 +695,12 @@ Linux command লিখুন: (১) `student.txt` নামে একটি খ
 
 ## ২. উত্তর
 
-| ধাপ | Command | কী করে |
-|---|---|---|
-| ১ | `touch student.txt` | খালি file তৈরি |
-| ২ | `mv student.txt student_info.txt` | নাম বদল (rename) |
-| ৩ | `mkdir CSE` | directory তৈরি |
-| ৪ | `cd CSE` | directory-তে ঢোকা |
+| ধাপ | Command                           | কী করে            |
+| --- | --------------------------------- | ----------------- |
+| ১   | `touch student.txt`               | খালি file তৈরি    |
+| ২   | `mv student.txt student_info.txt` | নাম বদল (rename)  |
+| ৩   | `mkdir CSE`                       | directory তৈরি    |
+| ৪   | `cd CSE`                          | directory-তে ঢোকা |
 
 **এক লাইনে:**
 
@@ -727,16 +724,16 @@ touch student.txt && mv student.txt student_info.txt && mkdir CSE && cd CSE
 
 # দ্রুত Revision ছক (পরীক্ষার আগের রাতের জন্য)
 
-| প্রশ্ন | একনজরে মনে রাখুন |
-|---|---|
-| ০১ | Deadlock = M-H-N-C চারটি একসাথে; Prevention = ভাঙা, Avoidance = Safe State |
-| ০২ | Need = Max − Allocation; Work += Allocation; Safe Sequence একাধিক হতে পারে |
-| ০৩ | Process = active, Program = passive; ৫টি state; Waiting → Ready (সরাসরি Running নয়) |
-| ০৪ | Virtual memory = demand paging; Page fault ৭ ধাপ; অতিরিক্ত fault = Thrashing |
-| ০৫ | Swap = 24 − 8 = 16 GB; 14 GB-এর 8 RAM-এ, 6 Swap-এ |
-| ০৬ | Preemptive = CPU কেড়ে নেয়; Starvation → Aging |
-| ০৭ | তুলনা মানেই table; Paging = internal, Segmentation = external fragmentation |
-| ০৮ | TAT = CT − AT; WT = TAT − BT; Gantt-এ সীমানায় সময় |
-| ০৯ | Logical = 9 + 11 = 20 bit; Physical = 7 + 11 = 18 bit |
-| ১০ | r=4 w=2 x=1; 755, 644, 600; chmod u+x |
-| ১১ | touch → mv → mkdir → cd |
+| প্রশ্ন | একনজরে মনে রাখুন                                                                     |
+| ------ | ------------------------------------------------------------------------------------ |
+| ০১     | Deadlock = M-H-N-C চারটি একসাথে; Prevention = ভাঙা, Avoidance = Safe State           |
+| ০২     | Need = Max − Allocation; Work += Allocation; Safe Sequence একাধিক হতে পারে           |
+| ০৩     | Process = active, Program = passive; ৫টি state; Waiting → Ready (সরাসরি Running নয়) |
+| ০৪     | Virtual memory = demand paging; Page fault ৭ ধাপ; অতিরিক্ত fault = Thrashing         |
+| ০৫     | Swap = 24 − 8 = 16 GB; 14 GB-এর 8 RAM-এ, 6 Swap-এ                                    |
+| ০৬     | Preemptive = CPU কেড়ে নেয়; Starvation → Aging                                      |
+| ০৭     | তুলনা মানেই table; Paging = internal, Segmentation = external fragmentation          |
+| ০৮     | TAT = CT − AT; WT = TAT − BT; Gantt-এ সীমানায় সময়                                  |
+| ০৯     | Logical = 9 + 11 = 20 bit; Physical = 7 + 11 = 18 bit                                |
+| ১০     | r=4 w=2 x=1; 755, 644, 600; chmod u+x                                                |
+| ১১     | touch → mv → mkdir → cd                                                              |
