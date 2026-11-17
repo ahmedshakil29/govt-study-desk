@@ -113,7 +113,7 @@
 | বিষয়                | Prevention                              | Avoidance                                        |
 | ------------------- | --------------------------------------- | ------------------------------------------------ |
 | মূলনীতি             | Deadlock-এর শর্ত ভেঙে দেওয়া             | Deadlock এড়ানোর জন্য Safe State বজায় রাখা        |
-| কাজের সময়           | আগে থেকেই ব্যবস্থা নেয়                  | ধResource দেওয়ার আগে পরীক্ষা করে                 |
+| কাজের সময়           | আগে থেকেই ব্যবস্থা নেয়                  | Resource দেওয়ার আগে পরীক্ষা করে                  |
 | Resource Allocation | তুলনামূলকভাবে কঠোর                      | প্রয়োজন অনুযায়ী                                  |
 | System Information  | সর্বোচ্চ Resource চাহিদা জানা আবশ্যক নয় | Process-এর সর্বোচ্চ Resource চাহিদা জানা প্রয়োজন |
 | প্রধান পদ্ধতি       | চারটি Condition-এর একটি ভেঙে দেওয়া      | Safe State পরীক্ষা                               |
@@ -155,7 +155,20 @@
 | Process-এর স্বাধীনতা | সীমিত                                            | বেশি                                                    |
 | উদাহরণ               | Resource ordering, সব resource একসাথে চাওয়া     | Banker's Algorithm                                      |
 
-> অন্য দুটি পদ্ধতি: **Detection and Recovery** (Deadlock হতে দিয়ে খুঁজে বের করে সারানো) এবং **Ignorance / Ostrich Algorithm** (উপেক্ষা করা, Windows/Linux সাধারণ ক্ষেত্রে এটাই করে)।
+## ৪. পরীক্ষার জন্য Quick Revision
+
+- Deadlock: Processes waiting indefinitely for resources.
+- Necessary Conditions: 4টি।
+- Mutual Exclusion: One process at a time.
+- Hold and Wait: Holding one resource while waiting for another.
+- No Preemption: Resource cannot be forcibly taken.
+- Circular Wait: Circular chain of waiting processes.
+- Deadlock Prevention: Break at least one necessary condition.
+- Deadlock Avoidance: Maintain Safe State.
+- Banker's Algorithm: Deadlock Avoidance.
+- Unsafe State: Not necessarily Deadlock.
+
+  > অন্য দুটি পদ্ধতি: **Detection and Recovery** (Deadlock হতে দিয়ে খুঁজে বের করে সারানো) এবং **Ignorance / Ostrich Algorithm** (উপেক্ষা করা, Windows/Linux সাধারণ ক্ষেত্রে এটাই করে)।
 
 ## ৪. মনে রাখার কৌশল
 
