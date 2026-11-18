@@ -53,22 +53,22 @@
 
 **Deadlock** সংঘটিত হওয়ার জন্য নিচের চারটি শর্ত **একই সঙ্গে** পূরণ হতে হবে।:
 
-- ১. Mutual Exclusion
+- ১. **Mutual Exclusion:**
   একটি Resource একই সময়ে কেবল একটি Process ব্যবহার করতে পারবে।
 
 উদাহরণ: একটি Printer একই সময়ে একটি Process ব্যবহার করছে। অন্য Process-কে অপেক্ষা করতে হবে।
 
-- ২. Hold and Wait
+- ২. **Hold and Wait:**
   একটি Process তার কাছে থাকা Resource ধরে রেখে (Hold) অন্য Resource-এর জন্য অপেক্ষা করে (Wait)।
 
 উদাহরণ: P1-এর কাছে R1 আছে, কিন্তু সে R2-এর জন্য অপেক্ষা করছে।
 
-- ৩. No Preemption
+- ৩. **No Preemption:**
   কোনো Process-এর কাছ থেকে জোরপূর্বক Resource কেড়ে নেওয়া যাবে না। Process নিজে কাজ শেষ করে Resource ছেড়ে দেবে।
 
 উদাহরণ: P1-এর কাছ থেকে R1 জোর করে নিয়ে অন্য Process-কে দেওয়া যাবে না।
 
-- ৪. Circular Wait
+- ৪. **Circular Wait:**
   দুই বা ততোধিক Process একটি বৃত্তাকার অপেক্ষার (Circular Chain) মধ্যে আটকে থাকে।
 
 উদাহরণ:
